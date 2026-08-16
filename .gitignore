@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+web/dist/
+.vite/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Pipeline outputs (except sample data.json which we DO commit)
+data/cache/
+data/companies.db
+data/matches_to_review.csv
+
+# Local env
+.env
+.env.local

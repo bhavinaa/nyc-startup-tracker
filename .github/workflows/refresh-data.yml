@@ -1,0 +1,51 @@
+name: Refresh data
+
+on:
+  # Run every Monday at 07:00 UTC
+  schedule:
+    - cron: "0 7 * * 1"
+  # Allow manual triggering from the Actions tab
+  workflow_dispatch:
+
+# Give the job permission to push the updated data.json back to main
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install pipeline deps
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run pipeline
+        env:
+          # If DOL_XLSX_URL is set as a repo secret/variable, the DOL step runs.
+          # If unset, only YC data is refreshed and sponsorship stays empty.
+          # Update this each quarter — see pipeline/sources/dol.py.
+          DOL_XLSX_URL: ${{ vars.DOL_XLSX_URL }}
+        run: python -m pipeline.main
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/public/data.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "chore(data): weekly refresh $(date -u +%Y-%m-%d)"
+          git push

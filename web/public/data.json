@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-08-15T16:34:57+00:00",
+  "company_count": 8,
+  "companies": [
+    {
+      "id": "yc-ramp",
+      "name": "Ramp",
+      "slug": "ramp",
+      "one_liner": "Corporate cards and expense management software.",
+      "long_description": "",
+      "website": "https://ramp.com",
+      "yc_url": "https://www.ycombinator.com/companies/ramp",
+      "yc_batch": "Winter 2020",
+      "team_size": 800,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "RAMP INC",
+        "total_lcas": 89,
+        "h1b_count": 71,
+        "h1b1_sg_count": 8,
+        "h1b1_cl_count": 0,
+        "e3_count": 10,
+        "most_recent_date": "2025-11-14",
+        "median_wage_usd": 175000,
+        "top_titles": [
+          "Software Engineer",
+          "Senior Software Engineer",
+          "Product Designer"
+        ]
+      }
+    },
+    {
+      "id": "yc-flatiron-health",
+      "name": "Flatiron Health",
+      "slug": "flatiron-health",
+      "one_liner": "Software for oncology research and clinical care.",
+      "long_description": "",
+      "website": "https://flatiron.com",
+      "yc_url": "https://www.ycombinator.com/companies/flatiron-health",
+      "yc_batch": "Summer 2013",
+      "team_size": 900,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Healthcare",
+        "Data Science"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "FLATIRON HEALTH INC",
+        "total_lcas": 67,
+        "h1b_count": 55,
+        "h1b1_sg_count": 4,
+        "h1b1_cl_count": 1,
+        "e3_count": 7,
+        "most_recent_date": "2025-10-08",
+        "median_wage_usd": 168000,
+        "top_titles": [
+          "Software Engineer",
+          "Data Scientist",
+          "Machine Learning Engineer"
+        ]
+      }
+    },
+    {
+      "id": "yc-cedar",
+      "name": "Cedar",
+      "slug": "cedar",
+      "one_liner": "Consumer-friendly medical billing platform.",
+      "long_description": "",
+      "website": "https://cedar.com",
+      "yc_url": "https://www.ycombinator.com/companies/cedar",
+      "yc_batch": "Summer 2016",
+      "team_size": 300,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Healthcare",
+        "SaaS"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "CEDAR INC",
+        "total_lcas": 34,
+        "h1b_count": 30,
+        "h1b1_sg_count": 2,
+        "h1b1_cl_count": 0,
+        "e3_count": 2,
+        "most_recent_date": "2025-09-22",
+        "median_wage_usd": 158000,
+        "top_titles": [
+          "Software Engineer",
+          "Data Scientist",
+          "Product Manager"
+        ]
+      }
+    },
+    {
+      "id": "yc-sample-fintech-2",
+      "name": "Bigger NYC Fintech",
+      "slug": "sample-fintech-2",
+      "one_liner": "Payments infrastructure for B2B (sample entry).",
+      "long_description": "",
+      "website": "https://example.com",
+      "yc_url": "https://www.ycombinator.com/companies/sample-fintech-2",
+      "yc_batch": "Summer 2018",
+      "team_size": 250,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "B2B",
+        "SaaS"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "BIGGER NYC FINTECH INC",
+        "total_lcas": 22,
+        "h1b_count": 18,
+        "h1b1_sg_count": 3,
+        "h1b1_cl_count": 0,
+        "e3_count": 1,
+        "most_recent_date": "2025-08-15",
+        "median_wage_usd": 162000,
+        "top_titles": [
+          "Software Engineer",
+          "Backend Engineer"
+        ]
+      }
+    },
+    {
+      "id": "yc-latch",
+      "name": "Latch",
+      "slug": "latch",
+      "one_liner": "Full-building enterprise access and IoT platform.",
+      "long_description": "",
+      "website": "https://latch.com",
+      "yc_url": "https://www.ycombinator.com/companies/latch",
+      "yc_batch": "Winter 2015",
+      "team_size": 200,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Real Estate and Construction",
+        "Proptech"
+      ],
+      "tags": [
+        "Hardware",
+        "IoT",
+        "SaaS"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "LATCH INC",
+        "total_lcas": 12,
+        "h1b_count": 11,
+        "h1b1_sg_count": 1,
+        "h1b1_cl_count": 0,
+        "e3_count": 0,
+        "most_recent_date": "2024-06-30",
+        "median_wage_usd": 142000,
+        "top_titles": [
+          "Firmware Engineer",
+          "Software Engineer"
+        ]
+      }
+    },
+    {
+      "id": "yc-sample-hw",
+      "name": "Brooklyn Hardware Startup",
+      "slug": "sample-hw",
+      "one_liner": "Consumer hardware manufacturing (sample entry).",
+      "long_description": "",
+      "website": "https://example.com",
+      "yc_url": "https://www.ycombinator.com/companies/sample-hw",
+      "yc_batch": "Winter 2019",
+      "team_size": 80,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "tags": [
+        "Hardware"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "",
+      "sponsorship": {
+        "employer_name": "BROOKLYN HARDWARE STARTUP INC",
+        "total_lcas": 4,
+        "h1b_count": 4,
+        "h1b1_sg_count": 0,
+        "h1b1_cl_count": 0,
+        "e3_count": 0,
+        "most_recent_date": "2023-11-02",
+        "median_wage_usd": 135000,
+        "top_titles": [
+          "Mechanical Engineer"
+        ]
+      }
+    },
+    {
+      "id": "yc-sample-ai",
+      "name": "Newer AI Startup",
+      "slug": "sample-ai",
+      "one_liner": "AI infrastructure for developers (sample entry).",
+      "long_description": "",
+      "website": "https://example.com",
+      "yc_url": "https://www.ycombinator.com/companies/sample-ai",
+      "yc_batch": "Winter 2024",
+      "team_size": 12,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [
+        "AI",
+        "Developer Tools"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-sample-b2b",
+      "name": "Zocdoc-adjacent Startup",
+      "slug": "sample-b2b",
+      "one_liner": "B2B SaaS for medical practice management (sample entry).",
+      "long_description": "",
+      "website": "https://example.com",
+      "yc_url": "https://www.ycombinator.com/companies/sample-b2b",
+      "yc_batch": "Winter 2022",
+      "team_size": 45,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "",
+      "sponsorship": null
+    }
+  ],
+  "_note": "This is SAMPLE data. Run `python -m pipeline.main` with DOL_XLSX_URL set to generate real data."
+}
