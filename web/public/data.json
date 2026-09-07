@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T14:40:51+00:00",
-  "company_count": 742,
+  "generated_at": "2026-09-07T13:11:08+00:00",
+  "company_count": 743,
   "companies": [
     {
       "id": "yc-abacum",
@@ -308,7 +308,7 @@
       "name": "Asha Health",
       "slug": "asha-health",
       "one_liner": "We help medical practices become AI-native",
-      "long_description": "Asha Health is building the future of self-learning generative AI for healthcare.",
+      "long_description": "It's the year of AI agents for healthcare, but we're building what comes after.",
       "website": "https://asha.health",
       "yc_url": "https://www.ycombinator.com/companies/asha-health",
       "yc_batch": "Fall 2024",
@@ -788,7 +788,7 @@
       "website": "https://www.camber.health/",
       "yc_url": "https://www.ycombinator.com/companies/camber-2",
       "yc_batch": "Winter 2021",
-      "team_size": 85,
+      "team_size": 101,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -1556,59 +1556,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-crouton",
-      "name": "Crouton",
-      "slug": "crouton",
-      "one_liner": "The living map of your organization",
-      "long_description": "Crouton is the living map of your organization.\r\n\r\nIt\u2019s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
-      "website": "https://usecrouton.com",
-      "yc_url": "https://www.ycombinator.com/companies/crouton",
-      "yc_batch": "Fall 2024",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49776f5bec547c5f4a2891fe129c0428f2f4dbba.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-crowdvolt",
-      "name": "CrowdVolt",
-      "slug": "crowdvolt",
-      "one_liner": "The integration layer for live events infrastructure ",
-      "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
-      "website": "https://crowdvolt.com/",
-      "yc_url": "https://www.ycombinator.com/companies/crowdvolt",
-      "yc_batch": "Winter 2024",
-      "team_size": 12,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "tags": [
-        "Marketplace",
-        "Entertainment",
-        "Social Network",
-        "Music",
-        "Infrastructure"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
       "sponsorship": null
     },
     {
@@ -2704,31 +2651,31 @@
       "sponsorship": null
     },
     {
-      "id": "yc-heron-data",
-      "name": "Heron Data",
-      "slug": "heron-data",
-      "one_liner": "We automate document-heavy workflows in financial services and beyond",
-      "long_description": "At Heron, we use the latest advances in AI and LLMs to automate document-heavy workflows. Our software handles emails, analyzes attachments, and takes actions like updating CRMs or requesting more info. We serve businesses from small companies to FDIC-insured banks in sectors like Small Business Finance and Commercial Insurance.",
+      "id": "yc-heron",
+      "name": "Heron",
+      "slug": "heron",
+      "one_liner": "Underwriting automation for SMB finance",
+      "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
       "website": "https://www.herondata.io",
-      "yc_url": "https://www.ycombinator.com/companies/heron-data",
+      "yc_url": "https://www.ycombinator.com/companies/heron",
       "yc_batch": "Summer 2020",
       "team_size": 60,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B"
+        "Fintech"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B",
-        "AI"
+        "B2B"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7b4c6ec0a994c7922188d2be45646b8d241734b.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
       "sponsorship": null
     },
     {
@@ -2866,31 +2813,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-theinterface",
-      "name": "Interface",
-      "slug": "theinterface",
-      "one_liner": "Building onestop.sh",
-      "long_description": "We research how the world gets encoded for agents, and build the interfaces they transact through. Our latest work is OneStop \u2014 a unified market for AI.",
-      "website": "https://www.theinterface.com",
-      "yc_url": "https://www.ycombinator.com/companies/theinterface",
-      "yc_batch": "Summer 2025",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/224baaef4a1a05fbac5feaa714e3fc06663923ec.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-interfere",
       "name": "Interfere",
       "slug": "interfere",
@@ -2923,7 +2845,7 @@
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
-      "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 50K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
+      "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 80K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
       "website": "https://ironledger.ai",
       "yc_url": "https://www.ycombinator.com/companies/ironledger-ai",
       "yc_batch": "Summer 2025",
@@ -3054,7 +2976,7 @@
       "id": "yc-kilvin",
       "name": "Kilvin",
       "slug": "kilvin",
-      "one_liner": "Custom software for non-technical teams.",
+      "one_liner": "Build your own desktop",
       "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
       "website": "https://www.kilvin.ai",
       "yc_url": "https://www.ycombinator.com/companies/kilvin",
@@ -3077,7 +2999,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa78b8b96db85bb2ce800dc4eae6fc788564af.png",
       "sponsorship": null
     },
     {
@@ -3323,36 +3245,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-loula",
-      "name": "Loula",
-      "slug": "loula",
-      "one_liner": "Enabling birth & postpartum doulas to easily accept insurance.",
-      "long_description": "Loula is a software platform and national provider network for independent birth & postpartum doulas to boost their practices by accepting health insurance. Doulas typically operate outside of the traditional healthcare system and face an enormous learning curve and administrative burden when trying to accept insurance. This is why we created Loula. Starting with doulas in California, Loula handles their credentialing, contracting, and revenue cycle management so that they can focus on delivering the best quality care to their clients.",
-      "website": "https://joinloula.com",
-      "yc_url": "https://www.ycombinator.com/companies/loula",
-      "yc_batch": "Winter 2023",
-      "team_size": 7,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Healthcare Services"
-      ],
-      "tags": [
-        "Health Tech",
-        "Digital Health",
-        "Healthcare",
-        "Health Insurance",
-        "Women's Health"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb9289ab02184d3dcba8ce3089afff9258dfc183.png",
       "sponsorship": null
     },
     {
@@ -3937,11 +3829,11 @@
       "name": "OneChronos",
       "slug": "onechronos",
       "one_liner": "The Smart Market for Institutional Investors",
-      "long_description": "OneChronos is a U.S. equities ATS designed bottom-up to fundamentally address the growing gap between how trading venues match orders and how traders need to execute.",
+      "long_description": "OneChronos builds the markets where humans and AI agents transact more efficiently. We started in capital markets, where our U.S. Equity ATS is one of the fastest growing ATSs and handles a growing share of U.S. equity notional volume. But that's just the start: our mission is to build the bazaar for agentic systems, and grow the global economy along the way.",
       "website": "https://www.onechronos.com/",
       "yc_url": "https://www.ycombinator.com/companies/onechronos",
       "yc_batch": "Summer 2016",
-      "team_size": 35,
+      "team_size": 75,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -3949,15 +3841,40 @@
         "Banking and Exchange"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
-        "Marketplace",
-        "AI"
+        "Marketplace"
       ],
       "locations": [
-        "New York City, NY, USA; New York, NY, USA"
+        "New York City, NY, USA"
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/95735e616536b1a1cfcca07ddaaa04596244401a.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-onestop",
+      "name": "OneStop",
+      "slug": "onestop",
+      "one_liner": "The local internet for NYC.",
+      "long_description": "OneStop is a local classifieds network for New York City. Find and post local listings. ",
+      "website": "https://www.askonestop.com",
+      "yc_url": "https://www.ycombinator.com/companies/onestop",
+      "yc_batch": "Summer 2025",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9e554a3ff6dc01974ba5721cbfdc8ce21a2a2da.png",
       "sponsorship": null
     },
     {
@@ -4137,8 +4054,8 @@
       "id": "yc-pangolin",
       "name": "Pangolin",
       "slug": "pangolin",
-      "one_liner": "Identity-aware VPN and proxy for remote access to anything, anywhere.",
-      "long_description": "Pangolin is an open-source, identity-based remote access platform built on WireGuard that enables secure, seamless connectivity to private and public resources.",
+      "one_liner": "Open networking and security for your workforce, AI agents, and infra",
+      "long_description": "Pangolin delivers seamless access and connectivity across your apps, infrastructure, and AI workloads while continuously enforcing enterprise-grade security. Built for agile IT teams, Pangolin eliminates the friction of bloated, legacy systems with an open platform that\u2019s easier to deploy for your workforce.\r\n\r\nIt's open-source.",
       "website": "https://pangolin.net",
       "yc_url": "https://www.ycombinator.com/companies/pangolin",
       "yc_batch": "Summer 2025",
@@ -4150,6 +4067,7 @@
         "Infrastructure"
       ],
       "tags": [
+        "Security",
         "Open Source",
         "Enterprise Software",
         "Networks"
@@ -5730,7 +5648,7 @@
       "website": "https://www.getstructured.ai/",
       "yc_url": "https://www.ycombinator.com/companies/structured-ai",
       "yc_batch": "Fall 2025",
-      "team_size": 10,
+      "team_size": 11,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5738,10 +5656,10 @@
         "Construction"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Computer Vision",
         "Construction",
-        "Architecture",
-        "AI"
+        "Architecture"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6073,6 +5991,30 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c43a0f3a8285bc157c443799365f68e59cff1e3c.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-totalis",
+      "name": "Totalis",
+      "slug": "totalis",
+      "one_liner": "derivative layer for prediction markets",
+      "long_description": "",
+      "website": "https://www.totalis.trade",
+      "yc_url": "https://www.ycombinator.com/companies/totalis",
+      "yc_batch": "Spring 2026",
+      "team_size": 0,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
       "sponsorship": null
     },
     {
@@ -8838,7 +8780,7 @@
       "slug": "withcharm",
       "one_liner": "Charm is the universal payments app \u2014 send money to anyone.",
       "long_description": "Charm makes sending money as easy as sending email. Most people juggle multiple payment apps and scattered balances. Charm lets you pay anyone \u2014 no matter what app they use \u2014 and earns you 5% interest on your balance, automatically.",
-      "website": "https://withcharm.app",
+      "website": "https://charm.cash/",
       "yc_url": "https://www.ycombinator.com/companies/withcharm",
       "yc_batch": "Fall 2024",
       "team_size": 1,
@@ -9292,7 +9234,7 @@
       "id": "yc-computable",
       "name": "Computable",
       "slug": "computable",
-      "one_liner": "Exchange for Physical Compute",
+      "one_liner": "Derivatives Exchange for Compute",
       "long_description": "",
       "website": "https://getcomputable.com",
       "yc_url": "https://www.ycombinator.com/companies/computable",
@@ -9463,8 +9405,8 @@
       "id": "yc-corsair",
       "name": "Corsair",
       "slug": "corsair",
-      "one_liner": "Connect your users to their apps",
-      "long_description": "Corsair connects your app to any other API. Use Corsair to build custom agents, dashboards, and workflows with hundreds of different integrations. ",
+      "one_liner": "OpenRouter for Integrations",
+      "long_description": "Corsair connects your app to any other API. \r\n\r\nUse Corsair to build custom agents, dashboards, and workflows with hundreds of different integrations. \r\n\r\nGet started here: https://docs.corsair.dev/quick-start",
       "website": "https://www.corsair.dev",
       "yc_url": "https://www.ycombinator.com/companies/corsair",
       "yc_batch": "Winter 2025",
@@ -9648,6 +9590,59 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04232f7799c42a8a176b06d7c366c511a6cab7.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-crouton",
+      "name": "Crouton",
+      "slug": "crouton",
+      "one_liner": "The living map of your organization",
+      "long_description": "Crouton is the living map of your organization.\r\n\r\nIt\u2019s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
+      "website": "https://usecrouton.com",
+      "yc_url": "https://www.ycombinator.com/companies/crouton",
+      "yc_batch": "Fall 2024",
+      "team_size": 4,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49776f5bec547c5f4a2891fe129c0428f2f4dbba.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-crowdvolt",
+      "name": "CrowdVolt",
+      "slug": "crowdvolt",
+      "one_liner": "The integration layer for live events infrastructure ",
+      "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
+      "website": "https://crowdvolt.com/",
+      "yc_url": "https://www.ycombinator.com/companies/crowdvolt",
+      "yc_batch": "Winter 2024",
+      "team_size": 12,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Marketplace",
+        "Entertainment",
+        "Social Network",
+        "Music",
+        "Infrastructure"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
       "sponsorship": null
     },
     {
@@ -10190,7 +10185,11 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
-        "SaaS"
+        "Artificial Intelligence",
+        "Hard Tech",
+        "SaaS",
+        "Supply Chain",
+        "Enterprise Software"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10339,7 +10338,7 @@
       "id": "yc-evergrove",
       "name": "Evergrove",
       "slug": "evergrove",
-      "one_liner": "Voice agents that accelerate care coordination in workers' comp",
+      "one_liner": "Care coordination for all of US healthcare, starting with work comp",
       "long_description": "We've built voice agents for the largest work comp managed care orgs and specialist PT networks in the country, making >500K calls annually and accelerating the speed at which they coordinate care. On average, our customers see a 40% increase in workflow completion, 10x decrease in cycle times, and >60% reduction in cost.\r\n\r\nWe think voice agents are the starting point for solving slow and fragmented care coordination in this market. Companies that manage an injured worker's care rely on short-staffed contact centres and archaic methods of info exchange: phone, fax, and email. Every delay along the path of care leads to slower rehab of the injured worker, lower throughput for providers, and higher expense for the insurer/employer.",
       "website": "https://www.evergrovelabs.com/",
       "yc_url": "https://www.ycombinator.com/companies/evergrove",
@@ -10698,7 +10697,7 @@
       "name": "Financial Datasets",
       "slug": "financial-datasets",
       "one_liner": "Connect your agent to the stock market ",
-      "long_description": "Financial Datasets gives agents access to real-time global market information.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
+      "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
       "website": "https://financialdatasets.ai/",
       "yc_url": "https://www.ycombinator.com/companies/financial-datasets",
       "yc_batch": "Summer 2026",
@@ -10709,9 +10708,9 @@
         "B2B"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "Investing",
-        "AI",
         "Stocks"
       ],
       "locations": [
@@ -10834,7 +10833,7 @@
       "name": "Floracene",
       "slug": "floracene",
       "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
-      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first design partner had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
       "website": "https://www.floracene.com/",
       "yc_url": "https://www.ycombinator.com/companies/floracene",
       "yc_batch": "Summer 2026",
@@ -12045,20 +12044,20 @@
       "name": "Hazel",
       "slug": "hazel-2",
       "one_liner": "AI-enabled procurement for government",
-      "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving mission delivery.",
+      "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving compliance.",
       "website": "https://hazelai.com",
       "yc_url": "https://www.ycombinator.com/companies/hazel-2",
       "yc_batch": "Winter 2024",
-      "team_size": 6,
+      "team_size": 7,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "Government"
       ],
       "tags": [
-        "Artificial Intelligence",
         "GovTech",
-        "Procurement"
+        "Procurement",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -12970,6 +12969,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-kimpton",
+      "name": "Kimpton",
+      "slug": "kimpton",
+      "one_liner": "Live Evaluation Arenas for Financial Work",
+      "long_description": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it.\r\n\r\nKimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on.\r\n\r\nThe whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade.\r\n\r\nKimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss.\r\n\r\nThat same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule.\r\n\r\nWe're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack.\r\n\r\nWe're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
+      "website": "https://kimpton.ai",
+      "yc_url": "https://www.ycombinator.com/companies/kimpton",
+      "yc_batch": "Spring 2026",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Investments",
+        "Trading"
+      ],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc55a7e4190cac127494553294ea19379fdf8fc3.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-kirana-ai",
       "name": "Kirana AI",
       "slug": "kirana-ai",
@@ -13152,7 +13180,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/853a7c6c871be155796217e789ab83fe95978b02.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
       "sponsorship": null
     },
     {
@@ -13419,7 +13447,7 @@
         "Kids"
       ],
       "locations": [
-        "New York City, NY, USA; New York, NY, USA; Remote"
+        "Miami, FL, USA; New York, NY, USA; Remote"
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4be81c45a4c22ebb279bdcb6a14289982bd868bd.png",
@@ -13478,6 +13506,36 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2939eceea0905b3a2c3c34f9f16476bbc6c94309.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-loula",
+      "name": "Loula",
+      "slug": "loula",
+      "one_liner": "Enabling birth & postpartum doulas to easily accept insurance.",
+      "long_description": "Loula is a software platform and national provider network for independent birth & postpartum doulas to boost their practices by accepting health insurance. Doulas typically operate outside of the traditional healthcare system and face an enormous learning curve and administrative burden when trying to accept insurance. This is why we created Loula. Starting with doulas in California, Loula handles their credentialing, contracting, and revenue cycle management so that they can focus on delivering the best quality care to their clients.",
+      "website": "https://joinloula.com",
+      "yc_url": "https://www.ycombinator.com/companies/loula",
+      "yc_batch": "Winter 2023",
+      "team_size": 7,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare Services"
+      ],
+      "tags": [
+        "Health Tech",
+        "Digital Health",
+        "Healthcare",
+        "Health Insurance",
+        "Women's Health"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb9289ab02184d3dcba8ce3089afff9258dfc183.png",
       "sponsorship": null
     },
     {
@@ -13976,16 +14034,16 @@
       "website": "https://www.trymimos.com/",
       "yc_url": "https://www.ycombinator.com/companies/mimos",
       "yc_batch": "Summer 2025",
-      "team_size": 1,
+      "team_size": 2,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "B2B"
       ],
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14250,7 +14308,7 @@
       "name": "MouseCat",
       "slug": "mousecat",
       "one_liner": "AI to fight financial crime",
-      "long_description": "MouseCat enables companies to detect suspicious activity, automate investigations, and act before the money leaves.\r\n\r\nWe work with Fortune 500 companies and startups to deploy real-time models and AI agents that reduce fraud, compliance incidents, and friction for good customeres. ",
+      "long_description": "MouseCat enables companies to detect suspicious activity, automate investigations, and act before the money leaves.\r\n\r\nWe work with Fortune 500 companies and startups to deploy real-time models and AI agents that reduce fraud, compliance incidents, and friction for good customers. ",
       "website": "https://www.mousecat.ai",
       "yc_url": "https://www.ycombinator.com/companies/mousecat",
       "yc_batch": "Winter 2026",
@@ -14697,18 +14755,18 @@
       "website": "https://www.norra.io",
       "yc_url": "https://www.ycombinator.com/companies/norra",
       "yc_batch": "Fall 2025",
-      "team_size": 2,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Health Tech",
         "Logistics",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15128,33 +15186,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-opentools",
-      "name": "OpenTools",
-      "slug": "opentools",
-      "one_liner": "The API for LLM tool use",
-      "long_description": "",
-      "website": "https://opentools.com",
-      "yc_url": "https://www.ycombinator.com/companies/opentools",
-      "yc_batch": "Summer 2023",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Marketplace",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-opentrons",
       "name": "Opentrons",
       "slug": "opentrons",
@@ -15462,7 +15493,7 @@
       "name": "Pango",
       "slug": "pango",
       "one_liner": "Agentic OS for e-commerce operations",
-      "long_description": "Autonomous digital employee that runs back-office operations for e-commerce companies: deliveries, tracking, returns, transport and CS.",
+      "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
       "website": "https://pango.ai/",
       "yc_url": "https://www.ycombinator.com/companies/pango",
       "yc_batch": "Summer 2026",
@@ -15474,10 +15505,10 @@
         "Retail"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Logistics",
         "E-commerce",
-        "Retail",
-        "AI"
+        "Retail"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15569,6 +15600,35 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/023b1fec88d11ac0cc00d33e137188a1088f80f1.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-paratus-health",
+      "name": "Paratus Health",
+      "slug": "paratus-health",
+      "one_liner": "healthcare AI",
+      "long_description": "Voice agents for outpatient facilities. ",
+      "website": "https://paratushealth.com/",
+      "yc_url": "https://www.ycombinator.com/companies/paratus-health",
+      "yc_batch": "Winter 2025",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Sales",
+        "Sales Enablement",
+        "Digital Health",
+        "Healthcare IT"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
       "sponsorship": null
     },
     {
@@ -15989,34 +16049,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7957008ca3bafd61f38b146c1fef179229d84a4.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-talentpluto",
-      "name": "Pluto",
-      "slug": "talentpluto",
-      "one_liner": "Voice agent that learns about professionals and makes them searchable",
-      "long_description": "Resumes made careers readable. LinkedIn made them filterable. Pluto makes them searchable.\r\n\r\nProfessionals spend 10 minutes talking to Pluto's voice agent about what they've done, what they're great at, and what they want next. Pluto turns that into a structured picture of who someone actually is, capturing the competency and intent that resumes and LinkedIn don't.\r\n\r\nWhen companies and AI agents go looking to hire, Pluto makes the right people discoverable.\r\n\r\n25K+ professionals have shared their career context with Pluto, and 50+ companies, including Mercor, Warp, and Rho, use it to find and reach the right people. Long-term, we're building the LinkedIn for agents.\r\n",
-      "website": "https://talentpluto.com",
-      "yc_url": "https://www.ycombinator.com/companies/talentpluto",
-      "yc_batch": "Summer 2026",
-      "team_size": 5,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Recruiting and Talent"
-      ],
-      "tags": [
-        "AI",
-        "Careers",
-        "Conversational AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ed12c5974a12759a4a83154066015d6c91fc4df.png",
       "sponsorship": null
     },
     {
@@ -17453,8 +17485,8 @@
       "id": "yc-sila",
       "name": "Sila",
       "slug": "sila",
-      "one_liner": "Agent-Native Messaging Platform",
-      "long_description": "Sila is the agent-native messaging platform. We're defining the standard for how companies work in the AI era by creating new types of communication layers: team-agent, agent-agent, agent-customer interaction layers and more. The conversations that define the future will happen on Sila.",
+      "one_liner": "AI Agents Messaging Platform",
+      "long_description": "Sila is a messaging platform where you text agents to get work done. Describe your idea or task with a message and Sila creates agents that you and your team message together to build and run your company.",
       "website": "https://silahq.com",
       "yc_url": "https://www.ycombinator.com/companies/sila",
       "yc_batch": "Winter 2026",
@@ -17470,7 +17502,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d42a1203f89ac735d99407d8bc5984bd464fe7d.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
       "sponsorship": null
     },
     {
@@ -18333,7 +18365,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcb5281a1d8fc8c7abd51bfa37f6f9919359ac8a.png",
       "sponsorship": null
     },
     {
@@ -19166,7 +19198,7 @@
       "id": "yc-upflow",
       "name": "Upflow",
       "slug": "upflow",
-      "one_liner": "Cash collection tech for B2B businesses",
+      "one_liner": "Cash collection technology for B2B businesses",
       "long_description": "Upflow builds the reference cash collection platform to help B2B companies get paid faster, more predictably, and with stronger customer relationships.\r\n\r\nToday, the order-to-cash process is mission critical for businesses, yet it remains fragmented across tools, teams, and workflows. Collections, payments, and reconciliation are often manual, reactive, and disconnected from the rest of the business. Upflow brings this entire process into one system \u2014 combining data, agentic automation, collaboration, and financial services to turn receivables into a predictable and scalable engine.\r\n\r\nWe serve 500+ companies across 30+ countries, including Vercel, Lattice, Productboard, and are backed by leading investors including Y Combinator, Hedosophia, Hexa, and Lorimer. With teams across the US and Europe, we\u2019re building a category-defining company at the intersection of finance, payments, and AI.\r\n\r\nTo learn more about what we do, visit upflow.io. For a behind-the-scenes look at how we work as a team, head to the Inside Upflow section of our blog at upflow.io/blog/inside-upflow.",
       "website": "https://upflow.io/en/",
       "yc_url": "https://www.ycombinator.com/companies/upflow",
@@ -19186,7 +19218,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbbee59804a41493e50bd030cff5d6d1bc8fc97.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1ab8ca5ebabdab9b5b2a4f3b0349715907d614a.png",
       "sponsorship": null
     },
     {
