@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-09-07T13:11:08+00:00",
-  "company_count": 743,
+  "generated_at": "2026-09-14T13:32:00+00:00",
+  "company_count": 745,
   "companies": [
+    {
+      "id": "yc-222",
+      "name": "222",
+      "slug": "222",
+      "one_liner": "the AI social facilitator for offline human to human interactions",
+      "long_description": "an IRL marketplace facilitating social experiences at local venues/events through AI recommendations.",
+      "website": "https://222.place",
+      "yc_url": "https://www.ycombinator.com/companies/222",
+      "yc_batch": "Winter 2023",
+      "team_size": 23,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Machine Learning",
+        "Marketplace",
+        "Consumer",
+        "Social",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e693471ebf0087cdb9edcdba2657ef0066b1a88.png",
+      "sponsorship": null
+    },
     {
       "id": "yc-abacum",
       "name": "Abacum",
@@ -203,7 +232,7 @@
       "website": "https://www.investwithaqua.com",
       "yc_url": "https://www.ycombinator.com/companies/aqua",
       "yc_batch": "Summer 2021",
-      "team_size": 34,
+      "team_size": 23,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -277,6 +306,35 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1daae7ef53262d8880fc5c5838278da9bea07522.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-arva-ai",
+      "name": "Arva AI",
+      "slug": "arva-ai",
+      "one_liner": "AI for critical banking operations",
+      "long_description": "Arva AI is a Google backed research company deploying AI Agents for critical banking operations with industry-leading accuracy, from financial crime compliance to lending. Combining proprietary models with adaptive decisioning infrastructure, Arva enables large banks and financial institutions to automate high-risk decisions with greater consistency, effectiveness and control. Always hiring.",
+      "website": "https://www.arva.ai",
+      "yc_url": "https://www.ycombinator.com/companies/arva-ai",
+      "yc_batch": "Summer 2024",
+      "team_size": 20,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "B2B",
+        "Compliance",
+        "Regtech",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ae299aabd083b7f6ae2fc0bfa29903e922b33af.png",
       "sponsorship": null
     },
     {
@@ -671,6 +729,30 @@
       "sponsorship": null
     },
     {
+      "id": "yc-beyond-reach-labs",
+      "name": "Beyond Reach Labs",
+      "slug": "beyond-reach-labs",
+      "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
+      "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
+      "website": "https://www.beyondreachlabs.com",
+      "yc_url": "https://www.ycombinator.com/companies/beyond-reach-labs",
+      "yc_batch": "Winter 2026",
+      "team_size": 8,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68e78dbe382d51a7e7c3d02cc8ca43db9513c3d4.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-blee",
       "name": "Blee",
       "slug": "blee",
@@ -978,7 +1060,7 @@
       "website": "https://www.celltype.com",
       "yc_url": "https://www.ycombinator.com/companies/celltype",
       "yc_batch": "Winter 2026",
-      "team_size": 2,
+      "team_size": 5,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1361,12 +1443,12 @@
       "id": "yc-concourse",
       "name": "Concourse",
       "slug": "concourse",
-      "one_liner": "AI Agents for corporate finance teams",
-      "long_description": "Concourse is building AI agents for corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an AI analyst tailor-built for finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company\u2019s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
-      "website": "https://concourse.co/",
+      "one_liner": "The AI Agent platform for finance",
+      "long_description": "Concourse is the vertical AI platform for enterprise finance teams. \r\n\r\nFinance teams accelerate their AI transformation by building production-ready agents that own end-to-end workflows across departments. Concourse agents deliver higher accuracy, lower cost, and stronger governance than AI assistants and base LLMs: they connect to your core data sources, encode your business logic, compute math in code instead of generating it, and trace every output back to source. Concourse is already in production at Fortune 500 companies, and has raised $20M from Andreessen Horowitz, CRV, and Y Combinator.",
+      "website": "https://concourse.ai/",
       "yc_url": "https://www.ycombinator.com/companies/concourse",
       "yc_batch": "Winter 2023",
-      "team_size": 7,
+      "team_size": 15,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1782,34 +1864,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-dream3d",
-      "name": "Dream3D",
-      "slug": "dream3d",
-      "one_liner": "We build tools to help humanity predict the future.",
-      "long_description": "Dream3D is an AI research lab that builds tools to help humanity predict the future.",
-      "website": "https://dream3d.com",
-      "yc_url": "https://www.ycombinator.com/companies/dream3d",
-      "yc_batch": "Winter 2023",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Computer Vision"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc5c128914787f1ad09c34983b9c40c1200da598.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-eight-sleep",
       "name": "Eight Sleep",
       "slug": "eight-sleep",
@@ -1881,11 +1935,11 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "Legal",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2205,6 +2259,35 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1d23e86e87d65a7410c416cf73e10dd2adf94c8.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-forge",
+      "name": "Forge",
+      "slug": "forge",
+      "one_liner": "AI native freight forwarder and customs broker",
+      "long_description": "Forge manages international logistics for business around the world. We\u2019re an AI native freight forwarder, customs broker, and tariff expert.\r\n\r\nWe\u2019re growing rapidly and support small mom and pop business to the Fortune 1000s, including companies like Allegiant Airlines, Malbon Golf, and R.E.M. beauty.\r\n\r\nForge has raised capital from world class investors including Google, Y-Combinator, and Gradient Ventures.",
+      "website": "https://www.forgehq.com/",
+      "yc_url": "https://www.ycombinator.com/companies/forge",
+      "yc_batch": "Winter 2024",
+      "team_size": 7,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "tags": [
+        "B2B",
+        "Logistics",
+        "Supply Chain",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
       "sponsorship": null
     },
     {
@@ -3087,6 +3170,30 @@
       "sponsorship": null
     },
     {
+      "id": "yc-laurence",
+      "name": "Laurence",
+      "slug": "laurence",
+      "one_liner": "Quantitative research for autonomous e-commerce growth",
+      "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
+      "website": "https://laurence.com",
+      "yc_url": "https://www.ycombinator.com/companies/laurence",
+      "yc_batch": "Winter 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-leena-ai",
       "name": "Leena AI",
       "slug": "leena-ai",
@@ -3294,6 +3401,33 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2b5bfa4fe3cce9bf181ad8d59612747b7903c6d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-joinmarble",
+      "name": "Marble",
+      "slug": "joinmarble",
+      "one_liner": "The autonomous back-of-house for restaurants.",
+      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
+      "website": "https://joinmarble.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/joinmarble",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Restaurant Tech",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
       "sponsorship": null
     },
     {
@@ -4076,7 +4210,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ddd59479807f1000294d305ca0a4a84f2d40f97.png",
       "sponsorship": null
     },
     {
@@ -6583,35 +6717,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-222",
-      "name": "222",
-      "slug": "222",
-      "one_liner": "the AI social facilitator for offline human to human interactions",
-      "long_description": "an IRL marketplace facilitating social experiences at local venues/events through AI recommendations.",
-      "website": "https://222.place",
-      "yc_url": "https://www.ycombinator.com/companies/222",
-      "yc_batch": "Winter 2023",
-      "team_size": 23,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "tags": [
-        "Machine Learning",
-        "Marketplace",
-        "Consumer",
-        "Social",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e693471ebf0087cdb9edcdba2657ef0066b1a88.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-99dresses",
       "name": "99dresses",
       "slug": "99dresses",
@@ -7027,7 +7132,7 @@
       "id": "yc-allia-health",
       "name": "Allia Health",
       "slug": "allia-health",
-      "one_liner": "Clinically Integrated Group for Mental Health ",
+      "one_liner": "First AI-Native Medical Group for Mental Health",
       "long_description": "Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale - 600+ providers (350+ therapists, 200+ nurses & doctors, 30+ psychologists) across 70 sites in 32 states, plus telehealth nationwide. Every clinician runs on a single intelligent system of record. And, that intelligence coupled with scale unlocks what no single practice could achieve alone. ",
       "website": "https://allia.health/",
       "yc_url": "https://www.ycombinator.com/companies/allia-health",
@@ -7517,7 +7622,7 @@
       "name": "Async",
       "slug": "withasync",
       "one_liner": "AI agents that run small businesses",
-      "long_description": "Async builds agents that change how businesses can run. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+      "long_description": "Async builds AI agents that run small businesses. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
       "website": "https://withasync.com",
       "yc_url": "https://www.ycombinator.com/companies/withasync",
       "yc_batch": "Summer 2026",
@@ -7898,30 +8003,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e6151a4772f82f25d8581efbda66f538ce4bed.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-beyond-reach-labs",
-      "name": "Beyond Reach Labs",
-      "slug": "beyond-reach-labs",
-      "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
-      "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
-      "website": "https://www.beyondreachlabs.com",
-      "yc_url": "https://www.ycombinator.com/companies/beyond-reach-labs",
-      "yc_batch": "Winter 2026",
-      "team_size": 8,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Industrials",
-        "Aviation and Space"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68e78dbe382d51a7e7c3d02cc8ca43db9513c3d4.png",
       "sponsorship": null
     },
     {
@@ -10114,6 +10195,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-dream3d",
+      "name": "Dream3D",
+      "slug": "dream3d",
+      "one_liner": "We build tools to help humanity predict the future.",
+      "long_description": "Dream3D is an AI research lab that builds tools to help humanity predict the future.",
+      "website": "https://dream3d.com",
+      "yc_url": "https://www.ycombinator.com/companies/dream3d",
+      "yc_batch": "Winter 2023",
+      "team_size": 3,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Computer Vision"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc5c128914787f1ad09c34983b9c40c1200da598.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-dripos",
       "name": "Dripos",
       "slug": "dripos",
@@ -10224,6 +10333,33 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca64fa435a256800f528211df8c169424379ec03.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-elite",
+      "name": "Elite",
+      "slug": "elite",
+      "one_liner": "Healthcare AI",
+      "long_description": "Elite builds AI voice agents that run the front office for healthcare practices. Elite answers every patient call instantly and finishes the job inside the practice's EHR: scheduling, triage, referrals, refills, eligibility, intake, and billing, across voice, SMS, and web, around the clock.\r\n\r\nFront offices are drowning in phone volume, so patients wait on hold, calls go unanswered, and staff get pulled away from care. Elite picks up every call, resolves the routine ones end to end, and escalates anything complex to the team with full context. It ships knowing the scheduling protocols of 18 specialties and writes back to more than 19 EHRs including Epic, athenahealth, eClinicalWorks, and ModMed. There is no rip-and-replace, it goes live in days, and every resolved patient interaction is what we charge for.\r\n\r\nOur starting point is healthcare. The mission is to rebuild the critical industries America runs on, including government, finance, insurance, and manufacturing, by deploying AI agents into the slow, manual workflows at their core.",
+      "website": "https://elitehq.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/elite",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Healthcare",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b0b3923cf1e5272885bc93999098a208c85926.png",
       "sponsorship": null
     },
     {
@@ -10338,7 +10474,7 @@
       "id": "yc-evergrove",
       "name": "Evergrove",
       "slug": "evergrove",
-      "one_liner": "Care coordination for all of US healthcare, starting with work comp",
+      "one_liner": "Instant healthcare for all, starting with work comp",
       "long_description": "We've built voice agents for the largest work comp managed care orgs and specialist PT networks in the country, making >500K calls annually and accelerating the speed at which they coordinate care. On average, our customers see a 40% increase in workflow completion, 10x decrease in cycle times, and >60% reduction in cost.\r\n\r\nWe think voice agents are the starting point for solving slow and fragmented care coordination in this market. Companies that manage an injured worker's care rely on short-staffed contact centres and archaic methods of info exchange: phone, fax, and email. Every delay along the path of care leads to slower rehab of the injured worker, lower throughput for providers, and higher expense for the insurer/employer.",
       "website": "https://www.evergrovelabs.com/",
       "yc_url": "https://www.ycombinator.com/companies/evergrove",
@@ -10696,7 +10832,7 @@
       "id": "yc-financial-datasets",
       "name": "Financial Datasets",
       "slug": "financial-datasets",
-      "one_liner": "Connect your agent to the stock market ",
+      "one_liner": "Connect your agents to the stock market ",
       "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
       "website": "https://financialdatasets.ai/",
       "yc_url": "https://www.ycombinator.com/companies/financial-datasets",
@@ -10708,9 +10844,9 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Investing",
+        "AI",
         "Stocks"
       ],
       "locations": [
@@ -10986,35 +11122,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e73e06f06f9c82efc635b55f38984d2cb9645b67.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-forge",
-      "name": "Forge",
-      "slug": "forge",
-      "one_liner": "Getting companies refunds on tariffs & duties",
-      "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
-      "website": "https://www.forgehq.com/",
-      "yc_url": "https://www.ycombinator.com/companies/forge",
-      "yc_batch": "Winter 2024",
-      "team_size": 6,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "B2B",
-        "Logistics",
-        "Supply Chain"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
       "sponsorship": null
     },
     {
@@ -11870,12 +11977,12 @@
       "id": "yc-handled",
       "name": "Handled",
       "slug": "handled",
-      "one_liner": "Automating post-order operations for e-commerce brands and 3PLs",
-      "long_description": "Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering \u201cCan you check this?\u201d requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.\r\n\r\nHandled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.\r\nHandled gives teams real-time visibility across orders, shipments, returns, and inventory in one system \u2014 eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.\r\n\r\nBy combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",
+      "one_liner": "AI teammate for finance and operations teams at consumer brands",
+      "long_description": "Consumer brands run finance and operations across ERPs, commerce platforms, 3PLs, accounting systems, email, and spreadsheets. Because these systems do not share context or complete work, teams still spend hours assembling reports, reconciling numbers, entering orders, monitoring inventory, processing invoices, and chasing exceptions. Problems are often discovered only after they have cost the business time, margin, or revenue.\r\n\r\nHandled is an AI teammate for finance and operations. It connects to the systems and unstructured information a brand already uses and learns its data, rules, and workflows. Handled answers questions about the business, proactively catches issues, and takes on recurring manual work across financial reporting, inventory, procurement, wholesale order-to-cash, and AP/AR. It works across systems and brings a person in when judgment or approval is required.\r\n\r\nHandled gives lean teams more operating capacity without adding another tool to manage, more outsourced support, or more headcount.\r\n",
       "website": "https://www.itshandled.ai",
       "yc_url": "https://www.ycombinator.com/companies/handled",
       "yc_batch": "Summer 2024",
-      "team_size": 2,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -11883,17 +11990,17 @@
         "Retail"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
         "Logistics",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/698f27f60b4751de0476e3eb409c1e55b062eb40.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6a1e68ab0e8a242ed2d89b4af36673b59f155d.png",
       "sponsorship": null
     },
     {
@@ -11987,9 +12094,9 @@
       "id": "yc-haystackeditor",
       "name": "Haystack",
       "slug": "haystackeditor",
-      "one_liner": "The agent-native control layer for code changes",
-      "long_description": "Haystack helps engineering teams manage the growing volume of AI-generated pull requests.\r\n\r\nCoding agents make it much easier to produce code, but they also create a new problem: teams now have more changes to review, many of them larger, more frequent, and harder to trust at a glance.\r\n\r\nHaystack sits on top of GitHub and acts as the control layer for AI-generated code changes. For every pull request, it looks at the codebase, the diff, the agent trace, the author\u2019s intent, and any verification evidence like tests, logs, commands, or screenshots.\r\n\r\nThen Haystack decides what should happen next: whether the change can move forward, needs fixes, or should be reviewed by a human.\r\n\r\nTeams use Haystack to keep code moving without turning review into rubber-stamping. It helps them merge more code, focus human attention on the changes that actually need judgment, and maintain quality as AI-generated work becomes a bigger part of development.",
-      "website": "https://tryhaystack.dev/",
+      "one_liner": "Replay real customer journeys against every change before you ship",
+      "long_description": "Haystack automatically learns real customer journeys from production traffic, figures out which ones a code change could affect, and replays them in isolated copies of production to catch regressions before they ship.\r\n\r\nWhen something breaks, Haystack shows exactly what changed across the UI, network calls, and events, then gives the failure back to your coding agent to fix and rerun. Teams get high-fidelity QA without having to write or maintain test cases.",
+      "website": "https://haystack.sh/",
       "yc_url": "https://www.ycombinator.com/companies/haystackeditor",
       "yc_batch": "Summer 2024",
       "team_size": 2,
@@ -12000,16 +12107,16 @@
         "Engineering, Product and Design"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Productivity",
-        "AI"
+        "Productivity"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/988853e97230d398301aa8250ff990964f2f4620.png",
       "sponsorship": null
     },
     {
@@ -12174,6 +12281,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4051bac362928f79cd906235f06326723eacc875.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-hesper-ai",
+      "name": "Hesper AI",
+      "slug": "hesper-ai",
+      "one_liner": "AI Claims Investigator for Insurance",
+      "long_description": "Hesper AI builds AI agents that investigate P&C insurance claims end to end.\r\n\r\nHesper\u2019s agents read the claim file, detect tampered documents, verify facts, check coverage, flag inconsistencies, and produce an audit-ready case file in minutes, so insurers can check every claim. \r\n\r\nWe work with Claims and SIU orgs at Carriers, MGAs and TPAs,",
+      "website": "https://gethesperai.com",
+      "yc_url": "https://www.ycombinator.com/companies/hesper-ai",
+      "yc_batch": "Fall 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "Insurance",
+        "Fraud Detection",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22aa0e43c8572c7233989f7b9c4d18841280c577.png",
       "sponsorship": null
     },
     {
@@ -13160,30 +13295,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-laurence",
-      "name": "Laurence",
-      "slug": "laurence",
-      "one_liner": "Quantitative research for autonomous e-commerce growth",
-      "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
-      "website": "https://laurence.com",
-      "yc_url": "https://www.ycombinator.com/companies/laurence",
-      "yc_batch": "Winter 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Analytics"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-lawdingo",
       "name": "Lawdingo",
       "slug": "lawdingo",
@@ -13776,33 +13887,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-joinmarble",
-      "name": "Marble",
-      "slug": "joinmarble",
-      "one_liner": "The autonomous back-of-house for restaurants.",
-      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
-      "website": "https://joinmarble.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/joinmarble",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "SaaS",
-        "Restaurant Tech",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-marketbrief",
       "name": "MarketBrief",
       "slug": "marketbrief",
@@ -14172,7 +14256,7 @@
       "name": "Miyagi Labs",
       "slug": "miyagi-labs",
       "one_liner": "AI tutors for exam prep",
-      "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), and the NEET and CAT (India).\r\n\r\nWe\u2019re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
+      "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe\u2019re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
       "website": "https://miyagilabs.ai",
       "yc_url": "https://www.ycombinator.com/companies/miyagi-labs",
       "yc_batch": "Winter 2025",
@@ -14472,23 +14556,22 @@
       "id": "yc-usenarrative",
       "name": "Narrative",
       "slug": "usenarrative",
-      "one_liner": "Video Intelligence for Sports",
-      "long_description": "Transform live and archive sports video into structured events, player data, and polished media content.",
-      "website": "http://www.narrative-sports.com",
+      "one_liner": "AI Video Editor",
+      "long_description": "An AI-powered video editor that makes editing dramatically faster. Upload your clips, tell it what you want, and have Narrative edit them for you.",
+      "website": "http://www.usenarrative.ai",
       "yc_url": "https://www.ycombinator.com/companies/usenarrative",
       "yc_batch": "Fall 2025",
       "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B",
-        "Marketing"
+        "Consumer",
+        "Content"
       ],
       "tags": [
-        "Sports Tech",
-        "B2B",
-        "Video",
-        "AI"
+        "Artificial Intelligence",
+        "Consumer",
+        "Video"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -17485,7 +17568,7 @@
       "id": "yc-sila",
       "name": "Sila",
       "slug": "sila",
-      "one_liner": "AI Agents Messaging Platform",
+      "one_liner": "Agent Messaging Platform",
       "long_description": "Sila is a messaging platform where you text agents to get work done. Describe your idea or task with a message and Sila creates agents that you and your team message together to build and run your company.",
       "website": "https://silahq.com",
       "yc_url": "https://www.ycombinator.com/companies/sila",
@@ -18039,33 +18122,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2064f4dcf2a95d814cac2fbfbdedfcd7ef27b92.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-stratum-industries",
-      "name": "Stratum Industries",
-      "slug": "stratum-industries",
-      "one_liner": "Applied AI for Governments.",
-      "long_description": "Stratum Industries is the applied AI company for governments. We build AI agents that automate the slow, complex manual workflows governments run on, starting with application review, where files are still reviewed by hand, one at a time, leaving millions stuck in queues. \r\n\r\nStratum's agents review applications end to end with a human in the loop and full auditability, clearing entire backlogs in a fraction of the time. Our mission is to deploy AI across every vertical inside the government, saving agencies tens of billions in administrative cost and making the government one of the most efficient institutions in the world.",
-      "website": "https://stratumindustries.co/",
-      "yc_url": "https://www.ycombinator.com/companies/stratum-industries",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Government"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "GovTech",
-        "Automation"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb396809ed692f744f764e5cd86703142288a07.png",
       "sponsorship": null
     },
     {
