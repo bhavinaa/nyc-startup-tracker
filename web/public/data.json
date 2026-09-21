@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:32:00+00:00",
-  "company_count": 745,
+  "generated_at": "2026-09-21T13:30:52+00:00",
+  "company_count": 749,
   "companies": [
     {
       "id": "yc-222",
@@ -176,7 +176,7 @@
       "name": "Ambral",
       "slug": "ambral",
       "one_liner": "AI for account management and customer success",
-      "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
+      "long_description": "AI for account management and customer success. Ambral has already been used to drive hundreds of millions of dollars in attributable expansion revenue at multi-billion dollar enterprises and top scale-ups.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the some of most complex machines ever created. He\u2019s now doing the same for the complexities of customer relationships. ",
       "website": "https://www.ambral.com/",
       "yc_url": "https://www.ycombinator.com/companies/ambral",
       "yc_batch": "Summer 2025",
@@ -1341,17 +1341,17 @@
       "website": "https://www.codeshealth.com/",
       "yc_url": "https://www.ycombinator.com/companies/codes-health",
       "yc_batch": "Summer 2024",
-      "team_size": 25,
+      "team_size": 35,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "B2B"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "B2B",
-        "LegalTech",
-        "AI"
+        "LegalTech"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1393,7 +1393,7 @@
       "id": "yc-cogram",
       "name": "Cogram",
       "slug": "cogram",
-      "one_liner": "The AI Platform for Architects, Builders, and Engineers",
+      "one_liner": "The AI Platform for Architects and Engineers",
       "long_description": "The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects.",
       "website": "https://cogram.com",
       "yc_url": "https://www.ycombinator.com/companies/cogram",
@@ -1406,8 +1406,8 @@
         "Productivity"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2033,36 +2033,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-empirical-health",
-      "name": "Empirical Health",
-      "slug": "empirical-health",
-      "one_liner": "Don't die of heart disease. Empirical is the first AI-native heart\u2026",
-      "long_description": "Don't die of heart disease. While heart disease is the #1 killer worldwide, 80% of heart disease is preventable.\r\n\r\nEmpirical's program starts with an advanced lab test with 100+ biomarkers, including ApoB, Lp(a), inflammation, and more. Then, we help you model your lifetime risk of heart disease and generate a plan to reduce your risk to an optimal level. Then we help you achieve that plan.\r\n\r\nEmpirical is licensed, registered, and insured to deliver real medical care in 30+ US states covering 200m+ people. We're growing >25% monthly.",
-      "website": "https://empirical.health",
-      "yc_url": "https://www.ycombinator.com/companies/empirical-health",
-      "yc_batch": "Summer 2023",
-      "team_size": 4,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Consumer Health and Wellness"
-      ],
-      "tags": [
-        "Generative AI",
-        "Machine Learning",
-        "Consumer Health Services",
-        "Healthcare",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd8134cbe5b8ea696157c320672eb55cc8649540.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-f2",
       "name": "F2",
       "slug": "f2",
@@ -2299,7 +2269,7 @@
       "website": "https://fortunahealth.com/",
       "yc_url": "https://www.ycombinator.com/companies/fortuna-health",
       "yc_batch": "Summer 2023",
-      "team_size": 22,
+      "team_size": 25,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -2355,14 +2325,16 @@
       "website": "https://www.shopgarage.com/",
       "yc_url": "https://www.ycombinator.com/companies/garage-2",
       "yc_batch": "Winter 2024",
-      "team_size": 25,
+      "team_size": 35,
       "stage": "Growth",
       "status": "Active",
       "industries": [
         "B2B"
       ],
       "tags": [
-        "Marketplace"
+        "Artificial Intelligence",
+        "Marketplace",
+        "Industrial"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2462,7 +2434,7 @@
       "website": "https://tryglimpse.com/",
       "yc_url": "https://www.ycombinator.com/companies/glimpse-2",
       "yc_batch": "Summer 2020",
-      "team_size": 27,
+      "team_size": 52,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -2470,10 +2442,10 @@
         "Retail"
       ],
       "tags": [
-        "Artificial Intelligence",
         "E-commerce",
         "Food & Beverage",
-        "Retail"
+        "Retail",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2564,7 +2536,7 @@
       "name": "Greenboard",
       "slug": "greenboard",
       "one_liner": "Modern OS for the financial back office. ",
-      "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms\u2019 compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We\u2019re starting with compliance",
+      "long_description": "At Greenboard, we're building the future of financial compliance. Greenboard is the unified, AI-native compliance operating system for RIAs, fintechs, private funds, hedge funds, and more. It replaces the fragmented mix of legacy tools and automates more than previously possible. By centralizing data and workflows, Greenboard helps firms reduce regulatory risk, simplify their technology stack, modernize how they run compliance, and save money. \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We\u2019re starting with compliance",
       "website": "https://www.greenboard.com",
       "yc_url": "https://www.ycombinator.com/companies/greenboard",
       "yc_batch": "Winter 2024",
@@ -2575,11 +2547,11 @@
         "Fintech"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "Compliance",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2737,8 +2709,8 @@
       "id": "yc-heron",
       "name": "Heron",
       "slug": "heron",
-      "one_liner": "Underwriting automation for SMB finance",
-      "long_description": "Heron analyzes 60,000+ small businesses a day to make sure good deals reach your underwriters in minutes, and bad deals never do. We power underwriting across small business finance and insurance: MCA, term loans, SBA, and commercial insurance\r\n",
+      "one_liner": "Underwriting automation for small business finance",
+      "long_description": "Heron is on a mission to eliminate the underwriting tax on American businesses. When a consumer applies for credit, a spinning wheel can return an offer in seconds; when a business applies for a loan or insurance policy, humans still spend hours reading documents, verifying the business, detecting fraud, and deciding what to offer. Heron does that work in software: lenders, insurers, and credit brokers send applications in and get declines and offers out in minutes instead of days. We have underwritten roughly 1 in 8 US employer businesses in the past year. That scale allows us to go beyond what any individual could ever do: identify cross-customer signals across millions of businesses to build new data products, and ultimately become the data layer for private businesses in the US. Backed by Insight Partners and Y Combinator.",
       "website": "https://www.herondata.io",
       "yc_url": "https://www.ycombinator.com/companies/heron",
       "yc_batch": "Summer 2020",
@@ -2749,16 +2721,16 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ed4f65fcafeff8654b29d189aa9b82b0bddfd6f.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86f1836e1bd65adb93aa3f9f5e5db9c12222c15.png",
       "sponsorship": null
     },
     {
@@ -3059,7 +3031,7 @@
       "id": "yc-kilvin",
       "name": "Kilvin",
       "slug": "kilvin",
-      "one_liner": "Build your own desktop",
+      "one_liner": "Custom software for your business",
       "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
       "website": "https://www.kilvin.ai",
       "yc_url": "https://www.ycombinator.com/companies/kilvin",
@@ -3072,11 +3044,11 @@
         "Engineering, Product and Design"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Developer Tools",
         "Productivity",
         "Data Engineering",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3110,6 +3082,33 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/912429b7bbe5e13329e823be58238cb49a0da00f.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-kobalt-labs",
+      "name": "Kobalt Labs",
+      "slug": "kobalt-labs",
+      "one_liner": "AI-powered risk and compliance for financial institutions",
+      "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt\u2019s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
+      "website": "https://www.kobaltlabs.com/",
+      "yc_url": "https://www.ycombinator.com/companies/kobalt-labs",
+      "yc_batch": "Summer 2023",
+      "team_size": 12,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Banking as a Service",
+        "Fintech"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c0b0e768a324b2566a3f866bf380445d3ae2fb8.png",
       "sponsorship": null
     },
     {
@@ -3265,10 +3264,10 @@
         "Banking and Exchange"
       ],
       "tags": [
+        "Artificial Intelligence",
         "FinOps",
         "Fintech",
-        "Infrastructure",
-        "AI"
+        "Infrastructure"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3401,33 +3400,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2b5bfa4fe3cce9bf181ad8d59612747b7903c6d.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-joinmarble",
-      "name": "Marble",
-      "slug": "joinmarble",
-      "one_liner": "The autonomous back-of-house for restaurants.",
-      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
-      "website": "https://joinmarble.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/joinmarble",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "SaaS",
-        "Restaurant Tech",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
       "sponsorship": null
     },
     {
@@ -3644,6 +3616,35 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d184a7985bf94fb06fe3645712c7af87070512.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-multiplier",
+      "name": "Multiplier",
+      "slug": "multiplier",
+      "one_liner": "Agent harnesses for asset managers",
+      "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier\u2013\u2013\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+      "website": "https://multiplier.ai",
+      "yc_url": "https://www.ycombinator.com/companies/multiplier",
+      "yc_batch": "Spring 2026",
+      "team_size": 3,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "Productivity",
+        "Investing",
+        "AI",
+        "Stocks"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
       "sponsorship": null
     },
     {
@@ -4648,7 +4649,7 @@
       "website": "https://www.getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory",
       "yc_url": "https://www.ycombinator.com/companies/prosper",
       "yc_batch": "Summer 2023",
-      "team_size": 9,
+      "team_size": 60,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5562,8 +5563,8 @@
       "id": "yc-solva",
       "name": "Solva",
       "slug": "solva",
-      "one_liner": "Automates insurance claims and stops incorrect payouts",
-      "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
+      "one_liner": "Building the new superintelligence for insurance",
+      "long_description": "Insurance is 7% of worldwide GDP and we\u2019re building the infrastructure for how the world takes risk",
       "website": "https://solvatechnology.com",
       "yc_url": "https://www.ycombinator.com/companies/solva",
       "yc_batch": "Summer 2025",
@@ -5800,34 +5801,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-staffbar",
-      "name": "Superwall",
-      "slug": "staffbar",
-      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
-      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
-      "website": "https://superwall.com",
-      "yc_url": "https://www.ycombinator.com/companies/staffbar",
-      "yc_batch": "Summer 2021",
-      "team_size": 25,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Developer Tools",
-        "Payments",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
       "sponsorship": null
     },
     {
@@ -6445,7 +6418,7 @@
       "id": "yc-jetlenses",
       "name": "Verse Medical",
       "slug": "jetlenses",
-      "one_liner": "Software platform for in-home healthcare",
+      "one_liner": "AI-enabled ordering for medical equipment & supplies",
       "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
       "website": "http://versemedical.com/",
       "yc_url": "https://www.ycombinator.com/companies/jetlenses",
@@ -6455,14 +6428,11 @@
       "status": "Active",
       "industries": [
         "Healthcare",
-        "Consumer Health and Wellness"
+        "Healthcare IT"
       ],
-      "tags": [
-        "Consumer Health Services",
-        "Medical Devices"
-      ],
+      "tags": [],
       "locations": [
-        "New York City, NY, USA; New York, NY, USA"
+        "New York City, NY, USA"
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
@@ -7047,6 +7017,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-agent-37",
+      "name": "Agent 37",
+      "slug": "agent-37",
+      "one_liner": "Persistent sandboxes for agents like hermes, openclaw, claude code",
+      "long_description": "* Ready to Use Instantly: Skip the complex server setup. It comes pre loaded with top AI Agents (like Claude Code and Hermes) so your agents can start working immediately.\r\n\r\n* Keep Your Work Safe: Unlike other systems that delete everything when they finish a task, these sandboxes remember your files, code, and settings forever until you delete them.\r\n\r\n* Pay Only for What You Use: Stop paying for idle servers. You pay a tiny fee to store your files, but you only pay for compute power during the exact minutes your AI is actively running.\r\n\r\n* Zero Infrastructure Headaches: You don\u2019t need to be a senior DevOps engineer or manage complex cloud networks. One simple command handles the entire backend for you.\r\n\r\n* Connect to Any App: Allow your AI agents to securely log into and interact with everyday tools like Slack, Gmail, and GitHub in just a few clicks.",
+      "website": "https://www.agent37.com/cloud",
+      "yc_url": "https://www.ycombinator.com/companies/agent-37",
+      "yc_batch": "Fall 2026",
+      "team_size": 0,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab818d15979a4594472be995a13a8be6107d4517.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-agentic-labs-2",
       "name": "Agentic Labs",
       "slug": "agentic-labs-2",
@@ -7145,9 +7144,9 @@
         "Healthcare Services"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Healthcare",
-        "Mental Health"
+        "Mental Health",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -7183,32 +7182,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/876f66dff22e97cba80fe969792f2c63dd568d79.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-alpha-research",
-      "name": "Alpha Research",
-      "slug": "alpha-research",
-      "one_liner": "Open source, agentic knowledge bases for all of humanity's knowledge.",
-      "long_description": "Alpha Research builds open source agentic knowledge bases. Our mission is to help knowledge workers work 100x faster. We launched and open sourced our first platform, Alpha Book on a mirror of the Project Gutenberg dataset (75,000 books).\r\n\r\nKnowledge work is bottlenecked in two key ways: finding evidence and testing hypotheses. We make both 100x faster. We extend keyword search and RAG with general coding agents, which use filesystem tools like ripgrep and reason iteratively to find broad evidence. Coding agents also write ad-hoc scripts to label datasets and test hypotheses.\r\n\r\nOur timeline is simple: repeat Alpha Book across every public dataset of humanity's knowledge. Next we'll launch Alpha Econ with US Census, BLS, NBER, etc datasets. Alpha Justice with US Supreme Court Cases, and so on. We support museums, research libraries, historical societies, and archives. We also do custom integration work for enterprise.",
-      "website": "https://alpharesearch.nyc/",
-      "yc_url": "https://www.ycombinator.com/companies/alpha-research",
-      "yc_batch": "Spring 2025",
-      "team_size": 1,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Market Research"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9da4ac9dd6be01478b419bbfd282d5e379179bc8.png",
       "sponsorship": null
     },
     {
@@ -7406,6 +7379,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-aqua-voice",
+      "name": "Aqua Voice",
+      "slug": "aqua-voice",
+      "one_liner": "Frontier Voice Input - write 4x faster than typing.",
+      "long_description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. \ud83c\udf0a",
+      "website": "https://aquavoice.com",
+      "yc_url": "https://www.ycombinator.com/companies/aqua-voice",
+      "yc_batch": "Winter 2024",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Productivity",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d22bb000a0037079229fda6aeaac2b72cceaff1.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-arcane",
       "name": "Arcane",
       "slug": "arcane",
@@ -7430,6 +7431,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-archer",
+      "name": "Archer",
+      "slug": "archer",
+      "one_liner": "Global payouts for the workforce powering AI",
+      "long_description": "Archer is the financial infrastructure for the AI data economy.\r\n\r\nWe\u2019re building global payouts, stablecoin banking, and yield infrastructure for the companies supplying data to frontier AI labs.\r\n\r\nAs demand for high-quality data grows, millions of contributors around the world are generating, labeling, validating, and improving the datasets that power modern AI systems. Yet the financial infrastructure behind these platforms remains slow, fragmented, and expensive.\r\n\r\nArcher enables data marketplaces, AI labor platforms, and reinforcement learning environment providers to onboard workers globally, pay contributors instantly, and earn yield on idle balances.\r\n\r\nToday, companies use Archer to manage contributor earnings, global payouts, and treasury operations across hundreds of countries and payment corridors.\r\n\r\nWe believe the next generation of AI companies will need purpose-built financial infrastructure. Just as cloud providers became the backbone of software, Archer is building the financial layer for the global workforce powering artificial intelligence.",
+      "website": "https://archermoney.com/",
+      "yc_url": "https://www.ycombinator.com/companies/archer",
+      "yc_batch": "Spring 2026",
+      "team_size": 4,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "tags": [
+        "Crypto / Web3",
+        "Neobank",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
       "sponsorship": null
     },
     {
@@ -7695,6 +7724,30 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/08af81b6a3d390826e292425721b229750993e4c.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-avelis-health",
+      "name": "Avelis Health",
+      "slug": "avelis-health",
+      "one_liner": "We audit medical claims for self-insured employers and health plans.",
+      "long_description": "\ud835\udc16\ud835\udc21\ud835\udc32 \ud835\udc30\ud835\udc1e \ud835\udc1b\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1b\ud835\udc25\ud835\udc1e\ud835\udc26:\r\n\u2022 Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n\u2022 Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n\u2022\u00a0Existing audit software is static: Decades-old rule engines can\u2019t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n\u2022 Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n\ud835\udc0e\ud835\udc2e\ud835\udc2b \ud835\udc12\ud835\udc28\ud835\udc25\ud835\udc2e\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n\ud835\udc00\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc14\ud835\udc2c:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+      "website": "https://avelishealth.com",
+      "yc_url": "https://www.ycombinator.com/companies/avelis-health",
+      "yc_batch": "Summer 2025",
+      "team_size": 3,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
       "sponsorship": null
     },
     {
@@ -8197,6 +8250,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-bloom-3",
+      "name": "Bloom",
+      "slug": "bloom-3",
+      "one_liner": "Investing app that teaches you how to invest",
+      "long_description": "Bloom's mission is to improve the financial outcomes of all Americans by giving them the knowledge and tools they need to achieve prosperity. \r\n\r\nOur first product is an investing app that teaches users how to build wealth through interactive financial lessons, a gamified rewards economy as well as an investing account designed for building long-term wealth.\r\n\r\nSince launching in April 2022, over 1 million users have joined Bloom and we have crossed $3MM in annual recurring revenue.",
+      "website": "https://bloomapp.com",
+      "yc_url": "https://www.ycombinator.com/companies/bloom-3",
+      "yc_batch": "Winter 2021",
+      "team_size": 8,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "tags": [
+        "Education",
+        "Fintech",
+        "Edtech"
+      ],
+      "locations": [
+        "New York City, NY, USA; San Francisco, CA, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d21128e3a2a6d5f1c0f5db5fede438273586e9e.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-bluesmart",
       "name": "Bluesmart",
       "slug": "bluesmart",
@@ -8278,6 +8359,35 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1940cbdacec83b1df06f778aab51ef87295bad3.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-bravi",
+      "name": "Bravi",
+      "slug": "bravi",
+      "one_liner": "AI operating system for home improvement manufacturers",
+      "long_description": "Bravi helps manufacturers of windows, doors, and other home improvement products turn fragmented technical and commercial data into tools their teams can use instantly. \r\n\r\nOur AI platform helps sales, customer service, and field teams answer technical questions, configure complex products, generate quotes, and retrieve order information by connecting to existing documentation, catalogs, ERP, CRM, and pricing systems.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+      "website": "https://www.bravi.app/",
+      "yc_url": "https://www.ycombinator.com/companies/bravi",
+      "yc_batch": "Fall 2025",
+      "team_size": 8,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "B2B",
+        "Manufacturing",
+        "Automation",
+        "Home Services",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/293f67239064e77044472c7d1555aed47f6899c7.png",
       "sponsorship": null
     },
     {
@@ -9381,7 +9491,7 @@
       "yc_batch": "Winter 2024",
       "team_size": 2,
       "stage": "Early",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "Fintech",
         "Payments"
@@ -10389,6 +10499,36 @@
       "sponsorship": null
     },
     {
+      "id": "yc-empirical-health",
+      "name": "Empirical Health",
+      "slug": "empirical-health",
+      "one_liner": "Don't die of heart disease. Empirical is the first AI-native heart\u2026",
+      "long_description": "Don't die of heart disease. While heart disease is the #1 killer worldwide, 80% of heart disease is preventable.\r\n\r\nEmpirical's program starts with an advanced lab test with 100+ biomarkers, including ApoB, Lp(a), inflammation, and more. Then, we help you model your lifetime risk of heart disease and generate a plan to reduce your risk to an optimal level. Then we help you achieve that plan.\r\n\r\nEmpirical is licensed, registered, and insured to deliver real medical care in 30+ US states covering 200m+ people. We're growing >25% monthly.",
+      "website": "https://empirical.health",
+      "yc_url": "https://www.ycombinator.com/companies/empirical-health",
+      "yc_batch": "Summer 2023",
+      "team_size": 4,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Consumer Health and Wellness"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Machine Learning",
+        "Consumer Health Services",
+        "Healthcare"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd8134cbe5b8ea696157c320672eb55cc8649540.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-enveritas",
       "name": "Enveritas",
       "slug": "enveritas",
@@ -10833,7 +10973,7 @@
       "name": "Financial Datasets",
       "slug": "financial-datasets",
       "one_liner": "Connect your agents to the stock market ",
-      "long_description": "Financial Datasets is the largest search index for stock market data, built for AI agents.\r\n\r\nWe index the world's markets so agents can search every filing, answer any financial question, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for humans reading a screen. We are rebuilding it for agents that research every company, all day, across the world.",
+      "long_description": "Financial Datasets is an applied AI research lab building search and data infrastructure for agents, starting with financial markets.\r\n\r\nWe turn filings, company disclosures, and market data into structured, searchable information - helping agents find relevant facts, answer financial questions, and monitor markets in real time.\r\n\r\nFor 40 years, market data was built for people reading screens. We're rebuilding it for agents that research every company, all day, across the world.",
       "website": "https://financialdatasets.ai/",
       "yc_url": "https://www.ycombinator.com/companies/financial-datasets",
       "yc_batch": "Summer 2026",
@@ -11633,6 +11773,30 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-general-aviation",
+      "name": "General Aviation",
+      "slug": "general-aviation",
+      "one_liner": "Fixing air traffic control with remote towers",
+      "long_description": "Building the elements of a new ATC system.",
+      "website": "https://generalaviation.com",
+      "yc_url": "https://www.ycombinator.com/companies/general-aviation",
+      "yc_batch": "Spring 2026",
+      "team_size": 0,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
       "sponsorship": null
     },
     {
@@ -13162,33 +13326,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-kobalt-labs",
-      "name": "Kobalt Labs",
-      "slug": "kobalt-labs",
-      "one_liner": "AI-powered risk and compliance for financial institutions",
-      "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt\u2019s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
-      "website": "https://www.kobaltlabs.com/",
-      "yc_url": "https://www.ycombinator.com/companies/kobalt-labs",
-      "yc_batch": "Summer 2023",
-      "team_size": 12,
-      "stage": "Growth",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [
-        "Banking as a Service",
-        "Fintech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c0b0e768a324b2566a3f866bf380445d3ae2fb8.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-llm-stats",
       "name": "LLM Stats",
       "slug": "llm-stats",
@@ -14082,6 +14219,32 @@
       "sponsorship": null
     },
     {
+      "id": "yc-method",
+      "name": "Method",
+      "slug": "method",
+      "one_liner": "Agents that improve",
+      "long_description": "Method turns repeated work into workflows your coding agent can run, check, and improve.",
+      "website": "https://withmethod.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/method",
+      "yc_batch": "Spring 2025",
+      "team_size": 1,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9706bbce9dc3489f8db897884b3967bde457e6ca.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-milk-video",
       "name": "Milk Video",
       "slug": "milk-video",
@@ -14444,35 +14607,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-multiplier",
-      "name": "Multiplier",
-      "slug": "multiplier",
-      "one_liner": "Agent harnesses for asset managers",
-      "long_description": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier\u2013\u2013\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
-      "website": "https://multiplier.ai",
-      "yc_url": "https://www.ycombinator.com/companies/multiplier",
-      "yc_batch": "Spring 2026",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Productivity",
-        "Investing",
-        "Stocks"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7c1a5b7f1d0f6a85da016ccad1a5a0cec81c513.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-nala",
       "name": "NALA",
       "slug": "nala",
@@ -14617,7 +14751,7 @@
       "website": "https://www.navattic.com/",
       "yc_url": "https://www.ycombinator.com/companies/navattic",
       "yc_batch": "Winter 2021",
-      "team_size": 35,
+      "team_size": 40,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -17565,30 +17699,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-sila",
-      "name": "Sila",
-      "slug": "sila",
-      "one_liner": "Agent Messaging Platform",
-      "long_description": "Sila is a messaging platform where you text agents to get work done. Describe your idea or task with a message and Sila creates agents that you and your team message together to build and run your company.",
-      "website": "https://silahq.com",
-      "yc_url": "https://www.ycombinator.com/companies/sila",
-      "yc_batch": "Winter 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Productivity"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30eef975f26ed420159ac335c08eb8b950705ee2.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-silogy",
       "name": "Silogy",
       "slug": "silogy",
@@ -18208,6 +18318,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-staffbar",
+      "name": "Superwall",
+      "slug": "staffbar",
+      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+      "website": "https://superwall.com",
+      "yc_url": "https://www.ycombinator.com/companies/staffbar",
+      "yc_batch": "Summer 2021",
+      "team_size": 25,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Payments",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-symphony",
       "name": "Symphony",
       "slug": "symphony",
@@ -18405,8 +18543,8 @@
       "id": "yc-tepali",
       "name": "Tepali",
       "slug": "tepali",
-      "one_liner": "AI operating system for modern medspas",
-      "long_description": "Tepali is the AI-native operating system for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
+      "one_liner": "AI EMR for medspas & wellness clinics",
+      "long_description": "Tepali is the AI EMR for medspas & wellness clinics. Front desk, charting, point of sale, and marketing in one system, with an AI employee that books new leads, charts every appointment, and brings past clients back.",
       "website": "https://tepali.com",
       "yc_url": "https://www.ycombinator.com/companies/tepali",
       "yc_batch": "Winter 2026",
@@ -18592,7 +18730,7 @@
       "long_description": "Tire Swing uses AI to power resident and applicant eligibility evaluations for affordable housing.\r\n\r\nOur software manages the resident certification and recertification process end-to-end for public and private properties supported by Project Based Rental Assistance, Low Income Housing Tax Credit, and Housing Vouchers. It serves as a drop-in replacement for third-party consultants and auditors, and helps compliance staff complete their work faster and more accurately. ",
       "website": "https://gettireswing.com",
       "yc_url": "https://www.ycombinator.com/companies/tire-swing",
-      "yc_batch": "Winter 2025",
+      "yc_batch": "Fall 2026",
       "team_size": 2,
       "stage": "Early",
       "status": "Active",
@@ -18671,35 +18809,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-tovenai",
-      "name": "TovenAI",
-      "slug": "tovenai",
-      "one_liner": "AI agents for compliance at institutional trading firms",
-      "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems\u2014including Bloomberg, Cloud9, and NICE Actimize\u2014firms can onboard to our platform and evaluate results using their own data in less than a week.",
-      "website": "https://toven.ai",
-      "yc_url": "https://www.ycombinator.com/companies/tovenai",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Banking and Exchange"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Fintech",
-        "Compliance",
-        "Regtech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b832a1e965bc59dfbc18a9817802870d7264332.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-toymail",
       "name": "Toymail",
       "slug": "toymail",
@@ -18743,11 +18852,11 @@
         "Security"
       ],
       "tags": [
-        "Security",
+        "Artificial Intelligence",
         "Open Source",
+        "Cybersecurity",
         "Enterprise",
-        "Automation",
-        "AI"
+        "Automation"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -19427,33 +19536,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-veriff",
-      "name": "Veriff",
-      "slug": "veriff",
-      "one_liner": "AI-powered identity verification solution for fraud prevention.",
-      "long_description": "Veriff is a global online identity verification company that enables organizations to build trust with their customers through intelligent, accurate, and automated online IDV. Veriff\u2019s intelligent decision engine can analyze thousands of technological and behavioral variables in seconds, matching people to more than 10,000 government-issued IDs from over 190 countries. Veriff serves a global portfolio of organizations across fintech, crypto, and mobility sectors. \r\n\r\nFounded in 2015 by Kaarel Kotkas, today Veriff serves a global portfolio of internet businesses including fintech companies, sharing economy providers and marketplaces in the USA, Europe and other places in the world. Veriff is an alumnus of the startup accelerator Y Combinator and employs 350 people in its locations in Tallinn and Tartu in Estonia; New York, in the USA,  London in the UK and Barcelona in Spain.",
-      "website": "https://veriff.com/",
-      "yc_url": "https://www.ycombinator.com/companies/veriff",
-      "yc_batch": "Winter 2018",
-      "team_size": 42,
-      "stage": "Growth",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS"
-      ],
-      "locations": [
-        "Tallinn, Harju County, Estonia; New York, NY, USA; London, England, United Kingdom; Barcelona, CT, Spain"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-versa",
       "name": "Versa",
       "slug": "versa",
@@ -19669,6 +19751,36 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-volaren-inc",
+      "name": "Volaren Inc.",
+      "slug": "volaren-inc",
+      "one_liner": "Democratizing investing. Volaren collapses the hedge fund model and\u2026",
+      "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+      "website": "https://www.volaren.ai",
+      "yc_url": "https://www.ycombinator.com/companies/volaren-inc",
+      "yc_batch": "Fall 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "tags": [
+        "Fintech",
+        "Marketplace",
+        "Finance",
+        "Creator Economy",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
       "sponsorship": null
     },
     {
