@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T14:47:43+00:00",
-  "company_count": 752,
+  "generated_at": "2026-10-05T15:26:48+00:00",
+  "company_count": 756,
   "companies": [
     {
       "id": "yc-222",
@@ -277,6 +277,34 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/094fed16cd3ee4ccf1b1e4019332a813d1993a7f.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-arlo-industries",
+      "name": "Arlo Industries",
+      "slug": "arlo-industries",
+      "one_liner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
+      "long_description": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars.\r\n\r\nThis capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems.\r\n\r\nDeo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise.\r\n\r\nThe people behind Arlo1 includes a PhD in drones and autonomy and military experts.\r\n\r\nArlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
+      "website": "https://arlo1.com/",
+      "yc_url": "https://www.ycombinator.com/companies/arlo-industries",
+      "yc_batch": "Spring 2026",
+      "team_size": 3,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Defense"
+      ],
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Defense"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9516f2cea09963c1b9ba307c35589a5d194c61c0.png",
       "sponsorship": null
     },
     {
@@ -1310,7 +1338,7 @@
       "name": "Codes Health",
       "slug": "codes-health",
       "one_liner": "Medical Record Retrieval with Zero Human Error",
-      "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
+      "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to retrieve & analyze docs for law firms, providers, and more. ",
       "website": "https://www.codeshealth.com/",
       "yc_url": "https://www.ycombinator.com/companies/codes-health",
       "yc_batch": "Summer 2024",
@@ -2229,6 +2257,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-floracene",
+      "name": "Floracene",
+      "slug": "floracene",
+      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
+      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+      "website": "https://www.floracene.com/",
+      "yc_url": "https://www.ycombinator.com/companies/floracene",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Health Tech",
+        "Medical Devices",
+        "Digital Health",
+        "Enterprise Software",
+        "Healthcare IT"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-forge",
       "name": "Forge",
       "slug": "forge",
@@ -2267,7 +2324,7 @@
       "yc_url": "https://www.ycombinator.com/companies/fortuna-health",
       "yc_batch": "Summer 2023",
       "team_size": 29,
-      "stage": "Early",
+      "stage": "Growth",
       "status": "Active",
       "industries": [
         "Healthcare",
@@ -2367,31 +2424,30 @@
       "sponsorship": null
     },
     {
-      "id": "yc-ghosteye",
-      "name": "GhostEye",
-      "slug": "ghosteye",
-      "one_liner": "Your always-on red team.",
-      "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
-      "website": "https://ghosteye.ai",
-      "yc_url": "https://www.ycombinator.com/companies/ghosteye",
-      "yc_batch": "Summer 2025",
-      "team_size": 6,
+      "id": "yc-gauss",
+      "name": "Gauss",
+      "slug": "gauss",
+      "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
+      "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers\u2019 debt.\r\n\r\nThe product connects to a user\u2019s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
+      "website": "https://gauss.money",
+      "yc_url": "https://www.ycombinator.com/companies/gauss",
+      "yc_batch": "Winter 2022",
+      "team_size": 16,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B",
-        "Security"
+        "Fintech",
+        "Consumer Finance"
       ],
       "tags": [
-        "B2B",
-        "Cybersecurity",
-        "AI"
+        "Fintech",
+        "Consumer"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
       "sponsorship": null
     },
     {
@@ -3376,6 +3432,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-joinmarble",
+      "name": "Marble",
+      "slug": "joinmarble",
+      "one_liner": "The autonomous back-of-house for restaurants.",
+      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
+      "website": "https://joinmarble.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/joinmarble",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Restaurant Tech",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-margin",
       "name": "Margin",
       "slug": "margin",
@@ -3561,6 +3644,36 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1c3f9a7b61db8b3dcf3a8453340dd7f22bb529.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-moda-2",
+      "name": "Moda",
+      "slug": "moda-2",
+      "one_liner": "Fully editable slides, designs and video.",
+      "long_description": "",
+      "website": "",
+      "yc_url": "https://www.ycombinator.com/companies/moda-2",
+      "yc_batch": "Fall 2026",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Design",
+        "Sales",
+        "Video",
+        "Marketing"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
       "sponsorship": null
     },
     {
@@ -4156,6 +4269,35 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/58666900954a06483646ed11cad63426e9401b5d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-pango",
+      "name": "Pango",
+      "slug": "pango",
+      "one_liner": "Agentic OS for e-commerce operations",
+      "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
+      "website": "https://pango.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/pango",
+      "yc_batch": "Summer 2026",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Logistics",
+        "E-commerce",
+        "Retail"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
       "sponsorship": null
     },
     {
@@ -5303,7 +5445,7 @@
       "website": "https://santehq.com/",
       "yc_url": "https://www.ycombinator.com/companies/sante",
       "yc_batch": "Summer 2023",
-      "team_size": 10,
+      "team_size": 20,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5320,7 +5462,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/15a2b4571e1045f35c0ba2461c33ab3553502aba.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d10be62025bd08a71a16a6b40cd46744ed418b47.png",
       "sponsorship": null
     },
     {
@@ -5565,7 +5707,7 @@
       "name": "Solva",
       "slug": "solva",
       "one_liner": "Building the new superintelligence for insurance",
-      "long_description": "Insurance is 7% of worldwide GDP and we\u2019re building the infrastructure for how the world takes risk",
+      "long_description": "Insurance is 7% of worldwide GDP and we\u2019re building the infrastructure for how the world handles risk",
       "website": "https://solvatechnology.com",
       "yc_url": "https://www.ycombinator.com/companies/solva",
       "yc_batch": "Summer 2025",
@@ -5730,7 +5872,7 @@
       "website": "https://www.stardex.com",
       "yc_url": "https://www.ycombinator.com/companies/stardex",
       "yc_batch": "Summer 2021",
-      "team_size": 6,
+      "team_size": 7,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -10543,14 +10685,14 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Healthcare",
-        "AI"
+        "Artificial Intelligence",
+        "Healthcare"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b0b3923cf1e5272885bc93999098a208c85926.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/950a2e88427ff9cd0ec85f5da8c2e8bd7d8333df.png",
       "sponsorship": null
     },
     {
@@ -11162,35 +11304,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-floracene",
-      "name": "Floracene",
-      "slug": "floracene",
-      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
-      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
-      "website": "https://www.floracene.com/",
-      "yc_url": "https://www.ycombinator.com/companies/floracene",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare"
-      ],
-      "tags": [
-        "Health Tech",
-        "Medical Devices",
-        "Digital Health",
-        "Enterprise Software",
-        "Healthcare IT"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-flowbot",
       "name": "Flowbot",
       "slug": "flowbot",
@@ -11670,8 +11783,8 @@
       "id": "yc-guild",
       "name": "GUILD",
       "slug": "guild",
-      "one_liner": "AI-Native Defense Contractor",
-      "long_description": "GUILD is an AI-Native Defense contractor making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
+      "one_liner": "Making Defense Manufacturing Faster and Cheaper",
+      "long_description": "GUILD is an AI-Native Defense prime making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
       "website": "https://www.guildai.co",
       "yc_url": "https://www.ycombinator.com/companies/guild",
       "yc_batch": "Summer 2026",
@@ -11683,10 +11796,10 @@
         "Defense"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Manufacturing",
         "Supply Chain",
-        "Defense"
+        "Defense",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -11803,33 +11916,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b50416a3c9266b978c7bb1e375a92eeb2782b8f.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-gauss",
-      "name": "Gauss",
-      "slug": "gauss",
-      "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
-      "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers\u2019 debt.\r\n\r\nThe product connects to a user\u2019s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
-      "website": "https://gauss.money",
-      "yc_url": "https://www.ycombinator.com/companies/gauss",
-      "yc_batch": "Winter 2022",
-      "team_size": 16,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "tags": [
-        "Fintech",
-        "Consumer"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
       "sponsorship": null
     },
     {
@@ -11966,6 +12052,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0bca661527cf93aad335c4ac4c75dfec9d20d7d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-ghosteye",
+      "name": "GhostEye",
+      "slug": "ghosteye",
+      "one_liner": "Your always-on red team.",
+      "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
+      "website": "https://ghosteye.ai",
+      "yc_url": "https://www.ycombinator.com/companies/ghosteye",
+      "yc_batch": "Summer 2025",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "tags": [
+        "B2B",
+        "Cybersecurity",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
       "sponsorship": null
     },
     {
@@ -12473,7 +12587,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/336d43aeb77b236c25b003848175a054e780ccbc.png",
       "sponsorship": null
     },
     {
@@ -13572,6 +13686,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-leaping",
+      "name": "Leaping",
+      "slug": "leaping",
+      "one_liner": "Automate bug resolution",
+      "long_description": "When bad software gets shipped, software companies burn a lot of money and customer trust fixing it. Most software engineers will tell you they spend more time fixing code than writing it, which will only become more true as AI code assistants gain adoption. Leaping autonomously root causes bugs and generates tested code fixes.",
+      "website": "https://www.leaping.io/",
+      "yc_url": "https://www.ycombinator.com/companies/leaping",
+      "yc_batch": "Winter 2024",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b960c84359670b3c32683c8b87f56d98570344.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-legacy",
       "name": "Legacy",
       "slug": "legacy",
@@ -13731,33 +13872,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b1df36488e8c11a87320ccb0a8a66e9313c5bd.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-litmus-hiring",
-      "name": "Litmus",
-      "slug": "litmus-hiring",
-      "one_liner": "Evals for humans",
-      "long_description": "Litmus is building the most accurate framework for evaluating and benchmarking human capability, starting with software.\r\n\r\nAI will compound small differences in human capability into increasingly large differences in what people can accomplish, while making existing static benchmarks obsolete. Software is already there: AI can hill-climb any output-based evaluation, while the ability to direct it is becoming the defining advantage. \r\n\r\nLitmus applies the same approach we already use for model evals to humans \u2013 creating world-like environments, and inspecting trajectory instead of just output.\r\n\r\nEvery knowledge industry will soon face the same problem. We build Litmus to tell you what humans are capable of.\r\n\r\nWe're already helping build frontier technical teams at Mercor, Composio, Neo Scholars, and more.",
-      "website": "https://litmushiring.com/",
-      "yc_url": "https://www.ycombinator.com/companies/litmus-hiring",
-      "yc_batch": "Summer 2026",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "Recruiting",
-        "Data Engineering",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9f14022a002a449869ff376c950e1a9966d580.png",
       "sponsorship": null
     },
     {
@@ -15849,35 +15963,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-pango",
-      "name": "Pango",
-      "slug": "pango",
-      "one_liner": "Agentic OS for e-commerce operations",
-      "long_description": "Pango is a platform for e-commerce companies to use natural language to build agents and automate their logistics operations like delivery and returns.",
-      "website": "https://pango.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/pango",
-      "yc_batch": "Summer 2026",
-      "team_size": 5,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Retail"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Logistics",
-        "E-commerce",
-        "Retail"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6fb7711e26bf57516e7dcfa35cfadeb5d98b5b2.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-paperplane",
       "name": "Paperplane",
       "slug": "paperplane",
@@ -16685,8 +16770,8 @@
       "id": "yc-quotain",
       "name": "Quotain",
       "slug": "quotain",
-      "one_liner": "AI sales simulations using your real deals",
-      "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
+      "one_liner": "AI sales roleplay built from your real deals",
+      "long_description": "Quotain is AI sales roleplay software for revenue teams. Reps practice the calls they need to win against AI buyers built from your playbook, CRM context, and past calls, from cold calls and discovery to negotiations, buying committees, and screen-share demos. Every session is scored against your methodology, and reps retry the exact moment that slipped. Managers see who is ready and what to coach. Try a free practice call at quotain.com.",
       "website": "https://quotain.com",
       "yc_url": "https://www.ycombinator.com/companies/quotain",
       "yc_batch": "Summer 2025",
@@ -16698,9 +16783,9 @@
         "Sales"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement",
-        "AI"
+        "Sales Enablement"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -16813,7 +16898,7 @@
         "Food & Beverage"
       ],
       "locations": [
-        "New York City, NY, USA; New York, NY, USA"
+        "New York City, NY, USA"
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4363c854a3940fa0d1c373b45b6123eb380d1927.png",
@@ -17169,30 +17254,6 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-revi",
-      "name": "Revi",
-      "slug": "revi",
-      "one_liner": "AI-enabled M&A deal origination",
-      "long_description": "Revi helps Investment Banks, PE firms, and Corporate Development teams source new deals.\r\n\r\nWe do this by using agentic workflows to replicate their end-to-end deal origination process, entirely removing the trade-off between precision and scalability.\r\n\r\nWe released the first version of Revi in September 2023 and now have companies like KPMG and platforms backed by KKR and Nordic Capital using our product.",
-      "website": "https://www.revi.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/revi",
-      "yc_batch": "Fall 2024",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA; Remote"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c5e4db7724db9cc411212c0a36b0c2b276b67e7.png",
       "sponsorship": null
     },
     {
@@ -18076,7 +18137,7 @@
       "yc_batch": "Summer 2023",
       "team_size": 8,
       "stage": "Growth",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -18703,6 +18764,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-useterse",
+      "name": "Terse",
+      "slug": "useterse",
+      "one_liner": "Durable state for AI agents",
+      "long_description": "We build infrastructure to power agentic systems such as software factories, multiplayer agent frameworks and agent coordination.",
+      "website": "https://www.useterse.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/useterse",
+      "yc_batch": "Fall 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [
+        "API",
+        "Infrastructure",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-the-mercer-club",
       "name": "The Mercer Club",
       "slug": "the-mercer-club",
@@ -18783,6 +18872,29 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-thornwick",
+      "name": "Thornwick",
+      "slug": "thornwick",
+      "one_liner": "Buy-side M&A Advisory",
+      "long_description": "We work with 7 of the top 15 private equity firms by AUM as well as over 150 of the most active acquirers in the US to support their M&A efforts.",
+      "website": "https://thornwick.com/",
+      "yc_url": "https://www.ycombinator.com/companies/thornwick",
+      "yc_batch": "Fall 2024",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/834fa22f6fad1635c308f38a01ebe252b9ea9b26.png",
       "sponsorship": null
     },
     {
@@ -18954,7 +19066,7 @@
       "name": "Tracecat",
       "slug": "tracecat",
       "one_liner": "Open-source agentic security automation platform",
-      "long_description": "Tracecat helps AI-native security teams build agents and automate cyber defense. Open source and community driven at it's core: https://github.com/TracecatHQ/tracecat",
+      "long_description": "Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.\r\n\r\nOpen source and community-driven at it's core: https://github.com/TracecatHQ/tracecat",
       "website": "https://tracecat.com",
       "yc_url": "https://www.ycombinator.com/companies/tracecat",
       "yc_batch": "Winter 2024",
@@ -19324,10 +19436,10 @@
         "Healthcare"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Health Insurance",
-        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -20533,8 +20645,8 @@
       "id": "yc-o11",
       "name": "o11",
       "slug": "o11",
-      "one_liner": "The AI Data Warehouse For Financial Firms",
-      "long_description": "o11 is the AI data warehouse for financial firms. The largest firms build a moat around their data. Today, they pay engineers $200k a year each to spend years organizing/maintaining disconnected sources in a legacy data warehouse. The business intelligence that results is the key unlock, but it's time effort and money that would be better spent elsewhere.\r\n\r\no11 brings a custom ontology and data model to firms of any size allowing them to unify CRM, email, files, data rooms, market data, M365, etc. all in one place. We help firms architect their own data warehouse, and then from their AI maintains it. No engineers, no legacy solutions, no complex migration. o11 is built for security and complex permissions from the ground up allowing it to safely connect directly into any agent including Claude, ChatGPT, and Copilot.\r\n\r\nLeverage your proprietary data -- it's the deal, relationship, and business intelligence that makes your firm special",
+      "one_liner": "AI account managers for consumer/self-serve apps",
+      "long_description": "o11 is the AI account manager for consumer and self-serve applications, helping teams treat every customer like a flagship client. It brings email and iMessage conversations together, suggests personal replies, and turns customer signals into timely follow-ups. Teams can tailor each persona\u2019s voice and review response plans before turning them on.",
       "website": "https://o11.ai",
       "yc_url": "https://www.ycombinator.com/companies/o11",
       "yc_batch": "Winter 2026",
@@ -20543,13 +20655,13 @@
       "status": "Active",
       "industries": [
         "B2B",
-        "Finance and Accounting"
+        "Sales"
       ],
       "tags": [
+        "Artificial Intelligence",
         "SaaS",
-        "Finance",
         "B2B",
-        "AI"
+        "Customer Success"
       ],
       "locations": [
         "New York City, NY, USA"
