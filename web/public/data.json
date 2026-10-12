@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T15:26:48+00:00",
-  "company_count": 756,
+  "generated_at": "2026-10-12T16:22:16+00:00",
+  "company_count": 755,
   "companies": [
     {
       "id": "yc-222",
@@ -366,30 +366,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-arzana",
-      "name": "Arzana",
-      "slug": "arzana",
-      "one_liner": "The autonomous ERP for every manufacturer",
-      "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
-      "website": "https://www.arzana.com/",
-      "yc_url": "https://www.ycombinator.com/companies/arzana",
-      "yc_batch": "Spring 2026",
-      "team_size": 9,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-asha-health",
       "name": "Asha Health",
       "slug": "asha-health",
@@ -674,33 +650,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-banner",
-      "name": "Banner",
-      "slug": "banner",
-      "one_liner": "Banner makes software for CRE owners to manage capital spend",
-      "long_description": "Banner is the operating system for real estate teams. From building acquisition to disposition, Banner moves all communications, workflows, spreadsheets, and file-sharing into one system. With Banner, customers automate away 80%+ of their administrative work, saving up to 10% on project costs.\r\nThe company is founded by Mark Murphy who formerly worked in RE finance, along with Kunal Chaudhary and Eric Gao, both UC Berkeley EECS alums.",
-      "website": "https://withbanner.com",
-      "yc_url": "https://www.ycombinator.com/companies/banner",
-      "yc_batch": "Summer 2019",
-      "team_size": 35,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Real Estate and Construction"
-      ],
-      "tags": [
-        "Marketplace",
-        "SaaS",
-        "Proptech"
-      ],
-      "locations": [
-        "New York City, NY, USA; San Francisco, CA, USA; Remote"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f7894aa9ed686ecf41b4e45c69ea8f7318f0d7e.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-beam",
       "name": "Beam",
       "slug": "beam",
@@ -765,7 +714,7 @@
       "website": "https://www.beyondreachlabs.com",
       "yc_url": "https://www.ycombinator.com/companies/beyond-reach-labs",
       "yc_batch": "Winter 2026",
-      "team_size": 8,
+      "team_size": 15,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1590,7 +1539,7 @@
       "name": "Craniometrix",
       "slug": "craniometrix",
       "one_liner": "Using AI to help dementia patients age at home",
-      "long_description": "Craniometrix has raised over $21 million to help make dementia suck less.\r\n\r\nDementia is tough \u2013 but it can be easier. Turns out, if you give families the right non-clinical coaching and support, you can avoid 30% of hospitalizations for these patients. And Medicare has recently started paying for that coaching.\r\n\r\nWe launched our care navigation service for dementia patients in July of 2025, hit $8M of ARR, and just raised a $15M Series A. \r\n\r\nWe leverage AI to provide best-in-class care, alleviating the burden on providers. Come help us build!",
+      "long_description": "Dementia is tough \u2013 but it can be easier. Turns out, if you give families the right non-clinical coaching and support, you can avoid 30% of hospitalizations for these patients. And Medicare has recently started paying for that coaching.\r\n\r\nWe leverage AI to provide best-in-class care, alleviating the burden on providers. Come help us build!",
       "website": "https://craniometrix.com",
       "yc_url": "https://www.ycombinator.com/companies/craniometrix",
       "yc_batch": "Winter 2022",
@@ -3647,36 +3596,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-moda-2",
-      "name": "Moda",
-      "slug": "moda-2",
-      "one_liner": "Fully editable slides, designs and video.",
-      "long_description": "",
-      "website": "",
-      "yc_url": "https://www.ycombinator.com/companies/moda-2",
-      "yc_batch": "Fall 2026",
-      "team_size": 6,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Marketing"
-      ],
-      "tags": [
-        "AI-Enhanced Learning",
-        "Design",
-        "Sales",
-        "Video",
-        "Marketing"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1693e94e6d5a17016b287d6917bdefebbef1d367.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-morphoai",
       "name": "MorphoAI",
       "slug": "morphoai",
@@ -4156,13 +4075,13 @@
       "sponsorship": null
     },
     {
-      "id": "yc-output",
-      "name": "Output Biosciences",
-      "slug": "output",
-      "one_liner": "The foundation for the next era of biology",
-      "long_description": "Output is a fully integrated AI lab building Artificial General Biological Intelligence, from the molecular level up to whole systems. The discovery of new biology and the design of therapeutic moonshots become routine.",
-      "website": "https://www.outputbio.com/",
-      "yc_url": "https://www.ycombinator.com/companies/output",
+      "id": "yc-output-labs",
+      "name": "Output Labs",
+      "slug": "output-labs",
+      "one_liner": "The foundation for the next era of science",
+      "long_description": "Output Labs is a frontier AI research lab. We created Mechanistic Reasoning, a new kind of AI that learns how and why complex systems work. It lets us understand the systems behind science's hardest problems, and control them.",
+      "website": "https://www.outputlabs.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/output-labs",
       "yc_batch": "Summer 2021",
       "team_size": 8,
       "stage": "Early",
@@ -4173,9 +4092,9 @@
       ],
       "tags": [
         "AI-powered Drug Discovery",
+        "Artificial Intelligence",
         "Generative AI",
-        "Biotech",
-        "AI"
+        "Biotech"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5055,35 +4974,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-rentflow",
-      "name": "RentFlow",
-      "slug": "rentflow",
-      "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
-      "long_description": "RentFlow is tackling a hair-on-fire problem for small and medium businesses across the U.S.: the way their rent is paid each month is fundamentally misaligned with how cash actually comes in.\r\n\r\nWe\u2019re building the infrastructure layer to fix that.\r\n\r\nToday, ~50% of U.S. businesses are late on rent in any given month. The rest face invisible struggles to pay on time, undermining their stability month after month.\r\n\r\nRentFlow is the first platform to turn fixed business rent into an AI-driven, cash-flow-synced product, underwritten in real time from transaction-level data to prevent financial issues before they even surface.",
-      "website": "https://www.therentflow.com",
-      "yc_url": "https://www.ycombinator.com/companies/rentflow",
-      "yc_batch": "Summer 2024",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "Fintech",
-        "Generative AI",
-        "SaaS",
-        "Payments",
-        "Proptech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
       "sponsorship": null
     },
     {
@@ -6216,34 +6106,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-tivara",
-      "name": "Tivara",
-      "slug": "tivara",
-      "one_liner": "The AI workforce for medical groups",
-      "long_description": "",
-      "website": "https://tivara.com",
-      "yc_url": "https://www.ycombinator.com/companies/tivara",
-      "yc_batch": "Summer 2024",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "SaaS",
-        "B2B",
-        "Healthcare"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-topline-pro",
       "name": "Topline Pro",
       "slug": "topline-pro",
@@ -6638,8 +6500,8 @@
       "id": "yc-volaren-inc",
       "name": "Volaren Inc.",
       "slug": "volaren-inc",
-      "one_liner": "Volaren collapses the hedge fund model and making it accessible to\u2026",
-      "long_description": "Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
+      "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands\u2026",
+      "long_description": "Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
       "website": "https://www.volaren.ai",
       "yc_url": "https://www.ycombinator.com/companies/volaren-inc",
       "yc_batch": "Fall 2026",
@@ -6651,11 +6513,11 @@
         "Asset Management"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Marketplace",
         "Finance",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6686,6 +6548,34 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/10ff722eceb550e5d2356209069344867f3e3b39.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-voyager",
+      "name": "Voyager",
+      "slug": "voyager",
+      "one_liner": "Open harness for video and other creative work.",
+      "long_description": "Most AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\r\n\r\nIt comes bundled with free motion graphics, music and video editing tools - or, it can drive Blender, DaVinci Resolve, After Effects, Ableton and 100+ others.\r\n\r\nFrom the team behind Moda (moda.app, 100k+ users).",
+      "website": "https://voyager.so",
+      "yc_url": "https://www.ycombinator.com/companies/voyager",
+      "yc_batch": "Fall 2026",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "tags": [
+        "Design",
+        "Video",
+        "Marketing"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c6a49b867492868c7c12a9622e59839c26e0b5a.png",
       "sponsorship": null
     },
     {
@@ -7022,34 +6912,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea7226636e49fe4dde4372e69139e8b1c7429ecd.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-acolite",
-      "name": "Acolite",
-      "slug": "acolite",
-      "one_liner": "AI Native Commercial Insurance Broker",
-      "long_description": "Acolite is an AI-powered insurance brokerage purpose-built for the construction industry. We combine modern technology with dedicated, licensed brokers to help contractors get the right coverage faster and at better rates than traditional brokerages can offer.",
-      "website": "https://acolite.ai",
-      "yc_url": "https://www.ycombinator.com/companies/acolite",
-      "yc_batch": "Spring 2025",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Insurance"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Insurance",
-        "Operations"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee88ddf2837ce69f6bc53bc24d264569098af38.png",
       "sponsorship": null
     },
     {
@@ -7786,11 +7648,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-arzana",
+      "name": "Arzana",
+      "slug": "arzana",
+      "one_liner": "The autonomous ERP for every manufacturer",
+      "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
+      "website": "https://www.arzana.com/",
+      "yc_url": "https://www.ycombinator.com/companies/arzana",
+      "yc_batch": "Spring 2026",
+      "team_size": 9,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-astro",
       "name": "Astro",
       "slug": "astro",
-      "one_liner": "The world\u2019s first AI energy developer",
-      "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
+      "one_liner": "Power-ready land for AI data centers",
+      "long_description": "Astro develops power-ready land for AI data centers. Power is now the bottleneck for new data centers, and Astro\u2019s models find the sites that have it. Founder Alex Fuster traded grid congestion at Citadel across US power markets, predicting where the grid would run out of room.",
       "website": "https://www.astroenergy.ai/",
       "yc_url": "https://www.ycombinator.com/companies/astro",
       "yc_batch": "Winter 2025",
@@ -8111,6 +7997,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-banner",
+      "name": "Banner",
+      "slug": "banner",
+      "one_liner": "Banner makes software for CRE owners to manage capital spend",
+      "long_description": "Banner is the operating system for real estate teams. From building acquisition to disposition, Banner moves all communications, workflows, spreadsheets, and file-sharing into one system. With Banner, customers automate away 80%+ of their administrative work, saving up to 10% on project costs.\r\nThe company is founded by Mark Murphy who formerly worked in RE finance, along with Kunal Chaudhary and Eric Gao, both UC Berkeley EECS alums.",
+      "website": "https://withbanner.com",
+      "yc_url": "https://www.ycombinator.com/companies/banner",
+      "yc_batch": "Summer 2019",
+      "team_size": 35,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Real Estate and Construction"
+      ],
+      "tags": [
+        "Marketplace",
+        "SaaS",
+        "Proptech"
+      ],
+      "locations": [
+        "New York City, NY, USA; San Francisco, CA, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f7894aa9ed686ecf41b4e45c69ea8f7318f0d7e.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-basement",
       "name": "Basement",
       "slug": "basement",
@@ -8205,7 +8118,7 @@
       "yc_batch": "Winter 2023",
       "team_size": 7,
       "stage": "Early",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "B2B",
         "Finance and Accounting"
@@ -15252,7 +15165,7 @@
       "slug": "novelcare",
       "one_liner": "Empowering every doctor and every patient to participate in research",
       "long_description": "Novelcare addresses the primary bottleneck in drug development: recruiting patients into clinical trials.\r\n\r\nWe analyze electronic health records to help doctors find clinical trials for their patients, and to help trial sites find patients for their studies. 72% of doctors want to inform their patients of clinical trials, but only 5% do. We're on a mission to close that gap, ultimately bringing safer, more effective drugs to the patients who need them.",
-      "website": "https://www.novel.care",
+      "website": "https://www.novelcare.com",
       "yc_url": "https://www.ycombinator.com/companies/novelcare",
       "yc_batch": "Winter 2023",
       "team_size": 5,
@@ -15263,11 +15176,11 @@
         "Drug Discovery and Delivery"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
         "Healthcare",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -15547,8 +15460,8 @@
       "id": "yc-opera",
       "name": "OpEra",
       "slug": "opera",
-      "one_liner": "Automated operations research (OR) lab",
-      "long_description": "Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture and more, delivering solutions for VP of Operations, supply chain leaders, plant managers and COOs to improve efficiency and decision-making.",
+      "one_liner": "The AI decision engine for factories, warehouses and fleets",
+      "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
       "website": "https://operatechnologies.com",
       "yc_url": "https://www.ycombinator.com/companies/opera",
       "yc_batch": "Fall 2026",
@@ -15560,17 +15473,17 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
+        "Artificial Intelligence",
         "Logistics",
         "Manufacturing",
         "Supply Chain",
-        "Operations",
-        "AI"
+        "Operations"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ab2731276f4a748d3087f83aa4d1ed311a0690b.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png",
       "sponsorship": null
     },
     {
@@ -16056,7 +15969,7 @@
       "website": "https://paratushealth.com/",
       "yc_url": "https://www.ycombinator.com/companies/paratus-health",
       "yc_batch": "Winter 2025",
-      "team_size": 2,
+      "team_size": 4,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -16363,7 +16276,7 @@
       "yc_batch": "Winter 2023",
       "team_size": 2,
       "stage": "Early",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "Healthcare",
         "Healthcare IT"
@@ -18272,6 +18185,30 @@
       "sponsorship": null
     },
     {
+      "id": "yc-stage",
+      "name": "Stage",
+      "slug": "stage",
+      "one_liner": "Code review platform for humans and agents",
+      "long_description": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they\u2019re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
+      "website": "https://www.tryluke.dev/",
+      "yc_url": "https://www.ycombinator.com/companies/stage",
+      "yc_batch": "Spring 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-stairs-financial",
       "name": "Stairs Financial",
       "slug": "stairs-financial",
@@ -18979,6 +18916,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-tivara",
+      "name": "Tivara",
+      "slug": "tivara",
+      "one_liner": "The AI workforce for medical groups",
+      "long_description": "",
+      "website": "https://tivara.com",
+      "yc_url": "https://www.ycombinator.com/companies/tivara",
+      "yc_batch": "Summer 2024",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Inactive",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Healthcare"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-toko",
       "name": "Toko",
       "slug": "toko",
@@ -19100,7 +19065,7 @@
       "website": "https://www.trackstarhq.com/",
       "yc_url": "https://www.ycombinator.com/companies/trackstar",
       "yc_batch": "Winter 2023",
-      "team_size": 7,
+      "team_size": 10,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -19630,7 +19595,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1765dfae476622be6f06883ebedd8aeed86f8664.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3baf656ebe6d7298a56a2799b4143c1d8a6e653.png",
       "sponsorship": null
     },
     {
@@ -20658,10 +20623,10 @@
         "Sales"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Customer Success"
+        "Customer Success",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
