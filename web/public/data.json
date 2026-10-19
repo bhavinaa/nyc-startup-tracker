@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:22:16+00:00",
-  "company_count": 755,
+  "generated_at": "2026-10-19T14:12:48+00:00",
+  "company_count": 756,
   "companies": [
     {
       "id": "yc-222",
@@ -11,7 +11,7 @@
       "website": "https://222.place",
       "yc_url": "https://www.ycombinator.com/companies/222",
       "yc_batch": "Winter 2023",
-      "team_size": 23,
+      "team_size": 28,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -159,10 +159,10 @@
         "Consumer Finance"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Education",
         "Fintech",
-        "Social"
+        "Social",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -458,7 +458,6 @@
         "Infrastructure"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Speech Recognition",
         "API",
@@ -563,8 +562,8 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -636,11 +635,11 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Fintech",
         "B2B",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -666,10 +665,10 @@
         "Infrastructure"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Open Source",
-        "Cloud Computing"
+        "Cloud Computing",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -773,9 +772,9 @@
         "Finance and Accounting"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Finance"
+        "Finance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -935,10 +934,10 @@
         "Credit and Lending"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Enterprise Software",
         "Consumer Finance",
         "Automation",
+        "AI",
         "Automotive"
       ],
       "locations": [
@@ -1042,8 +1041,8 @@
         "Retail"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1184,10 +1183,10 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1213,11 +1212,11 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Health Tech",
         "B2B",
-        "Healthcare IT"
+        "Healthcare IT",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1298,10 +1297,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "B2B",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1406,7 +1405,6 @@
         "Finance and Accounting"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "B2B",
@@ -1458,7 +1456,7 @@
       "website": "http://www.runconverge.com",
       "yc_url": "https://www.ycombinator.com/companies/converge",
       "yc_batch": "Summer 2023",
-      "team_size": 6,
+      "team_size": 11,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1495,9 +1493,9 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1578,10 +1576,10 @@
         "Productivity"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Cybersecurity",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1665,9 +1663,9 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
-        "Market Research"
+        "Market Research",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1907,7 +1905,7 @@
       "website": "https://www.useelevate.dev/",
       "yc_url": "https://www.ycombinator.com/companies/elevate-2",
       "yc_batch": "Summer 2024",
-      "team_size": 3,
+      "team_size": 10,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1915,10 +1913,10 @@
       ],
       "tags": [
         "AIOps",
-        "Artificial Intelligence",
         "Finance",
         "B2B",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -1944,7 +1942,6 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Machine Learning",
         "AI"
@@ -2136,10 +2133,10 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "Supply Chain",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2335,8 +2332,8 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
+        "AI",
         "Industrial"
       ],
       "locations": [
@@ -2499,9 +2496,9 @@
         "Government"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "GovTech"
+        "GovTech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2549,11 +2546,11 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "SaaS",
         "Compliance",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -2608,7 +2605,6 @@
         "Housing and Real Estate"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Real Estate",
         "Consumer",
         "Proptech",
@@ -2751,7 +2747,6 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Entertainment",
         "Social",
@@ -3016,7 +3011,6 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "Investing",
         "Enterprise Software",
@@ -3095,7 +3089,7 @@
       "website": "https://www.kobaltlabs.com/",
       "yc_url": "https://www.ycombinator.com/companies/kobalt-labs",
       "yc_batch": "Summer 2023",
-      "team_size": 12,
+      "team_size": 13,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -3210,10 +3204,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Chatbot",
         "Enterprise Software",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -3266,10 +3260,10 @@
         "Banking and Exchange"
       ],
       "tags": [
-        "Artificial Intelligence",
         "FinOps",
         "Fintech",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3596,6 +3590,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-miyagi-labs",
+      "name": "Miyagi Labs",
+      "slug": "miyagi-labs",
+      "one_liner": "AI tutors for exam prep",
+      "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe\u2019re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
+      "website": "https://miyagilabs.ai",
+      "yc_url": "https://www.ycombinator.com/companies/miyagi-labs",
+      "yc_batch": "Winter 2025",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Education"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "eLearning",
+        "Edtech"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-morphoai",
       "name": "MorphoAI",
       "slug": "morphoai",
@@ -3669,9 +3691,9 @@
         "Sales"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3915,17 +3937,17 @@
       "website": "https://offdeal.io",
       "yc_url": "https://www.ycombinator.com/companies/offdeal",
       "yc_batch": "Winter 2024",
-      "team_size": 15,
+      "team_size": 25,
       "stage": "Growth",
       "status": "Active",
       "industries": [
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "SMB"
+        "SMB",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3981,9 +4003,9 @@
         "Banking and Exchange"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Marketplace"
+        "Marketplace",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4008,7 +4030,7 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4061,11 +4083,11 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Mental Health Tech",
         "SaaS",
         "Health Tech",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "Philadelphia, PA, USA; New York, NY, USA"
@@ -4092,9 +4114,9 @@
       ],
       "tags": [
         "AI-powered Drug Discovery",
-        "Artificial Intelligence",
         "Generative AI",
-        "Biotech"
+        "Biotech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4150,10 +4172,10 @@
       ],
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "Marketplace",
         "eLearning",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4207,10 +4229,10 @@
         "Retail"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "E-commerce",
-        "Retail"
+        "Retail",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4349,9 +4371,9 @@
         "Asset Management"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
-        "Investing"
+        "Investing",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4463,8 +4485,8 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Neurotechnology"
+        "Neurotechnology",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4516,10 +4538,10 @@
         "Infrastructure"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Legal"
+        "Legal",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4537,14 +4559,13 @@
       "website": "https://popl.co/",
       "yc_url": "https://www.ycombinator.com/companies/popl",
       "yc_batch": "Winter 2021",
-      "team_size": 60,
+      "team_size": 70,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Emerging Markets",
@@ -4603,7 +4624,6 @@
         "Insurance"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Compliance",
         "Operations",
         "AI"
@@ -4660,11 +4680,11 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Analytics",
         "Enterprise Software",
-        "Investments"
+        "Investments",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4689,10 +4709,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Travel",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -4794,7 +4814,7 @@
       "website": "https://www.rallyuxr.com/",
       "yc_url": "https://www.ycombinator.com/companies/rallyuxr",
       "yc_batch": "Winter 2022",
-      "team_size": 35,
+      "team_size": 33,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -4857,10 +4877,10 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Biotech",
         "Data Labeling",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4886,11 +4906,11 @@
         "Security"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Deepfake Detection",
         "Security",
-        "Privacy"
+        "Privacy",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -4950,30 +4970,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/39ebc48cd35c22d4c08ba48f40dd02101c10e35a.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-regbase",
-      "name": "Regbase",
-      "slug": "regbase",
-      "one_liner": "Automating Corporate Compliance, Worldwide",
-      "long_description": "",
-      "website": "https://regbase.com",
-      "yc_url": "https://www.ycombinator.com/companies/regbase",
-      "yc_batch": "Spring 2026",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Legal"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
       "sponsorship": null
     },
     {
@@ -5042,7 +5038,7 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
+        "AI",
         "Automotive"
       ],
       "locations": [
@@ -5078,29 +5074,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-rhizome-ai",
-      "name": "Rhizome AI",
-      "slug": "rhizome-ai",
-      "one_liner": "Agent Platform for Life Sciences",
-      "long_description": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. \r\n\r\nToday, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. \r\n\r\nIt\u2019s the best because we have the best retrieval engine. We\u2019ve tuned it on our life science-specific dataset, and we find what others miss.\r\n\r\nAs more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences.\r\n\r\nChetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer.\r\n\r\nAgents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
-      "website": "https://rhizomeai.com/",
-      "yc_url": "https://www.ycombinator.com/companies/rhizome-ai",
-      "yc_batch": "Winter 2026",
-      "team_size": 1,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA; Remote"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bcee7f777db1539a455395ef7d0f4174a507995.png",
       "sponsorship": null
     },
     {
@@ -5144,10 +5117,10 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Productivity",
         "Analytics",
-        "Data Visualization"
+        "Data Visualization",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -5160,12 +5133,12 @@
       "id": "yc-rove",
       "name": "Rove",
       "slug": "rove",
-      "one_liner": "Travel the world for free.",
-      "long_description": "Rove is building the first accessible and universal airline mile, redeemable across dozens of international airlines and hotel chains worldwide.",
+      "one_liner": "Earn airline miles on hotels and everyday spend.",
+      "long_description": "Earn flexible airline miles on booking travel, shopping, and dining, all on top of your credit card rewards.",
       "website": "https://rove.com",
       "yc_url": "https://www.ycombinator.com/companies/rove",
       "yc_batch": "Winter 2024",
-      "team_size": 4,
+      "team_size": 32,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5173,10 +5146,9 @@
         "Travel, Leisure and Tourism"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Fintech",
         "Consumer",
-        "Travel"
+        "Travel",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5417,9 +5389,9 @@
         "Education"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Education",
-        "Workflow Automation"
+        "Workflow Automation",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5496,9 +5468,9 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Health Tech"
+        "Health Tech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5524,10 +5496,10 @@
         "Security"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Compliance",
         "Cybersecurity",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -5580,10 +5552,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Robotic Process Automation",
         "Workflow Automation",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5601,7 +5573,7 @@
       "website": "https://solvatechnology.com",
       "yc_url": "https://www.ycombinator.com/companies/solva",
       "yc_batch": "Summer 2025",
-      "team_size": 15,
+      "team_size": 7,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5656,11 +5628,11 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Machine Learning",
         "Payments",
-        "Data Labeling"
+        "Data Labeling",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -5702,12 +5674,12 @@
       "id": "yc-spur",
       "name": "Spur",
       "slug": "spur",
-      "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-      "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
+      "one_liner": "Spur is the validation infrastructure enterprises use to ship at the\u2026",
+      "long_description": "Every company is about to run two systems: one that generates software and one that validates it. Spur is the second one.\r\nSpur runs specialized agents against the real product the way a customer would use it: functional, visual, content, native iOS and Android on real devices, and accessibility and compliance.",
       "website": "https://www.spurtest.com/",
       "yc_url": "https://www.ycombinator.com/companies/spur",
       "yc_batch": "Summer 2024",
-      "team_size": 8,
+      "team_size": 15,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5735,7 +5707,7 @@
       "website": "https://useStable.com",
       "yc_url": "https://www.ycombinator.com/companies/stable",
       "yc_batch": "Winter 2020",
-      "team_size": 30,
+      "team_size": 60,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -5850,10 +5822,10 @@
         "Construction"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Computer Vision",
         "Construction",
-        "Architecture"
+        "Architecture",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6065,10 +6037,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
         "Payroll",
+        "AI",
         "Cryptocurrency"
       ],
       "locations": [
@@ -6156,6 +6128,36 @@
       "sponsorship": null
     },
     {
+      "id": "yc-tracecat",
+      "name": "Tracecat",
+      "slug": "tracecat",
+      "one_liner": "Open-source agentic security automation platform",
+      "long_description": "Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.\r\n\r\nOpen source and community-driven at it's core: https://github.com/TracecatHQ/tracecat",
+      "website": "https://tracecat.com",
+      "yc_url": "https://www.ycombinator.com/companies/tracecat",
+      "yc_batch": "Winter 2024",
+      "team_size": null,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "tags": [
+        "Open Source",
+        "Cybersecurity",
+        "Enterprise",
+        "Automation",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-trata",
       "name": "Trata",
       "slug": "trata",
@@ -6172,11 +6174,11 @@
         "Finance and Accounting"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Finance",
         "B2B",
         "Community",
-        "Investing"
+        "Investing",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6317,10 +6319,10 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Consumer",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6404,9 +6406,9 @@
         "Finance and Accounting"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Finance"
+        "Finance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6432,11 +6434,11 @@
         "Retail"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Grocery",
         "Payments",
         "B2B",
-        "Retail"
+        "Retail",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6486,8 +6488,8 @@
         "Sales"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Analytics"
+        "Analytics",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6618,11 +6620,11 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Sales",
         "Video",
-        "Marketing"
+        "Marketing",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6648,11 +6650,11 @@
         "Human Resources"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "HR Tech",
-        "Operations"
+        "Operations",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -6705,11 +6707,11 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Security",
         "Open Source",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -6875,8 +6877,8 @@
         "Insurance"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Insurance"
+        "Insurance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; San Francisco, CA, USA"
@@ -6912,6 +6914,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea7226636e49fe4dde4372e69139e8b1c7429ecd.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-accountable",
+      "name": "Accountable",
+      "slug": "accountable",
+      "one_liner": "Smarter Spending for Vacation Property Managers",
+      "long_description": "Accountable is AI-powered accounting automation for vacation rental property managers. These companies spend money on behalf of hundreds or thousands of property owners on cleaning, maintenance, supplies and repairs. Every dollar has to be paid, tracked, and charged back to the right owner, which most teams still do by hand across disconnected systems.\r\n\r\nAccountable handles payments, cards, approvals and expense tracking in one place, and syncs everything to the tools property managers already use: their property management software, field operations tools and accounting system. The result is fewer people doing data entry, accurate owner statements, and books that close 90% faster.\r\n\r\nServing tens of thousands of properties. ",
+      "website": "https://accountablevr.com",
+      "yc_url": "https://www.ycombinator.com/companies/accountable",
+      "yc_batch": "Summer 2022",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Real Estate and Construction",
+        "Housing and Real Estate"
+      ],
+      "tags": [
+        "Fintech",
+        "Real Estate",
+        "Proptech"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4710968823e20b9c7b3a37ba3b9ca6b199fe6ec.png",
       "sponsorship": null
     },
     {
@@ -7123,8 +7153,8 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -7177,9 +7207,9 @@
         "Asset Management"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Finance",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA"
@@ -7342,8 +7372,8 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -7453,7 +7483,6 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Productivity",
         "AI"
@@ -7481,7 +7510,6 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "AI"
       ],
@@ -7509,9 +7537,9 @@
         "Recruiting and Talent"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -7651,12 +7679,12 @@
       "id": "yc-arzana",
       "name": "Arzana",
       "slug": "arzana",
-      "one_liner": "The autonomous ERP for every manufacturer",
+      "one_liner": "Adaptive AI built for manufacturers",
       "long_description": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs.\r\n\r\nIn the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
       "website": "https://www.arzana.com/",
       "yc_url": "https://www.ycombinator.com/companies/arzana",
       "yc_batch": "Spring 2026",
-      "team_size": 9,
+      "team_size": 13,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -7725,32 +7753,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-atlaswork",
-      "name": "Atlas",
-      "slug": "atlaswork",
-      "one_liner": "AI contract agent: Fill a template, get signed, and run next actions.",
-      "long_description": "Atlas is an AI contract agent. It fills your agreement template, gets every signature, then runs next actions: files the signed copy to your CRM, pings your team, and watches the renewal. \r\n\r\nTeams use Atlas from chat (Claude, ChatGPT, Cursor), from the dashboard, or through our API and MCP.",
-      "website": "https://atlaswork.ai",
-      "yc_url": "https://www.ycombinator.com/companies/atlaswork",
-      "yc_batch": "Summer 2022",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "B2B",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/98f68049bfdd41edf9f9b38ee72e792b28ec89a9.png",
       "sponsorship": null
     },
     {
@@ -8124,9 +8126,9 @@
         "Finance and Accounting"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Finance",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -8788,8 +8790,8 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Automation",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -8869,10 +8871,10 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Analytics",
         "Marketing",
-        "CRM"
+        "CRM",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA"
@@ -9162,7 +9164,7 @@
       "website": "https://cleanly.com",
       "yc_url": "https://www.ycombinator.com/companies/cleanly",
       "yc_batch": "Winter 2015",
-      "team_size": 40,
+      "team_size": 200,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -9223,9 +9225,9 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -9408,8 +9410,8 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Automation"
+        "Automation",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA"
@@ -9516,11 +9518,11 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Marketplace",
         "Finance",
         "Cloud Computing",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -9602,11 +9604,11 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
         "Healthcare",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10036,11 +10038,11 @@
         "Legal"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Generative AI",
         "Machine Learning",
-        "DevOps"
+        "DevOps",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -10121,9 +10123,9 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Data Labeling",
         "Big Data",
+        "AI",
         "AI Assistant",
         "Databases"
       ],
@@ -10400,11 +10402,11 @@
         "Content"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Payments",
         "Entertainment",
         "Advertising",
-        "Creator Economy"
+        "Creator Economy",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10430,9 +10432,9 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10513,11 +10515,11 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Hard Tech",
         "SaaS",
         "Supply Chain",
-        "Enterprise Software"
+        "Enterprise Software",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10598,8 +10600,8 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -10651,11 +10653,11 @@
         "Consumer Health and Wellness"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Machine Learning",
         "Consumer Health Services",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -11152,8 +11154,8 @@
         "Home and Personal"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Fitness"
+        "Fitness",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA"
@@ -11233,8 +11235,8 @@
         "Infrastructure"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "NLP"
+        "NLP",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA"
@@ -11259,7 +11261,6 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "AI",
         "APIs"
       ],
@@ -11519,11 +11520,11 @@
         "Education"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Education",
         "SaaS",
         "B2B",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -11792,9 +11793,9 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "Aerospace"
+        "Aerospace",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -12268,7 +12269,6 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Healthcare IT",
@@ -12355,10 +12355,10 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "B2B",
-        "Productivity"
+        "Productivity",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -12877,10 +12877,10 @@
         "Banking and Exchange"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "B2B",
-        "Neobank"
+        "Neobank",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -13345,9 +13345,9 @@
         "Consumer"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Education",
-        "Consumer"
+        "Consumer",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -13398,10 +13398,10 @@
         "Asset Management"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Investments",
-        "Trading"
+        "Trading",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -13587,9 +13587,9 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "B2B"
+        "B2B",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14044,7 +14044,7 @@
         "Sales"
       ],
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14289,9 +14289,9 @@
         "Consumer Finance"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Consumer Finance",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -14318,9 +14318,9 @@
         "Productivity"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14401,7 +14401,7 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14454,9 +14454,9 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
-        "LegalTech"
+        "LegalTech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14482,10 +14482,10 @@
         "Consumer Finance"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Fintech",
         "Consumer",
-        "Consumer Finance"
+        "Consumer Finance",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14578,34 +14578,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1806ed31ccae256cd4739f203e4b05a30a49eea.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-miyagi-labs",
-      "name": "Miyagi Labs",
-      "slug": "miyagi-labs",
-      "one_liner": "AI tutors for exam prep",
-      "long_description": "Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material.\r\n\r\nWe currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey).\r\n\r\nWe\u2019re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential.",
-      "website": "https://miyagilabs.ai",
-      "yc_url": "https://www.ycombinator.com/companies/miyagi-labs",
-      "yc_batch": "Winter 2025",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Education"
-      ],
-      "tags": [
-        "AI-Enhanced Learning",
-        "Education",
-        "eLearning",
-        "Edtech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5465f36b202134eec8628c9e4cf35661e125dbd.png",
       "sponsorship": null
     },
     {
@@ -14733,11 +14705,11 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Logistics",
         "Manufacturing",
         "E-commerce",
-        "Supply Chain"
+        "Supply Chain",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -14843,9 +14815,9 @@
         "Content"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
-        "Video"
+        "Video",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15090,11 +15062,11 @@
         "Consumer Health and Wellness"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Consumer Health Services",
         "Health Tech",
         "Digital Health",
-        "Health & Wellness"
+        "Health & Wellness",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15119,11 +15091,11 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Hardware",
         "Health Tech",
         "Logistics",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15206,8 +15178,8 @@
         "Supply Chain and Logistics"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Logistics"
+        "Logistics",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15300,7 +15272,7 @@
       "name": "Offbeast",
       "slug": "offbeast",
       "one_liner": "We make plant-based steaks with an authentic texture",
-      "long_description": "We make premium plant-based whole-cuts with an authentic texture through our proprietary Cross-Fiber Assembly\u2122 platform. More than 85% of our customers agree that Offbeast products have the best texture they've ever had in a plant-based meat product.",
+      "long_description": "We add authentic meat-like textures to plant-based and animal proteins. By upscaling low-value minced meat into higher-value whole cuts, we increase meat producers' margins by 50-300%, while maintaining a clean label and protein content.",
       "website": "https://www.offbeast.com",
       "yc_url": "https://www.ycombinator.com/companies/offbeast",
       "yc_batch": "Winter 2022",
@@ -15443,47 +15415,17 @@
         "Government"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Civic Tech",
         "GovTech",
         "Climate",
-        "Transportation"
+        "Transportation",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/232f7609d7e1de5c6a2ce76251083a8161f16672.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-opera",
-      "name": "OpEra",
-      "slug": "opera",
-      "one_liner": "The AI decision engine for factories, warehouses and fleets",
-      "long_description": "OpEra Technologies is the AI decision engine for factories, warehouses and fleets. Companies with physical operations make thousands of decisions every day, and we help their teams make the best one at every step from production to delivery: (1) Planning: how much to make, buy and stock. (2) Scheduling: what runs when, and who works on what. (3) Allocation: which warehouse or store gets each order. (4) Routing: boat, plane or truck, and which route each one takes. Founded out of MIT's Operations Research Center.",
-      "website": "https://operatechnologies.com",
-      "yc_url": "https://www.ycombinator.com/companies/opera",
-      "yc_batch": "Fall 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Logistics",
-        "Manufacturing",
-        "Supply Chain",
-        "Operations"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31457ec77d0c307cc8c7986a68fd9d81c50a99ce.png",
       "sponsorship": null
     },
     {
@@ -15808,10 +15750,10 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "LegalTech",
         "Data Science",
         "Data Engineering",
+        "AI",
         "Conversational AI"
       ],
       "locations": [
@@ -15838,10 +15780,10 @@
         "Security"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Cybersecurity",
         "Fraud Prevention",
-        "Fraud Detection"
+        "Fraud Detection",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -15866,7 +15808,7 @@
         "Fintech"
       ],
       "tags": [
-        "Artificial Intelligence"
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -16311,7 +16253,6 @@
         "Analytics"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "Analytics",
         "Big Data",
@@ -16398,8 +16339,8 @@
         "Productivity"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Assistive Tech"
+        "Assistive Tech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Cambridge, MA, USA"
@@ -16481,10 +16422,10 @@
         "Gaming"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Consumer",
         "Gaming",
-        "Social"
+        "Social",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -16616,9 +16557,9 @@
         "Marketing"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
-        "Video"
+        "Video",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -16696,9 +16637,9 @@
         "Sales"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Sales",
-        "Sales Enablement"
+        "Sales Enablement",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -16751,7 +16692,6 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "AI"
       ],
       "locations": [
@@ -16887,9 +16827,9 @@
         "Marketing"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
-        "NLP"
+        "NLP",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA; Remote"
@@ -17049,17 +16989,41 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Generative AI",
         "B2B",
         "Workflow Automation",
-        "Enterprise"
+        "Enterprise",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/20753f897b891239d8d377fd61dc4c2f58e6523d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-regbase",
+      "name": "Regbase",
+      "slug": "regbase",
+      "one_liner": "Automating Corporate Compliance, Worldwide",
+      "long_description": "",
+      "website": "https://regbase.com",
+      "yc_url": "https://www.ycombinator.com/companies/regbase",
+      "yc_batch": "Spring 2026",
+      "team_size": 3,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
       "sponsorship": null
     },
     {
@@ -17170,6 +17134,29 @@
       "sponsorship": null
     },
     {
+      "id": "yc-rhizome-ai",
+      "name": "Rhizome AI",
+      "slug": "rhizome-ai",
+      "one_liner": "Agent Platform for Life Sciences",
+      "long_description": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. \r\n\r\nToday, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. \r\n\r\nIt\u2019s the best because we have the best retrieval engine. We\u2019ve tuned it on our life science-specific dataset, and we find what others miss.\r\n\r\nAs more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences.\r\n\r\nChetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer.\r\n\r\nAgents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
+      "website": "https://rhizomeai.com/",
+      "yc_url": "https://www.ycombinator.com/companies/rhizome-ai",
+      "yc_batch": "Winter 2026",
+      "team_size": 1,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bcee7f777db1539a455395ef7d0f4174a507995.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-ribbon-health",
       "name": "Ribbon Health",
       "slug": "ribbon-health",
@@ -17240,10 +17227,10 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "E-commerce",
-        "Subscriptions"
+        "Subscriptions",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -17321,10 +17308,10 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
         "B2B",
         "Workflow Automation",
-        "Chat"
+        "Chat",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -17471,7 +17458,7 @@
       "website": "https://www.spate.nyc",
       "yc_url": "https://www.ycombinator.com/companies/spate",
       "yc_batch": "Summer 2018",
-      "team_size": 15,
+      "team_size": 25,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -17831,9 +17818,9 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
-        "Semiconductors"
+        "Semiconductors",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -17915,8 +17902,8 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
-        "Travel"
+        "Travel",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -17936,7 +17923,7 @@
       "yc_batch": "Summer 2023",
       "team_size": 4,
       "stage": "Early",
-      "status": "Active",
+      "status": "Inactive",
       "industries": [
         "B2B",
         "Marketing"
@@ -18056,11 +18043,11 @@
         "Healthcare IT"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Digital Health",
         "API",
-        "Data Science"
+        "Data Science",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
@@ -18086,11 +18073,11 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Workflow Automation",
         "Team Collaboration",
         "Chatbots",
-        "No-code"
+        "No-code",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -18116,11 +18103,11 @@
         "Home and Personal"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Marketplace",
         "Consumer",
-        "E-commerce"
+        "E-commerce",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA; Remote"
@@ -18416,11 +18403,11 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
         "Restaurant Tech",
-        "Food Tech"
+        "Food Tech",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -18501,8 +18488,8 @@
         "B2B"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Data Engineering",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -18729,6 +18716,30 @@
       "sponsorship": null
     },
     {
+      "id": "yc-texel-ai",
+      "name": "Texel.ai",
+      "slug": "texel-ai",
+      "one_liner": "Run AI pipelines 10x faster",
+      "long_description": "Texel is a platform that enables developers to generate hardware-accelerated APIs for running AI pipelines 10 times faster, including image and video applications. For example, developers can use the latest NVIDIA GPUs or Google TPUs without having to become hardware experts themselves.",
+      "website": "https://texel.ai",
+      "yc_url": "https://www.ycombinator.com/companies/texel-ai",
+      "yc_batch": "Winter 2023",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7fa956db067e60a154f7f7120ecc4d4cdc7062f.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-the-mercer-club",
       "name": "The Mercer Club",
       "slug": "the-mercer-club",
@@ -18782,6 +18793,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb7ca44603c00a75f64928d565e780f76a618ec7.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-theo",
+      "name": "Theo",
+      "slug": "theo",
+      "one_liner": "The site-builder and engine that gets your business found. ",
+      "long_description": "Theo is an AI agent that builds your small business website in minutes, then works on it every week so customers find you, whether they search Google themselves or ask an AI. Theo studies your site, your market and your search data, picks what will win the next customer, and ships it: a page for what people are searching for, a post that answers their question, or the fix that was holding you back.",
+      "website": "https://theo.site/",
+      "yc_url": "https://www.ycombinator.com/companies/theo",
+      "yc_batch": "Fall 2026",
+      "team_size": null,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "tags": [
+        "SMB",
+        "SEO",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/df947f888c98a4ba3a32f2fa4873fc57321747c2.png",
       "sponsorship": null
     },
     {
@@ -18931,10 +18970,10 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Healthcare"
+        "Healthcare",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -18947,12 +18986,12 @@
       "id": "yc-toko",
       "name": "Toko",
       "slug": "toko",
-      "one_liner": "Learn English by speaking with an AI",
+      "one_liner": "AI English Tutor",
       "long_description": "Toko helps English learners in East Asia achieve speaking fluency. Through our mobile app, learners engage in short, realistic conversations with an AI and receive feedback on their grammar.\r\n\r\nWith over 500 topics, learners can practice real-world scenarios ranging from small talk to workplace discussions. Toko offers a low-pressure environment to help learners build up their confidence.\r\n\r\nWe make language fluency accessible to everyone - not just those with the means to meet 1:1 with a tutor.\r\n\r\nIn Taiwan (our first market), Toko is ranked top 3 in the App Store for Education!",
       "website": "https://tokotutor.com/",
       "yc_url": "https://www.ycombinator.com/companies/toko",
       "yc_batch": "Winter 2022",
-      "team_size": 5,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -19024,36 +19063,6 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-tracecat",
-      "name": "Tracecat",
-      "slug": "tracecat",
-      "one_liner": "Open-source agentic security automation platform",
-      "long_description": "Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.\r\n\r\nOpen source and community-driven at it's core: https://github.com/TracecatHQ/tracecat",
-      "website": "https://tracecat.com",
-      "yc_url": "https://www.ycombinator.com/companies/tracecat",
-      "yc_batch": "Winter 2024",
-      "team_size": null,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "tags": [
-        "Artificial Intelligence",
-        "Open Source",
-        "Cybersecurity",
-        "Enterprise",
-        "Automation"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
       "sponsorship": null
     },
     {
@@ -19156,10 +19165,10 @@
       ],
       "tags": [
         "AI-Enhanced Learning",
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Sales"
+        "Sales",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -19267,10 +19276,10 @@
         "Infrastructure"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Video",
         "Media",
-        "Infrastructure"
+        "Infrastructure",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -19320,11 +19329,11 @@
         "Industrial Bio"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Synthetic Biology",
         "Biotech",
         "Compliance",
-        "Security"
+        "Security",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -19401,10 +19410,10 @@
         "Healthcare"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Health Tech",
         "Healthcare",
         "Health Insurance",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -19538,10 +19547,10 @@
         "Productivity"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "B2B",
-        "Customer Support"
+        "Customer Support",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -19962,10 +19971,10 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Supply Chain",
         "Big Data",
         "Operations",
+        "AI",
         "AI Assistant"
       ],
       "locations": [
@@ -20150,7 +20159,7 @@
       "website": "https://www.wyndly.com",
       "yc_url": "https://www.ycombinator.com/companies/wyndly",
       "yc_batch": "Winter 2021",
-      "team_size": 10,
+      "team_size": 18,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -20187,9 +20196,9 @@
         "Security"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Security",
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -20215,10 +20224,10 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Machine Learning",
         "Enterprise",
-        "Data Engineering"
+        "Data Engineering",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; New York, NY, USA; Remote"
@@ -20429,10 +20438,10 @@
         "Operations"
       ],
       "tags": [
-        "Artificial Intelligence",
         "SaaS",
         "Chatbot",
-        "Customer Service"
+        "Customer Service",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; S\u00e3o Paulo, SP, Brazil"
@@ -20568,10 +20577,10 @@
         "Engineering, Product and Design"
       ],
       "tags": [
-        "Artificial Intelligence",
         "Developer Tools",
         "Hardware",
-        "Open Source"
+        "Open Source",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
