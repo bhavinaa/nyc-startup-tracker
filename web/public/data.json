@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:12:48+00:00",
+  "generated_at": "2026-10-26T13:46:03+00:00",
   "company_count": 756,
   "companies": [
     {
@@ -471,30 +471,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-atlog",
-      "name": "Atlog",
-      "slug": "atlog",
-      "one_liner": "Outbound voice and text AI without a prompt",
-      "long_description": "Atlog creates voice agents with built-in compliance purpose built for Outbound. Companies use Atlog to automate their calls and texts without worrying about getting sued.",
-      "website": "https://atlog.ai",
-      "yc_url": "https://www.ycombinator.com/companies/atlog",
-      "yc_batch": "Spring 2025",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3405b06390efd124a27be23179a4e549fc3f10d0.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-attack-capital",
       "name": "Attack Capital",
       "slug": "attack-capital",
@@ -681,12 +657,12 @@
       "id": "yc-benepass",
       "name": "Benepass",
       "slug": "benepass",
-      "one_liner": "Fintech for corporate compensation",
-      "long_description": "Benepass consolidates corporate benefits onto a single card, powered by our in-house fintech payments stack\r\n\r\nWe help companies take care of their employees through tax-advantaged benefits (e.g. FSA/HSA, dependent care, commuter) and company-funded stipends (e.g. wellness, WFH, professional development) all on a single card + mobile app.\r\n\r\nWith Benepass, HR teams can centralize all ancillary benefits and perks in the same place and make them a no-brainer for employees to use and engage with.",
-      "website": "http://www.getbenepass.com",
+      "one_liner": "Pre-tax and lifestyle benefits, managed in one place.",
+      "long_description": "Benepass consolidates corporate benefits onto a single card, powered by our in-house fintech payments stack. We run global benefits at scale. \r\n\r\nWe help companies take care of their employees through tax-advantaged benefits (e.g. FSA/HSA, dependent care, commuter) and company-funded lifestyle benefits (e.g. wellness, WFH, professional development) all on a single card + mobile app.",
+      "website": "https://www.benepass.com",
       "yc_url": "https://www.ycombinator.com/companies/benepass",
       "yc_batch": "Winter 2020",
-      "team_size": 45,
+      "team_size": 130,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -701,7 +677,7 @@
         "New York City, NY, USA; New York, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bbc8c4c109a4e7f7a7911309aa1f0821059a311.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0db17e735e0435e1ce25ac6c35d96e72b62cd59.png",
       "sponsorship": null
     },
     {
@@ -1167,6 +1143,30 @@
       "sponsorship": null
     },
     {
+      "id": "yc-claimsorted",
+      "name": "ClaimSorted",
+      "slug": "claimsorted",
+      "one_liner": "Making it easy for insurance companies to process claims",
+      "long_description": "ClaimSorted helps insurance companies remove the hassle of managing claims by enabling them to outsource their claim operations to us. This service is known as a Third Party Administrator (TPA). Unlike traditional TPAs, we blend AI and best-in-class experts to deliver a 5-star customer experience, minimise mistakes and speed up claim assessment.",
+      "website": "https://claimsorted.com",
+      "yc_url": "https://www.ycombinator.com/companies/claimsorted",
+      "yc_batch": "Summer 2024",
+      "team_size": 50,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-clarion",
       "name": "Clarion",
       "slug": "clarion",
@@ -1374,7 +1374,7 @@
       "website": "https://collectwise.com/",
       "yc_url": "https://www.ycombinator.com/companies/collectwise",
       "yc_batch": "Fall 2024",
-      "team_size": 12,
+      "team_size": 22,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1655,7 +1655,7 @@
       "website": "https://diligencesquared.com/",
       "yc_url": "https://www.ycombinator.com/companies/diligencesquared-inc",
       "yc_batch": "Fall 2025",
-      "team_size": 3,
+      "team_size": 5,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1929,8 +1929,8 @@
       "id": "yc-ellipsis",
       "name": "Ellipsis",
       "slug": "ellipsis",
-      "one_liner": "Cloud platform for coding agents",
-      "long_description": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev.\r\n\r\nYou can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. \r\n\r\nOrganizations get full observability and governance of their cloud coding agents.  Agent session logs are downloadable so companies own their own data.\r\n\r\nFull documentation: https://www.ellipsis.dev/docs",
+      "one_liner": "Managed Agent platform ",
+      "long_description": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, harness, prompts, and tools. We'll handle the infrastructure.\r\n\r\nDocumentation: https://www.ellipsis.dev/docs",
       "website": "https://ellipsis.dev",
       "yc_url": "https://www.ycombinator.com/companies/ellipsis",
       "yc_batch": "Winter 2024",
@@ -2200,35 +2200,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1d23e86e87d65a7410c416cf73e10dd2adf94c8.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-floracene",
-      "name": "Floracene",
-      "slug": "floracene",
-      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
-      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
-      "website": "https://www.floracene.com/",
-      "yc_url": "https://www.ycombinator.com/companies/floracene",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare"
-      ],
-      "tags": [
-        "Health Tech",
-        "Medical Devices",
-        "Digital Health",
-        "Enterprise Software",
-        "Healthcare IT"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
       "sponsorship": null
     },
     {
@@ -2648,6 +2619,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-harbera",
+      "name": "Harbera",
+      "slug": "harbera",
+      "one_liner": "AI Healthcare Provider Credentialing Software",
+      "long_description": "Harbera builds AI software that helps healthcare clinics navigate working with insurance companies \u2013 from getting doctors approved to be in-network, to managing the rates insurers agree to pay and ensuring that payments match those rates.\r\n",
+      "website": "https://harbera.com/",
+      "yc_url": "https://www.ycombinator.com/companies/harbera",
+      "yc_batch": "Winter 2025",
+      "team_size": null,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "Healthcare IT",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-haven",
       "name": "Haven",
       "slug": "haven",
@@ -2701,6 +2701,33 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-hazel-2",
+      "name": "Hazel",
+      "slug": "hazel-2",
+      "one_liner": "AI-enabled procurement for government",
+      "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving compliance.",
+      "website": "https://hazelai.com",
+      "yc_url": "https://www.ycombinator.com/companies/hazel-2",
+      "yc_batch": "Winter 2024",
+      "team_size": 7,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Government"
+      ],
+      "tags": [
+        "GovTech",
+        "Procurement",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/27eb77e66d041fd97b3afe3275e43bfa07c30bf6.png",
       "sponsorship": null
     },
     {
@@ -4105,7 +4132,7 @@
       "website": "https://www.outputlabs.ai/",
       "yc_url": "https://www.ycombinator.com/companies/output-labs",
       "yc_batch": "Summer 2021",
-      "team_size": 8,
+      "team_size": 10,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -4473,8 +4500,8 @@
       "id": "yc-piramidal",
       "name": "Piramidal",
       "slug": "piramidal",
-      "one_liner": "Foundation Model for the Brain",
-      "long_description": "Understand & control neural syntax.",
+      "one_liner": "Foundation Models for the Brain",
+      "long_description": "An API into your mind.",
       "website": "https://piramidal.ai",
       "yc_url": "https://www.ycombinator.com/companies/piramidal",
       "yc_batch": "Winter 2024",
@@ -4492,7 +4519,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/498bf9290381446bf87d93fc0ef2a631960e646a.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/31f1fadb4293e57afe421f93282f2132834e1777.png",
       "sponsorship": null
     },
     {
@@ -5328,15 +5355,15 @@
       "sponsorship": null
     },
     {
-      "id": "yc-savahq",
-      "name": "Sava",
-      "slug": "savahq",
+      "id": "yc-sava-trust-company",
+      "name": "Sava Trust Company",
+      "slug": "sava-trust-company",
       "one_liner": "Building the future of trusts",
       "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
-      "website": "https://www.savahq.com",
-      "yc_url": "https://www.ycombinator.com/companies/savahq",
+      "website": "https://www.savatrustcompany.com",
+      "yc_url": "https://www.ycombinator.com/companies/sava-trust-company",
       "yc_batch": "Fall 2025",
-      "team_size": 7,
+      "team_size": 8,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5734,7 +5761,7 @@
       "website": "https://www.stardex.com",
       "yc_url": "https://www.ycombinator.com/companies/stardex",
       "yc_batch": "Summer 2021",
-      "team_size": 7,
+      "team_size": 9,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -6499,36 +6526,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-volaren-inc",
-      "name": "Volaren Inc.",
-      "slug": "volaren-inc",
-      "one_liner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands\u2026",
-      "long_description": "Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.\r\n\r\nTurn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
-      "website": "https://www.volaren.ai",
-      "yc_url": "https://www.ycombinator.com/companies/volaren-inc",
-      "yc_batch": "Fall 2026",
-      "team_size": 4,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Asset Management"
-      ],
-      "tags": [
-        "Fintech",
-        "Marketplace",
-        "Finance",
-        "Creator Economy",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e143f02ee81e74efcd4497792528526f512482b.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-voltic",
       "name": "Voltic",
       "slug": "voltic",
@@ -7111,7 +7108,7 @@
       "id": "yc-agent-37",
       "name": "Agent 37",
       "slug": "agent-37",
-      "one_liner": "Persistent sandboxes for agents like hermes, openclaw, claude code",
+      "one_liner": "Cloud Sandbox for Agents",
       "long_description": "* Ready to Use Instantly: Skip the complex server setup. It comes pre loaded with top AI Agents (like Claude Code and Hermes) so your agents can start working immediately.\r\n\r\n* Keep Your Work Safe: Unlike other systems that delete everything when they finish a task, these sandboxes remember your files, code, and settings forever until you delete them.\r\n\r\n* Pay Only for What You Use: Stop paying for idle servers. You pay a tiny fee to store your files, but you only pay for compute power during the exact minutes your AI is actively running.\r\n\r\n* Zero Infrastructure Headaches: You don\u2019t need to be a senior DevOps engineer or manage complex cloud networks. One simple command handles the entire backend for you.\r\n\r\n* Connect to Any App: Allow your AI agents to securely log into and interact with everyday tools like Slack, Gmail, and GitHub in just a few clicks.",
       "website": "https://www.agent37.com/cloud",
       "yc_url": "https://www.ycombinator.com/companies/agent-37",
@@ -7331,8 +7328,8 @@
       "id": "yc-amika",
       "name": "Amika",
       "slug": "amika",
-      "one_liner": "Infra to build your own software factory",
-      "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
+      "one_liner": "Turn any spare computer into agent devboxes or CI runners",
+      "long_description": "Amika slices computers you already own (a spare Mac Mini, a desktop, EC2 in your VPC) into isolated agent devboxes or CI runners, and puts them all on one private network you can reach from anywhere.\r\n\r\nUse Amika to give your agents always-on computers, to offload CI and build to your own machines, or for anything else where you want to run software and agents on your own devices.",
       "website": "https://www.amika.dev/",
       "yc_url": "https://www.ycombinator.com/companies/amika",
       "yc_batch": "Fall 2025",
@@ -7733,8 +7730,8 @@
       "id": "yc-withasync",
       "name": "Async",
       "slug": "withasync",
-      "one_liner": "AI agents that run small businesses",
-      "long_description": "Async builds AI agents that run small businesses. Law firms, healthcare clinics and real estate companies hire our AI agents to automate complex work that's never been economical to staff with humans, letting us capture labor spend that didn't previously exist.",
+      "one_liner": "AI agents that run businesses",
+      "long_description": "Async builds AI agents that run businesses.",
       "website": "https://withasync.com",
       "yc_url": "https://www.ycombinator.com/companies/withasync",
       "yc_batch": "Summer 2026",
@@ -7753,6 +7750,30 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c746a958222a919c90dfff3a0cd3a949fa81bcc.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-atlog",
+      "name": "Atlog",
+      "slug": "atlog",
+      "one_liner": "Outbound voice and text AI without a prompt",
+      "long_description": "Atlog creates voice agents with built-in compliance purpose built for Outbound. Companies use Atlog to automate their calls and texts without worrying about getting sued.",
+      "website": "https://atlog.ai",
+      "yc_url": "https://www.ycombinator.com/companies/atlog",
+      "yc_batch": "Spring 2025",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3405b06390efd124a27be23179a4e549fc3f10d0.png",
       "sponsorship": null
     },
     {
@@ -9220,7 +9241,7 @@
       "yc_batch": "Summer 2025",
       "team_size": 2,
       "stage": "Early",
-      "status": "Active",
+      "status": "Inactive",
       "industries": [
         "B2B"
       ],
@@ -11219,6 +11240,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-floracene",
+      "name": "Floracene",
+      "slug": "floracene",
+      "one_liner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
+      "long_description": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team.\r\n\r\nThe bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder\u2019s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn\u2019t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production.\r\n\r\nA staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption.\r\n\r\nAsaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+      "website": "https://www.floracene.com/",
+      "yc_url": "https://www.ycombinator.com/companies/floracene",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Health Tech",
+        "Medical Devices",
+        "Digital Health",
+        "Enterprise Software",
+        "Healthcare IT"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4083ec47b697a352249164c76574e273a5fa75d7.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-flowbot",
       "name": "Flowbot",
       "slug": "flowbot",
@@ -12253,35 +12303,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-harbera",
-      "name": "Harbera",
-      "slug": "harbera",
-      "one_liner": "AI Healthcare Provider Credentialing Software",
-      "long_description": "Harbera helps clinic keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and lost revenue caused by doctors falling out-of-network.",
-      "website": "https://harbera.com/",
-      "yc_url": "https://www.ycombinator.com/companies/harbera",
-      "yc_batch": "Winter 2025",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "tags": [
-        "Health Tech",
-        "Healthcare",
-        "Healthcare IT",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-harmonic-discovery",
       "name": "Harmonic Discovery",
       "slug": "harmonic-discovery",
@@ -12392,33 +12413,6 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-hazel-2",
-      "name": "Hazel",
-      "slug": "hazel-2",
-      "one_liner": "AI-enabled procurement for government",
-      "long_description": "Hazel builds AI-powered procurement software for U.S. state, local, and federal government agencies. We automate the full procurement process including requirements generation, market research, solicitation drafting, and proposal evaluation. Agencies use Hazel to save time and money while improving compliance.",
-      "website": "https://hazelai.com",
-      "yc_url": "https://www.ycombinator.com/companies/hazel-2",
-      "yc_batch": "Winter 2024",
-      "team_size": 7,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Government"
-      ],
-      "tags": [
-        "GovTech",
-        "Procurement",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/27eb77e66d041fd97b3afe3275e43bfa07c30bf6.png",
       "sponsorship": null
     },
     {
@@ -14640,8 +14634,8 @@
       "id": "yc-mochatrade",
       "name": "Mochatrade",
       "slug": "mochatrade",
-      "one_liner": "US stock trading, unlocked for the globe",
-      "long_description": "Mochatrade lets global traders trade top US stocks using perpetual futures. Access all US stocks including TSLA, NVDA, and AAPL, plus pre-IPO companies and commodities, no US brokerage account needed. Money in and out in local currency (UPI in India), with professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), expanding across other markets. Backed by Coinfund, Coinbase, and Y Combinator.\r\n\r\n",
+      "one_liner": "Trade US markets from India, in Rupees",
+      "long_description": "Mochatrade lets Indians trade US markets from India, in Rupees. Go long or short on your favorite US stock tokens with leverage. Fund with UPI. Trade 24/7.",
       "website": "https://www.mochatrade.com",
       "yc_url": "https://www.ycombinator.com/companies/mochatrade",
       "yc_batch": "Spring 2026",
@@ -14659,7 +14653,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b53aed7c2d61caf968cbcb61a42f6cd0f7f65ef9.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41f6bb0885038cff5deb3b8cceebac0e314d969c.png",
       "sponsorship": null
     },
     {
@@ -18712,7 +18706,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/21712c0189bc22ccc5e9bfeb15e67a527077b8f7.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd6be2cf6a34817d94716dd43cba7de917787b78.png",
       "sponsorship": null
     },
     {
@@ -19151,12 +19145,12 @@
       "id": "yc-trellus",
       "name": "Trellus",
       "slug": "trellus",
-      "one_liner": "Real-time sales coach for SDRs ",
-      "long_description": "Trellus delivers simple coaching prompts to your salespeople in real time as they speak to prospects. Prompts are delivered in response to what is happening in a conversation. The goal of these prompts is to get more reps achieving quota and to reduce the time it takes to start attaining quota.\r\n\r\nPrompts are action-oriented steps toward empathetic listening and effective discovery. Examples include 'pause' (when talking too much), 'set next steps' (when wrapping up a call without them), and 'ask current state' (when encountering objections).\r\n\r\nTrellus is backed by Y Combinator and founded by former MIT researchers.",
+      "one_liner": "Power and parallel dialing with AI coaching, inside your CRM",
+      "long_description": "Trellus is a Chrome extension that power dials or parallel dials up to five lines inside the CRM or sales engagement platform a sales team already uses, and saves each call's outcome, notes and callback back to the record the rep called from. Reps rehearse objections with AI practice calls, and teams on the Business plan add real-time AI coaching, team analytics and a virtual sales floor. Plans start at $99.99 per seat per month.",
       "website": "https://www.trellus.ai",
       "yc_url": "https://www.ycombinator.com/companies/trellus",
       "yc_batch": "Winter 2022",
-      "team_size": 3,
+      "team_size": 8,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -19164,10 +19158,10 @@
         "Sales"
       ],
       "tags": [
-        "AI-Enhanced Learning",
         "SaaS",
         "B2B",
         "Sales",
+        "Sales Enablement",
         "AI"
       ],
       "locations": [
@@ -19487,7 +19481,7 @@
       "yc_batch": "Winter 2018",
       "team_size": 25,
       "stage": "Growth",
-      "status": "Active",
+      "status": "Inactive",
       "industries": [
         "Consumer",
         "Content"
@@ -19612,7 +19606,7 @@
       "name": "ValueMate",
       "slug": "valuemate",
       "one_liner": "Valuemate automates real estate appraisals with AI ",
-      "long_description": "Property appraisals suck \u2014 September\u2019s new federal rules will make them even worse.\r\n\r\nValueMate\u2019s LiDAR-plus-AI app captures a property in a three-minute walkthrough and delivers a regulator-ready report on our dashboard, slashing cycle times by 80% for the valuation firms already on board.\r\n\r\nIn the next few months, every bank, AMC, and independent appraiser must switch to the new format or watch loans pile up. ValueMate handles the transition end-to-end, with zero tape measures, zero data entry, and zero closing delay.\r\n\r\nWe\u2019re transforming the multi-billion dollar appraisal industry with technology that captures millions of 3D data points per walkthrough.",
+      "long_description": "ValueMate\u2019s LiDAR-plus-AI app captures a property in a three-minute walkthrough and delivers a regulator-ready report on our dashboard, slashing cycle times by 80% for the valuation firms already on board.\r\n\r\nIn the next few months, every bank, AMC, and independent appraiser must switch to the new format or watch loans pile up. ValueMate handles the transition end-to-end, with zero tape measures, zero data entry, and zero closing delay.\r\n\r\nWe\u2019re transforming the multi-billion dollar appraisal industry with technology that captures millions of 3D data points per walkthrough.",
       "website": "https://valuemate.ai",
       "yc_url": "https://www.ycombinator.com/companies/valuemate",
       "yc_batch": "Spring 2025",
@@ -19706,6 +19700,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-verata",
+      "name": "Verata",
+      "slug": "verata",
+      "one_liner": "Network Intelligence for Investors",
+      "long_description": "Source Proprietary Deals Through Your Network. Verata combines relationship intelligence with private company data to help PE firms find targets, identify warm paths, and get to companies before they hit the market. We also empower firms to leverage their extended network for back-channeling and due diligence on prospective investment targets. ",
+      "website": "https://www.veratainsight.com/",
+      "yc_url": "https://www.ycombinator.com/companies/verata",
+      "yc_batch": "Winter 2023",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "Generative AI",
+        "SaaS",
+        "HR Tech"
+      ],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04042feea68cfa6b3181b5712c149970e24f178f.png",
       "sponsorship": null
     },
     {
@@ -20613,35 +20635,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2939fc1f345f3d723e20ae656bdeadcc024ba9e0.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-o11",
-      "name": "o11",
-      "slug": "o11",
-      "one_liner": "AI account managers for consumer/self-serve apps",
-      "long_description": "o11 is the AI account manager for consumer and self-serve applications, helping teams treat every customer like a flagship client. It brings email and iMessage conversations together, suggests personal replies, and turns customer signals into timely follow-ups. Teams can tailor each persona\u2019s voice and review response plans before turning them on.",
-      "website": "https://o11.ai",
-      "yc_url": "https://www.ycombinator.com/companies/o11",
-      "yc_batch": "Winter 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Customer Success",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
       "sponsorship": null
     },
     {
