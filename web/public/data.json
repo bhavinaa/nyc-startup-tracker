@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T13:46:03+00:00",
-  "company_count": 756,
+  "generated_at": "2026-11-02T16:43:03+00:00",
+  "company_count": 758,
   "companies": [
     {
       "id": "yc-222",
@@ -346,7 +346,7 @@
       "yc_url": "https://www.ycombinator.com/companies/arva-ai",
       "yc_batch": "Summer 2024",
       "team_size": 20,
-      "stage": "Early",
+      "stage": "Growth",
       "status": "Active",
       "industries": [
         "B2B"
@@ -897,12 +897,12 @@
       "id": "yc-cardinal-gray",
       "name": "Cardinal Gray",
       "slug": "cardinal-gray",
-      "one_liner": "Automating lenders' interactions with the DMV",
-      "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower\u2019s DMV. This is difficult because the process varies by state and county. We\u2019ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
+      "one_liner": "Streamlined DMV lien filing for auto lenders",
+      "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower\u2019s DMV. This is difficult because the process varies dramatically by state and county. We've handled over $10B in filings and are helping lenders like Capital One and OneMain file liens on around 30k cars each month.",
       "website": "https://www.cardinalgray.com/",
       "yc_url": "https://www.ycombinator.com/companies/cardinal-gray",
       "yc_batch": "Summer 2023",
-      "team_size": 6,
+      "team_size": 4,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1163,7 +1163,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfcd7979c97f774f10a38a9a706ca6f632e07d98.png",
       "sponsorship": null
     },
     {
@@ -1256,8 +1256,8 @@
       "id": "yc-coast",
       "name": "Coast",
       "slug": "coast",
-      "one_liner": "Demo Platform for API-First Companies",
-      "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world\u2019s largest enterprises.",
+      "one_liner": "Demo operations for the AI era",
+      "long_description": "Coast is the demo platform that turns your complex infrastructure products into a scalable program. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world\u2019s largest enterprises.",
       "website": "https://trycoast.com",
       "yc_url": "https://www.ycombinator.com/companies/coast",
       "yc_batch": "Summer 2021",
@@ -1278,19 +1278,19 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed33f81f04c7a7660bb89ef0d677adf2dcf0179e.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78f28e553f97b2af49a667ef43877655e0079d3e.png",
       "sponsorship": null
     },
     {
       "id": "yc-codes-health",
       "name": "Codes Health",
       "slug": "codes-health",
-      "one_liner": "Medical Record Retrieval with Zero Human Error",
-      "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to retrieve & analyze docs for law firms, providers, and more. ",
+      "one_liner": "AI-native medical record retrieval",
+      "long_description": "Codes Health is building an AI-native platform to retrieve medical records nationwide. We reverse-engineer the back offices of healthcare providers to handle the process end to end: submitting requests, navigating provider requirements, and tracking each request through delivery. ",
       "website": "https://www.codeshealth.com/",
       "yc_url": "https://www.ycombinator.com/companies/codes-health",
       "yc_batch": "Summer 2024",
-      "team_size": 35,
+      "team_size": 45,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -1306,14 +1306,14 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ecaa2ad1fa8b8a90a0535cc7f454d156973ef158.png",
       "sponsorship": null
     },
     {
       "id": "yc-cofactr",
       "name": "Cofactr",
       "slug": "cofactr",
-      "one_liner": "Cloud pre-factory logistics and procurement for electronics",
+      "one_liner": "AI-Powered Electronics Supply Chain Infrastructure",
       "long_description": "Innovative hardware teams use Cofactr to scale their electronic hardware from BOM through production, replacing spreadsheets and shelves with insights and on-demand infrastructure.\r\n\r\nWe're a Y Combinator W22 company with growing revenue and backed with significant venture funding from VCs like Bain Capital Ventures.",
       "website": "https://www.cofactr.com/",
       "yc_url": "https://www.ycombinator.com/companies/cofactr",
@@ -1451,12 +1451,12 @@
       "id": "yc-converge",
       "name": "Converge",
       "slug": "converge",
-      "one_liner": "All-in-one marketing measurement for B2C",
-      "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
+      "one_liner": "AI-native growth platform for DTC",
+      "long_description": "We're building agents that buy and scale ads for some of the biggest consumer brands like Hims & Hers. They automate all parts of the growth engine: launching, scaling, learning from results, and producing new ads to close the loop.\r\n\r\nToday they make over 90% of all budget changes in the ad account, managing $1M+ in daily budgets. They learn from user feedback and proactively look for more work to automate.",
       "website": "http://www.runconverge.com",
       "yc_url": "https://www.ycombinator.com/companies/converge",
       "yc_batch": "Summer 2023",
-      "team_size": 11,
+      "team_size": 13,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -2288,6 +2288,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-guild",
+      "name": "GUILD",
+      "slug": "guild",
+      "one_liner": "Making Defense Manufacturing Faster and Cheaper",
+      "long_description": "GUILD is an AI-Native Defense prime making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
+      "website": "https://www.guildai.co",
+      "yc_url": "https://www.ycombinator.com/companies/guild",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Defense"
+      ],
+      "tags": [
+        "Manufacturing",
+        "Supply Chain",
+        "Defense",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-garage-2",
       "name": "Garage",
       "slug": "garage-2",
@@ -2365,6 +2394,34 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-ghosteye",
+      "name": "GhostEye",
+      "slug": "ghosteye",
+      "one_liner": "Your always-on red team.",
+      "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
+      "website": "https://ghosteye.ai",
+      "yc_url": "https://www.ycombinator.com/companies/ghosteye",
+      "yc_batch": "Summer 2025",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "tags": [
+        "B2B",
+        "Cybersecurity",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
       "sponsorship": null
     },
     {
@@ -2924,7 +2981,7 @@
       "name": "IronLedger.ai",
       "slug": "ironledger-ai",
       "one_liner": "AI-enabled Corporate Cards and Invoice Processing for Real Estate",
-      "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 80K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
+      "long_description": "IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We streamline busywork and audit spend against 100K+ units to improve NOI.\r\n\r\nhttps://www.ironledger.ai/",
       "website": "https://ironledger.ai",
       "yc_url": "https://www.ycombinator.com/companies/ironledger-ai",
       "yc_batch": "Summer 2025",
@@ -3212,7 +3269,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ac6b4c3dd34328cb86f2f81c4d868040f3557d.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db6da4cd27c16fd721b2bc69aab6f5c1f7055637.png",
       "sponsorship": null
     },
     {
@@ -4635,34 +4692,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-postal",
-      "name": "Postal",
-      "slug": "postal",
-      "one_liner": "An AI native virtual address & mailroom for businesses.",
-      "long_description": "Postal offers a modern virtual mailbox for businesses. Postal provides an official address for government, IRS, and vendor communications so companies don't have to use an apartment / shared office address.\r\n\r\nPostal's AI summarizes mail and recommends compliance actions, and its marketplace of service providers are ready to perform the mundane compliance work that otherwise falls through the cracks. \r\n\r\nCompanies get 6 months free (a $300 value), plus three free hours of compliance services (a $600 value). ",
-      "website": "https://usepostal.com",
-      "yc_url": "https://www.ycombinator.com/companies/postal",
-      "yc_batch": "Winter 2022",
-      "team_size": 4,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Insurance"
-      ],
-      "tags": [
-        "Compliance",
-        "Operations",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/911ebad4ffeccf83b0c6f626fa7f16fe4bb95679.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-prequel",
       "name": "Prequel",
       "slug": "prequel",
@@ -4694,8 +4723,8 @@
       "id": "yc-prosights",
       "name": "ProSights",
       "slug": "prosights",
-      "one_liner": "ProSights is a data / AI transformation partner to PE-backed portcos.",
-      "long_description": "",
+      "one_liner": "Data services for finance and operations at PE-backed companies.",
+      "long_description": "ProSights is a data services firm for finance and operations at PE-backed companies. It reconciles the data across a company's ERP, CRM and operating systems, then builds the reporting, migrations and finance workflows that run on it. Typical engagements are job-level profitability across a roll-up's acquired businesses, consolidating acquired CRMs and ERPs after a deal, contract terms reconciled into Salesforce and ARR, and AP and bank reconciliation across subsidiaries. Clients include Thoma Bravo, Vista and Blackstone portfolio companies. The New York team combines private equity and consulting experience with senior engineers, and works inside the client's own systems, with every number traced to the record it came from.",
       "website": "https://prosights.co/",
       "yc_url": "https://www.ycombinator.com/companies/prosights",
       "yc_batch": "Winter 2024",
@@ -4704,7 +4733,7 @@
       "status": "Active",
       "industries": [
         "B2B",
-        "Operations"
+        "Finance and Accounting"
       ],
       "tags": [
         "Fintech",
@@ -5211,34 +5240,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-rulebase",
-      "name": "Rulebase",
-      "slug": "rulebase",
-      "one_liner": "AI customer operations for regulated industries.",
-      "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
-      "website": "https://rulebase.co",
-      "yc_url": "https://www.ycombinator.com/companies/rulebase",
-      "yc_batch": "Fall 2024",
-      "team_size": 4,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [
-        "Customer Success",
-        "Customer Service",
-        "Customer Support"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
       "sponsorship": null
     },
     {
@@ -5862,6 +5863,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-staffbar",
+      "name": "Superwall",
+      "slug": "staffbar",
+      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+      "website": "https://superwall.com",
+      "yc_url": "https://www.ycombinator.com/companies/staffbar",
+      "yc_batch": "Summer 2021",
+      "team_size": 25,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Payments",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-swadesh",
       "name": "Swadesh",
       "slug": "swadesh",
@@ -5973,7 +6002,7 @@
       "id": "yc-synthetic-society",
       "name": "Synthetic Society",
       "slug": "synthetic-society",
-      "one_liner": "Synthetic Videos to Simulate Real Users",
+      "one_liner": "Synthetic Videos to Power Marketing",
       "long_description": "",
       "website": "https://syntheticsociety.ai/",
       "yc_url": "https://www.ycombinator.com/companies/synthetic-society",
@@ -5983,7 +6012,7 @@
       "status": "Active",
       "industries": [
         "B2B",
-        "Engineering, Product and Design"
+        "Marketing"
       ],
       "tags": [],
       "locations": [
@@ -6479,23 +6508,27 @@
       "name": "Verse Medical",
       "slug": "jetlenses",
       "one_liner": "AI-enabled ordering for medical equipment & supplies",
-      "long_description": "As healthcare costs have increased, the patient's home has become incredibly important as a site of care. Yet, patients recovering at home are highly underserved.\r\n\r\nPatients can only get better at home if they receive the high-quality care that they need reliably. The existing in-home care process involves patchwork of different vendors, all connected through faxes by nurses. We're building modern, robust software that solves this challenge and brings this market online.",
+      "long_description": "It costs nearly $12,000 for a patient to spend a single night at a hospital. Delivering care at home is often far less expensive and much more convenient for patients.\r\n\r\nBut robust infrastructure to enable this transition from the hospital to the home is missing. Instead, it\u2019s a patchwork of different vendors, tied together by faxes, phone calls and hours of time by nurses. Durable medical equipment (DME) delivery is a part of healthcare that\u2019s forgotten until it goes wrong.\r\n\r\nVerse\u2019s AI-enabled ordering platform solves these problems, ensuring patients and clinicians have a seamless experience every time.\r\n\r\nWe\u2019re a well-funded Series C company backed by General Catalyst, SignalFire, and Sapphire Ventures, and we\u2019re growing fast. If you want to help move healthcare from the hospital to the home, we\u2019d love to meet you.",
       "website": "http://versemedical.com/",
       "yc_url": "https://www.ycombinator.com/companies/jetlenses",
       "yc_batch": "Summer 2018",
-      "team_size": 200,
+      "team_size": 250,
       "stage": "Growth",
       "status": "Active",
       "industries": [
         "Healthcare",
         "Healthcare IT"
       ],
-      "tags": [],
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "Healthcare IT"
+      ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aff3fe26c747fac4d0b2d1e8d6b67a0b034d6e6.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5edc6f39318198baa65774d95ec3874e786a52ec.png",
       "sponsorship": null
     },
     {
@@ -7221,7 +7254,7 @@
       "slug": "allure-systems",
       "one_liner": "A.I. to create stunning fashion images for eCommerce. ",
       "long_description": "Allure Systems was Acquired by Farfetch (NASDAQ: FTCH) in Dec 2021. AllureSystems uses generative A.I. to create stunning apparel images for eCommerce. Allure works with leading fashion retailers to improve conversion rates by creating images that resonate with their clients in a scalable and cost-effective way. \r\nWith a single photo of clothing,  a brand can produce unlimited images, on any model, instantly.  The ability to show styles on models in every size increases conversion rates and wow the customers. Without needing models or photographers on-site, brands can produce images for their product page at scale.\r\n",
-      "website": "http://www.alluresystems.com/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/allure-systems",
       "yc_batch": "Winter 2019",
       "team_size": 18,
@@ -8438,7 +8471,7 @@
       "slug": "bracket",
       "one_liner": "Two-way syncs between business tools and your database",
       "long_description": "Bracket is the two-way data pipeline between popular business tools and backend databases. When ops teams update data in Salesforce or Airtable, and engineers update data in the database, Bracket connects the two sources to reflect the same information. ",
-      "website": "https://www.usebracket.com/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/bracket",
       "yc_batch": "Winter 2022",
       "team_size": 3,
@@ -8552,7 +8585,7 @@
       "slug": "buildstream",
       "one_liner": "Workforce solutions for the construction industry",
       "long_description": "BuildStream makes recruitment and payroll easier than ever for busy construction projects looking to hire temporary workers.\r\n\r\nClients get high quality, reliable workers in super quick time, while saving 35% on agency fees.\r\n\r\nWorkers finding jobs through us get better pay, faster pay, and are able to choose from high quality, local jobs.",
-      "website": "https://buildstream.co",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/buildstream",
       "yc_batch": "Summer 2019",
       "team_size": 9,
@@ -10605,39 +10638,12 @@
       "sponsorship": null
     },
     {
-      "id": "yc-elite",
-      "name": "Elite",
-      "slug": "elite",
-      "one_liner": "Healthcare AI",
-      "long_description": "Elite builds AI voice agents that run the front office for healthcare practices. Elite answers every patient call instantly and finishes the job inside the practice's EHR: scheduling, triage, referrals, refills, eligibility, intake, and billing, across voice, SMS, and web, around the clock.\r\n\r\nFront offices are drowning in phone volume, so patients wait on hold, calls go unanswered, and staff get pulled away from care. Elite picks up every call, resolves the routine ones end to end, and escalates anything complex to the team with full context. It ships knowing the scheduling protocols of 18 specialties and writes back to more than 19 EHRs including Epic, athenahealth, eClinicalWorks, and ModMed. There is no rip-and-replace, it goes live in days, and every resolved patient interaction is what we charge for.\r\n\r\nOur starting point is healthcare. The mission is to rebuild the critical industries America runs on, including government, finance, insurance, and manufacturing, by deploying AI agents into the slow, manual workflows at their core.",
-      "website": "https://elitehq.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/elite",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "tags": [
-        "Healthcare",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/950a2e88427ff9cd0ec85f5da8c2e8bd7d8333df.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-elucd",
       "name": "Elucd",
       "slug": "elucd",
       "one_liner": "Polling through mobile ads to enable governments to make better\u2026",
       "long_description": "Elucd is a GovTech company that provides cities with near real-time understanding of how citizens feel about their government.",
-      "website": "http://www.elucd.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/elucd",
       "yc_batch": "Summer 2017",
       "team_size": 8,
@@ -11665,7 +11671,7 @@
       "name": "FutureClinic",
       "slug": "futureclinic",
       "one_liner": "Personal doctors through chat",
-      "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
+      "long_description": "FutureClinic is the world's largest agent-native medical clinic: over 300 doctors (generalists and specialists, covering over 63 specialty types) you can reach directly from Claude, ChatGPT or whichever AI agent you already use. \r\n\r\nHundreds of millions of people use AI models to better understand their own health. But when it comes time to take that information and turn it into medical care, they're left going back to the broken healthcare system, waiting months for a rushed appointment, and feeling frustrated that their doctor doesn't have the time to digest the research they've done with their AI. \r\n\r\nNow, you can ask your AI to bring in a real doctor into that same conversation. A physician reads your whole case and answers you personally, typically within a few hours, and sends a live recorded video called a Human Signature with their response so you know you're getting real care from an expert every time.\r\n\r\nThey can diagnose, prescribe to the pharmacy you choose, order lab tests and even imaging when needed. A visit is $40, with no insurance, appointment or subscription needed, in 33 states and Washington, D.C. You can also start at futureclinic.com. \r\n\r\nFor doctors, FutureClinic is the way to become a personal doctor to patients directly. Build your own AI-native clinic for free in under 3 minutes, get found by the AI agents patients already turn to for help, and set your own prices and hours. Malpractice coverage is included. It\u2019s care on your terms, where you're in control, with no private equity owner or hospital system standing between you and your patients.",
       "website": "https://www.futureclinic.com",
       "yc_url": "https://www.ycombinator.com/companies/futureclinic",
       "yc_batch": "Fall 2024",
@@ -11693,7 +11699,7 @@
       "slug": "fynn",
       "one_liner": "SoFi for trade students",
       "long_description": "Fynn helps people afford trade school in the US. We bring fair and affordable private loans to the trade space, to help students pursue in-demand careers like electricians, nurses, welders, or pharmacists.\r\n",
-      "website": "https://www.fynncredit.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/fynn",
       "yc_batch": "Summer 2019",
       "team_size": 26,
@@ -11741,35 +11747,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/30e81e807267eac09097c7b4e6fc47510c7e0c54.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-guild",
-      "name": "GUILD",
-      "slug": "guild",
-      "one_liner": "Making Defense Manufacturing Faster and Cheaper",
-      "long_description": "GUILD is an AI-Native Defense prime making aerospace parts faster and cheaper. We win defense contracts, automate manufacturing, and deliver to the government's door.",
-      "website": "https://www.guildai.co",
-      "yc_url": "https://www.ycombinator.com/companies/guild",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Industrials",
-        "Defense"
-      ],
-      "tags": [
-        "Manufacturing",
-        "Supply Chain",
-        "Defense",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efd3ccc04f842f9a3a1235ba1ef66aa4447fc993.png",
       "sponsorship": null
     },
     {
@@ -11883,27 +11860,32 @@
       "sponsorship": null
     },
     {
-      "id": "yc-general-aviation",
-      "name": "General Aviation",
-      "slug": "general-aviation",
+      "id": "yc-general-aviation-company",
+      "name": "General Aviation Company",
+      "slug": "general-aviation-company",
       "one_liner": "Fixing air traffic control with remote towers",
-      "long_description": "Building the elements of a new ATC system.",
+      "long_description": "Remote ATC towers to solve the controller shortage and unblock the capacity constraints on our airspace",
       "website": "https://generalaviation.com",
-      "yc_url": "https://www.ycombinator.com/companies/general-aviation",
+      "yc_url": "https://www.ycombinator.com/companies/general-aviation-company",
       "yc_batch": "Spring 2026",
-      "team_size": 0,
+      "team_size": 5,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "Industrials",
         "Aviation and Space"
       ],
-      "tags": [],
+      "tags": [
+        "Hard Tech",
+        "Hardware",
+        "Robotics",
+        "Aerospace"
+      ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea954602807b3490b23ce9d1c2e1a7490777284.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c88c61540eb4bc3abfbdc41b8995a7dc890140.png",
       "sponsorship": null
     },
     {
@@ -12016,34 +11998,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0bca661527cf93aad335c4ac4c75dfec9d20d7d.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-ghosteye",
-      "name": "GhostEye",
-      "slug": "ghosteye",
-      "one_liner": "Your always-on red team.",
-      "long_description": "We emulate the attacks real adversaries run today: help-desk vishing, deepfaked executives, MFA fatigue, and the payloads that follow. We run them against your people and the controls around them to reveal what is actually exploitable, not what looks compliant. Then we close the gap, retest until the fix holds, and give your leadership the evidence that risk actually went down. From initial access to remediation.",
-      "website": "https://ghosteye.ai",
-      "yc_url": "https://www.ycombinator.com/companies/ghosteye",
-      "yc_batch": "Summer 2025",
-      "team_size": 6,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Security"
-      ],
-      "tags": [
-        "B2B",
-        "Cybersecurity",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e189bef77c95ad81a23c2a379e641dd9f19e141.png",
       "sponsorship": null
     },
     {
@@ -12564,7 +12518,7 @@
       "website": "https://gethesperai.com",
       "yc_url": "https://www.ycombinator.com/companies/hesper-ai",
       "yc_batch": "Fall 2026",
-      "team_size": 2,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -12917,7 +12871,7 @@
       "slug": "in-your-corner",
       "one_liner": "We've transformed traditional therapy into an experience that is\u2026",
       "long_description": "In Your Corner is a marketplace for online counseling and coaching services. Through a secure, HIPAA-compliant platform, our service connects users with a carefully curated team of wellness professionals. By conducting online consultations via video chat, written journals, and even texting sessions, we have transformed traditional therapy into an experience that is low-cost, convenient, and completely confidential.\n\nEveryone can benefit from an objective perspective during difficult times, but the current model for supportive services is broken due to insurance gridlock, a clunky referral system, long wait times and unsustainable costs. Our web-based approach offers valuable guidance through accessible and anonymous means. Users log in to secure accounts and speak with licensed professionals on a variety of topics\u2014relationship conflict, job stress, etc.\u2014from anywhere at any time. With our proprietary technology, we have removed every barrier to entry and created an outlet for millions who wouldn\u2019t have sought emotional health services otherwise, reducing stress for an increasingly stressed-out generation. This is the future of mental health. \n\nThe shift in moving counseling services online is inevitable and our product is already in demand: After a successful pilot with Pretty Padded Room, an online therapy website specifically targeted towards millennial women, we are excited to relaunch as In Your Corner, an aspirational brand that provides the very best in counseling, coaching, and calm. In Your Corner improves on our original offering by being more gender-inclusive and convenient. In addition to developing a mobile app to provide one-tap, on-demand support in real time, users also have access not only to licensed mental health counselors, but also coaches in personal and professional development as well as instructors of meditation and breath work.",
-      "website": "http://inyourcorneronline.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/in-your-corner",
       "yc_batch": "Summer 2014",
       "team_size": 2,
@@ -13294,6 +13248,33 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/29bbfaa0a0820cef7bbf80f78a5dd93d5e98508c.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-kanopy",
+      "name": "Kanopy",
+      "slug": "kanopy",
+      "one_liner": "Computer vision operating layer for physical infrastructure",
+      "long_description": "Video to automatically identify risks and condition on power lines, pipelines, rail, and other types of infrastructure over hundreds of miles at once. ",
+      "website": "https://www.kanopy-ai.com/",
+      "yc_url": "https://www.ycombinator.com/companies/kanopy",
+      "yc_batch": "Fall 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Industrials",
+        "Energy"
+      ],
+      "tags": [
+        "Energy",
+        "Industrial"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8db59405c47dfd1fbe3cb7db6cb17937d104692a.png",
       "sponsorship": null
     },
     {
@@ -13707,7 +13688,7 @@
       "slug": "lightwell",
       "one_liner": "",
       "long_description": "",
-      "website": "https://lightwell.pro/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/lightwell",
       "yc_batch": "Summer 2019",
       "team_size": 4,
@@ -14248,7 +14229,7 @@
       "yc_batch": "Fall 2024",
       "team_size": 2,
       "stage": "Early",
-      "status": "Active",
+      "status": "Inactive",
       "industries": [
         "Healthcare"
       ],
@@ -14657,6 +14638,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-monarcha",
+      "name": "Monarcha",
+      "slug": "monarcha",
+      "one_liner": "Turn maps into data",
+      "long_description": "Monarcha is an AI-powered georeferencing platform built for mining, infrastructure, and land intelligence teams. It turns scanned maps, plats, and land documents into accurate, queryable spatial data in seconds.\r\n\r\nAligning historical maps, plats, and survey drawings to real-world coordinates is tedious work. Most teams either hire specialists or skip it entirely, leaving critical spatial data locked in documents.\r\n\r\nMonarcha lets users upload any document and get a fully georeferenced, queryable GIS layer in 90 seconds or less.\r\n\r\nWant to learn more? Check out monarcha.ai",
+      "website": "https://monarcha.ai",
+      "yc_url": "https://www.ycombinator.com/companies/monarcha",
+      "yc_batch": "Summer 2025",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Geographic Information System",
+        "B2B",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ca14064cb81ecebe2c5dd03339d7a44f1e9320f.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-mousecat",
       "name": "MouseCat",
       "slug": "mousecat",
@@ -14826,7 +14834,7 @@
       "slug": "narrator",
       "one_liner": "The only platform that can prep data to answer EVERY question you\u2026",
       "long_description": "Narrator is an end-to-end platform built on top of the data standard, the Activity Schema and starting at $500/mo.  Data analyst are able to build their definitions of their user journey, and use that journey to answer any question that comes up.  From there, data can be visualized in a dashboard, used to build a story like analysis, exported and more.   \r\n\r\nThe biggest values of Narrator is Speed and Cost reduction.  Small teams are able to move fast and answer questions in minutes allowing them to preform the work of very large data teams. All while Narrator is optimized to minimize compute cost of the warehouse.",
-      "website": "https://www.narratordata.com/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/narrator",
       "yc_batch": "Summer 2019",
       "team_size": 8,
@@ -15246,7 +15254,7 @@
       "yc_batch": "Winter 2024",
       "team_size": 5,
       "stage": "Early",
-      "status": "Active",
+      "status": "Inactive",
       "industries": [
         "Consumer"
       ],
@@ -15961,7 +15969,7 @@
       "slug": "paribus",
       "one_liner": "",
       "long_description": "",
-      "website": "https://ramp.com/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/paribus",
       "yc_batch": "Summer 2015",
       "team_size": null,
@@ -16071,7 +16079,7 @@
       "slug": "patientbank",
       "one_liner": "Get medical records online\u2014from any doctor or hospital.",
       "long_description": "PatientBank helps people gather and share medical records online. The company is backed by Y Combinator, General Catalyst, Khosla Ventures, and others.",
-      "website": "https://www.patientbank.us",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/patientbank",
       "yc_batch": "Summer 2016",
       "team_size": 2,
@@ -16426,6 +16434,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-postal",
+      "name": "Postal",
+      "slug": "postal",
+      "one_liner": "An AI native virtual address & mailroom for businesses.",
+      "long_description": "Postal offers a modern virtual mailbox for businesses. Postal provides an official address for government, IRS, and vendor communications so companies don't have to use an apartment / shared office address.\r\n\r\nPostal's AI summarizes mail and recommends compliance actions, and its marketplace of service providers are ready to perform the mundane compliance work that otherwise falls through the cracks. \r\n\r\nCompanies get 6 months free (a $300 value), plus three free hours of compliance services (a $600 value). ",
+      "website": "https://usepostal.com",
+      "yc_url": "https://www.ycombinator.com/companies/postal",
+      "yc_batch": "Winter 2022",
+      "team_size": 4,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "Compliance",
+        "Operations",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/911ebad4ffeccf83b0c6f626fa7f16fe4bb95679.png",
       "sponsorship": null
     },
     {
@@ -17185,7 +17221,7 @@
       "slug": "riley",
       "one_liner": "MailChimp for SMS ",
       "long_description": "",
-      "website": "https://getrileynow.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/riley",
       "yc_batch": "Winter 2017",
       "team_size": 2,
@@ -17358,6 +17394,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cbe3ea3f22fe3582cf726551f2d874c197a6aa0.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-rulebase",
+      "name": "Rulebase",
+      "slug": "rulebase",
+      "one_liner": "AI customer operations for regulated industries.",
+      "long_description": "We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS",
+      "website": "https://rulebase.co",
+      "yc_url": "https://www.ycombinator.com/companies/rulebase",
+      "yc_batch": "Fall 2024",
+      "team_size": 4,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Customer Success",
+        "Customer Service",
+        "Customer Support"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd0ab199d3e881821eeccd658d4f0847f9d9345.png",
       "sponsorship": null
     },
     {
@@ -17635,7 +17699,7 @@
       "name": "Sei AI",
       "slug": "sei-ai",
       "one_liner": "AI Operations Partner for Mortgage & Banking",
-      "long_description": "Sei is an AI platform for mortgage lenders, servicers & banks. We're already live with banks and top IMBs.",
+      "long_description": "AI agents for mortgage",
       "website": "https://seiright.com/",
       "yc_url": "https://www.ycombinator.com/companies/sei-ai",
       "yc_batch": "Winter 2022",
@@ -17829,7 +17893,7 @@
       "slug": "simplylisted",
       "one_liner": "Sell your stuff.",
       "long_description": "SimplyListed makes it really easy for people to sell their stuff. You just take a picture, and they list your item for sale automatically.\r\n\r\nA prototype of the SimplyListed iPhone app was first released on the iTunes App Store in February 2011.",
-      "website": "http://simplylisted.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/simplylisted",
       "yc_batch": "Winter 2011",
       "team_size": 2,
@@ -18195,7 +18259,7 @@
       "slug": "stairs-financial",
       "one_liner": "Find a home you can actually afford",
       "long_description": "Stairs helps young Americans buy their first home. Our home search identifies homes based on their finances, and connects them to government grants, loans and tax breaks.",
-      "website": "https://stairsfinancial.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/stairs-financial",
       "yc_batch": "Winter 2022",
       "team_size": null,
@@ -18333,7 +18397,7 @@
       "slug": "style-lend",
       "one_liner": "Marketplace for Luxury Fashion Rentals. ",
       "long_description": "Style Lend is a marketplace for luxury fashion rentals. Members can monetize their closets by listing their items directly on the iOS app or the website. And other members can rent them directly for a 7 day period. ",
-      "website": "http://StyleLend.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/style-lend",
       "yc_batch": "Winter 2014",
       "team_size": 2,
@@ -18408,34 +18472,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db10327c5327a64bf7bf615e4aebcb38c48d13de.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-staffbar",
-      "name": "Superwall",
-      "slug": "staffbar",
-      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
-      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
-      "website": "https://superwall.com",
-      "yc_url": "https://www.ycombinator.com/companies/staffbar",
-      "yc_batch": "Summer 2021",
-      "team_size": 25,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Developer Tools",
-        "Payments",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
       "sponsorship": null
     },
     {
@@ -18734,12 +18770,40 @@
       "sponsorship": null
     },
     {
+      "id": "yc-the-letter-company",
+      "name": "The Letter Company",
+      "slug": "the-letter-company",
+      "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
+      "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
+      "website": "https://letter.dev",
+      "yc_url": "https://www.ycombinator.com/companies/the-letter-company",
+      "yc_batch": "Fall 2026",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Web Development"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-the-mercer-club",
       "name": "The Mercer Club",
       "slug": "the-mercer-club",
       "one_liner": "The Mercer Club is a subscription service that allows men to rent\u2026",
       "long_description": "The Mercer Club is e-commerce's first-ever men\u2019s rental service offering luxury and streetwear fashions at affordable pricing\u2014 think of it as Rent the Runway for men. Founded on the principle that fashion should be affordable and accessible, The Mercer Club aims to deliver an assortment of clothing, shoes and accessories to fulfill all a man's wardrobe needs, helping them stay on trend while considering their budget. Customers can rent pieces from well-known streetwear brands such as Yeezy, Nike and Supreme or luxury designers such as Gucci, Margiela, Acne and Balenciaga for as little as $25 a day or a monthly subscription for $75 a month. With the subscription plan, renters get 2 items at a time and swap out each week for another set of 2 items. The process is seamless from beginning to end\u2014 after placing an order, items arrive in 2-3 days in a custom box with a prepaid return shipping label. Our specialized team takes care of any laundering on your behalf and minor wear and tear is covered by us.",
-      "website": "https://www.themercerclubnyc.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/the-mercer-club",
       "yc_batch": "Winter 2020",
       "team_size": 2,
@@ -19792,7 +19856,7 @@
       "slug": "viddy",
       "one_liner": "A new way to create landing pages that is video-native.",
       "long_description": "A brand new way to create landing pages that's video-native. Traditional ways of building landing pages are too costly (money & time) and brands want to experiment more. Our landing pages rely on video content to do the heavy lifting from a dev & design perspective.\r\n\r\n\r\nOur landing pages convert well (+15-30% across channels such as paid ads, email, and sms) and take <20min to create. This means brands can test over 10x what the currently do with Viddy.",
-      "website": "https://www.viddyapp.io/",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/viddy",
       "yc_batch": "Winter 2023",
       "team_size": 2,
@@ -20151,7 +20215,7 @@
       "slug": "worldcover",
       "one_liner": "Funding platform for global insurance, starting with crop insurance\u2026",
       "long_description": "WorldCover offers peer-to-peer investments that provide insurance to the global poor. We connect a growing pool of investors who seek uncorrelated investment returns and impact from their capital with a huge and growing need for natural disaster insurance in the developing world.  \r\n\r\nWorldCover's platform improves food and income security for smallholder farmers in developing countries. More than 70% of the 2.5 billion people living at the \u201cbase of the pyramid\u201d throughout the world rely on agriculture for income and sustenance. Farmers face a number of major risks to their livelihoods which they cannot control. Insurance gives them a sense of security even if they have a bad harvest, allowing them to improve their diets, invest in their farms, and send their children to school.\r\n\r\nIn an increasingly interconnected world, diversified markets are becoming harder and harder to find. WorldCover's investment products offer both retail and professional investors attractive yet uncorrelated returns with the world's financial markets.",
-      "website": "https://www.worldcovr.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/worldcover",
       "yc_batch": "Winter 2016",
       "team_size": 20,
