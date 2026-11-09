@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:43:03+00:00",
+  "generated_at": "2026-11-09T17:00:42+00:00",
   "company_count": 758,
   "companies": [
     {
@@ -1091,8 +1091,8 @@
       "id": "yc-clad",
       "name": "Clad",
       "slug": "clad",
-      "one_liner": "Project management software for building infrastructure.",
-      "long_description": "Clad is project management and billing software for infrastructure.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven\u2019t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what\u2019s most important - building.",
+      "one_liner": "Billing and project management for utility construction",
+      "long_description": "Clad is billing and project management software for utility construction.\r\n\r\nThe world is rebuilding its internet and power networks. The utilities, internet companies, and contractors tasked with this work face immense pressure to deliver.\r\n\r\nBut their tools haven\u2019t caught up. Contractors struggle to grow, constrained by cashflow. Operators fly blind, lacking real time visibility into issues. \r\n\r\nClad unifies project operations and finance to automate project tracking, payments, and permitting.\r\n\r\nWith Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what\u2019s most important - building.",
       "website": "https://withclad.com/",
       "yc_url": "https://www.ycombinator.com/companies/clad",
       "yc_batch": "Winter 2023",
@@ -1104,17 +1104,17 @@
         "Construction"
       ],
       "tags": [
-        "Marketplace",
         "SaaS",
         "Construction",
         "B2B",
-        "Collaboration"
+        "Collaboration",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/90c830f0ffefa33c0437d5ac4e919e2d5b606b3b.png",
       "sponsorship": null
     },
     {
@@ -3169,12 +3169,12 @@
       "name": "Kobalt Labs",
       "slug": "kobalt-labs",
       "one_liner": "AI-powered risk and compliance for financial institutions",
-      "long_description": "Automate and strengthen manual risk and compliance operations for fintechs and banks. Given a third party contracts and documentation, Kobalt\u2019s reasoning engine ingests internal policies and procedures, legal commitments, past privacy and compliance assessments, and syncs with external legislation to instantly auto-surface and track risks.\r\n\r\nWe're helping community/regional/sponsor banks increase revenue and scale their partnership and vendor volume, and we're helping fintechs conduct their partner diligence in 1/10 the time, all without needing to increase headcount.\r\n",
+      "long_description": "Kobalt Labs is the AI-native TPRM and compliance platform built for financial institutions. Kobalt eliminates the manual steps from third-party reviews of vendors and fintech partners by extracting critical evidence, identifying control gaps, and generating defensible risk analyses within minutes. Always synchronized with evolving federal and state regulations, Kobalt helps financial institutions improve consistency, accelerate review cycles, and strengthen risk management across ERM, compliance, information security, and third-party oversight.\r\n\r\nUsed by banks (community, regionals, sponsor banks), credit unions, and fintechs.\r\n",
       "website": "https://www.kobaltlabs.com/",
       "yc_url": "https://www.ycombinator.com/companies/kobalt-labs",
       "yc_batch": "Summer 2023",
-      "team_size": 13,
-      "stage": "Growth",
+      "team_size": 15,
+      "stage": "Early",
       "status": "Active",
       "industries": [
         "B2B",
@@ -3182,7 +3182,9 @@
       ],
       "tags": [
         "Banking as a Service",
-        "Fintech"
+        "Fintech",
+        "Compliance",
+        "Neobank"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -3269,7 +3271,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db6da4cd27c16fd721b2bc69aab6f5c1f7055637.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04d5d1a4b0f6a85bb0acdba717da56c25f8ca196.png",
       "sponsorship": null
     },
     {
@@ -3434,31 +3436,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-maintouch",
-      "name": "Maintouch",
-      "slug": "maintouch",
-      "one_liner": "Make more $$$ with SEO and AEO",
-      "long_description": "We help you turn SEO and AEO into your best growth channel. I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
-      "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
-      "yc_url": "https://www.ycombinator.com/companies/maintouch",
-      "yc_batch": "Summer 2023",
-      "team_size": 15,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "Marketing"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-joinmarble",
       "name": "Marble",
       "slug": "joinmarble",
@@ -3467,7 +3444,7 @@
       "website": "https://joinmarble.ai/",
       "yc_url": "https://www.ycombinator.com/companies/joinmarble",
       "yc_batch": "Summer 2026",
-      "team_size": 2,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -3482,7 +3459,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd8594643506090563d23eac2d8bee3b9c1e526f.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a523a56699bdf9272f7af2a416bb71e4bb6e1204.png",
       "sponsorship": null
     },
     {
@@ -3706,11 +3683,11 @@
       "name": "MorphoAI",
       "slug": "morphoai",
       "one_liner": "Software tool for designing robots and machines ",
-      "long_description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
+      "long_description": "MorphoAI builds hardware foundation models for mechanical engineering. Our GPU-accelerated design models that let engineers generate and explore hundreds of complete mechanical assembly designs in minutes, accelerating the invention of new hardware. Our models learns from a company\u2019s prior CAD designs and generate editable assemblies from engineering requirements, incorporating standard and custom components and manufacturing constraints. This enables companies to design and ship the next generation of their hardware faster and better than competition.\r\n\r\nThe models can generate assemblies with up to 500 parts in minutes, including a full bill of materials. Engineers can explore 100s of design options at the beginning of a project and refine and validate the outputs within their existing CAD.\r\n\r\nMorphoAI\u2019s technology builds on research conducted by its team at MIT and Harvard, with support from ARIA, the UK\u2019s Advanced Research and Invention Agency with a GBP 2.5M grant. Its customer list includes companies like ABB and other large OEMs in robotics and automation, electric, power and grid, consumer electronics, and industrial equipment. \r\n\r\nAyna and Andy, the co-founders, met during their time at Harvard and started this in 2024. Our founding team is built of a prof. of ECE and robotics at Carnegie Mellon, Forbes u30 serial hardware entrepreneur, and an ex. Amazon Robotics scientist. Between them, they have written 65+ papers on algorithms for hardware design during their PhDs at Harvard and MIT. The team at large holds PhDs from Imperial, TU Wein, UCL and has worked across computational geometry, computer vision, ML, optimization, simulation, and the CAD space.\r\n",
       "website": "https://morpho.ai/",
       "yc_url": "https://www.ycombinator.com/companies/morphoai",
       "yc_batch": "Spring 2025",
-      "team_size": 7,
+      "team_size": 12,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -3718,6 +3695,7 @@
         "Manufacturing and Robotics"
       ],
       "tags": [
+        "Machine Learning",
         "Robotics",
         "Manufacturing",
         "AI"
@@ -3844,36 +3822,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c965d20fc0bacd98d8b38c9742848bdb11b05841.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-no-logo",
-      "name": "No Logo",
-      "slug": "no-logo",
-      "one_liner": "Turn ideas into physical products",
-      "long_description": "No Logo is building the orchestration layer for creating viral consumer products. The manufacturing world is full of capable, underutilized overseas factories with the machines, tooling, and engineers to build winning products \u2013 but no way to connect them to the creators and brands with the ideas and distribution. As a result, bringing a new product to market has traditionally taken 6-12 months, tens of thousands of dollars, and a team of 20-30 people.\r\n\r\nNo Logo collapses that. Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network \u2013 turning an idea into a shippable product in just a few weeks.",
-      "website": "https://nologo.com/",
-      "yc_url": "https://www.ycombinator.com/companies/no-logo",
-      "yc_batch": "Summer 2024",
-      "team_size": 15,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Supply Chain and Logistics"
-      ],
-      "tags": [
-        "Consumer",
-        "Manufacturing",
-        "E-commerce",
-        "Supply Chain",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b06eac03359187ea4b158a471d8bc4ecb6c046.png",
       "sponsorship": null
     },
     {
@@ -4074,7 +4022,7 @@
       "id": "yc-onechronos",
       "name": "OneChronos",
       "slug": "onechronos",
-      "one_liner": "The Smart Market for Institutional Investors",
+      "one_liner": "The Smart Market Powering The Future",
       "long_description": "OneChronos builds the markets where humans and AI agents transact more efficiently. We started in capital markets, where our U.S. Equity ATS is one of the fastest growing ATSs and handles a growing share of U.S. equity notional volume. But that's just the start: our mission is to build the bazaar for agentic systems, and grow the global economy along the way.",
       "website": "https://www.onechronos.com/",
       "yc_url": "https://www.ycombinator.com/companies/onechronos",
@@ -4237,35 +4185,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-pair-ai",
-      "name": "Pair AI",
-      "slug": "pair-ai",
-      "one_liner": "Reimagining education with short form video and AI",
-      "long_description": "Pair AI is Shopify for knowledge products. We empower creators, educators, and experts to launch addicting mobile-first video courses and provide AI-assisted coaching services at scale. Our platform is a one-stop shop to seamlessly monetize what you know! We make learning as fun and engaging as watching a TikTok.",
-      "website": "https://www.pairai.com/",
-      "yc_url": "https://www.ycombinator.com/companies/pair-ai",
-      "yc_batch": "Winter 2023",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "tags": [
-        "AI-Enhanced Learning",
-        "Marketplace",
-        "eLearning",
-        "Creator Economy",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a08dbc0e0067d1983b3b85b2e3893f29d7f41f.png",
       "sponsorship": null
     },
     {
@@ -5597,7 +5516,7 @@
       "name": "Solva",
       "slug": "solva",
       "one_liner": "Building the new superintelligence for insurance",
-      "long_description": "Insurance is 7% of worldwide GDP and we\u2019re building the infrastructure for how the world handles risk",
+      "long_description": "Insurance is 13% of US GDP and we\u2019re building the infrastructure to change how the world handles risk",
       "website": "https://solvatechnology.com",
       "yc_url": "https://www.ycombinator.com/companies/solva",
       "yc_batch": "Summer 2025",
@@ -5637,7 +5556,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b2506991797891dcda24e0fe6be2c7f7a60423.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e9a1559016fef7b747ad779eba0455ef78c5c18.png",
       "sponsorship": null
     },
     {
@@ -5860,34 +5779,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-staffbar",
-      "name": "Superwall",
-      "slug": "staffbar",
-      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
-      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
-      "website": "https://superwall.com",
-      "yc_url": "https://www.ycombinator.com/companies/staffbar",
-      "yc_batch": "Summer 2021",
-      "team_size": 25,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Developer Tools",
-        "Payments",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
       "sponsorship": null
     },
     {
@@ -7275,6 +7166,32 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/876f66dff22e97cba80fe969792f2c63dd568d79.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-alrighty",
+      "name": "Alrighty",
+      "slug": "alrighty",
+      "one_liner": "Email that only shows you what matters.",
+      "long_description": "Alrighty is a Mac mail app that fixes email. Anyone with your address can reach you, so most inboxes fill up with cold outreach, sales pitches, newsletters nobody reads and privacy-policy updates, and the few emails that matter get buried. Alrighty gets that mail out of your way and lets the AI you already use keep track of the conversations that matter. It works with the Gmail, iCloud and Outlook accounts you already have, and every AI feature is one you choose to turn on.",
+      "website": "https://alrighty.me",
+      "yc_url": "https://www.ycombinator.com/companies/alrighty",
+      "yc_batch": "Summer 2021",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "AI",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4dd92fd129337a5cc1b3409b9d8bd4faa271160.png",
       "sponsorship": null
     },
     {
@@ -9648,7 +9565,7 @@
       "slug": "contour",
       "one_liner": "AI voice agents for healthcare operational calls",
       "long_description": "Contour is the enterprise voice AI platform for healthcare logistics. Provider networks, telemedicine companies, labs, and multi-site clinics use Contour to automate high volume, repetitive phone workflows that traditionally require dedicated back office staff. Built for regulated environments, Contour integrates directly with core clinical systems to handle every call with full auditability and HIPAA compliance.",
-      "website": "",
+      "website": "https://trycontour.com",
       "yc_url": "https://www.ycombinator.com/companies/contour",
       "yc_batch": "Summer 2023",
       "team_size": 2,
@@ -12086,6 +12003,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-godpack",
+      "name": "Godpack",
+      "slug": "godpack",
+      "one_liner": "The marketplace for internet culture.",
+      "long_description": "",
+      "website": "https://godpack.gg/",
+      "yc_url": "https://www.ycombinator.com/companies/godpack",
+      "yc_batch": "Winter 2027",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Marketplace",
+        "Consumer",
+        "Trading"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/efed4a76a2a7ec64512d28d0184feb711e11215b.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-gradia-health",
       "name": "Gradia Health",
       "slug": "gradia-health",
@@ -14083,6 +14027,31 @@
       "sponsorship": null
     },
     {
+      "id": "yc-maintouch",
+      "name": "Maintouch",
+      "slug": "maintouch",
+      "one_liner": "Make more $$$ with SEO and AEO",
+      "long_description": "We help you turn SEO and AEO into your best growth channel. I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
+      "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
+      "yc_url": "https://www.ycombinator.com/companies/maintouch",
+      "yc_batch": "Summer 2023",
+      "team_size": 15,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Marketing"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-makrwatch",
       "name": "Makrwatch",
       "slug": "makrwatch",
@@ -14497,32 +14466,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/75c38d1c447b5bd028ab37e916e73b2d7ac707c9.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-miniloop",
-      "name": "Miniloop",
-      "slug": "miniloop",
-      "one_liner": "AI workflow engine for reliable systems",
-      "long_description": "Miniloop is a workflow engine for building reliable AI systems. It turns one-off prompts into structured, reusable workflows with enforced context, typed outputs, and safe re-runs, making AI dependable in production environments.",
-      "website": "https://miniloop.ai",
-      "yc_url": "https://www.ycombinator.com/companies/miniloop",
-      "yc_batch": "Summer 2021",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "AI",
-        "AI Assistant"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeed5cd44236d1a01c6e9a140c5fea1bd7489cac.png",
       "sponsorship": null
     },
     {
@@ -15016,6 +14959,36 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-no-logo",
+      "name": "No Logo",
+      "slug": "no-logo",
+      "one_liner": "Turn ideas into physical products",
+      "long_description": "No Logo is building the orchestration layer for creating viral consumer products. The manufacturing world is full of capable, underutilized overseas factories with the machines, tooling, and engineers to build winning products \u2013 but no way to connect them to the creators and brands with the ideas and distribution. As a result, bringing a new product to market has traditionally taken 6-12 months, tens of thousands of dollars, and a team of 20-30 people.\r\n\r\nNo Logo collapses that. Using generative AI, we take a creator's product idea, visualize it, break it into core components and manufacturing processes, and match each step to the right factory in our network \u2013 turning an idea into a shippable product in just a few weeks.",
+      "website": "https://nologo.com/",
+      "yc_url": "https://www.ycombinator.com/companies/no-logo",
+      "yc_batch": "Summer 2024",
+      "team_size": 15,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "tags": [
+        "Consumer",
+        "Manufacturing",
+        "E-commerce",
+        "Supply Chain",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b06eac03359187ea4b158a471d8bc4ecb6c046.png",
       "sponsorship": null
     },
     {
@@ -17164,6 +17137,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-rezora-io",
+      "name": "Rezora IO",
+      "slug": "rezora-io",
+      "one_liner": "AI voice agents for home services and real estate",
+      "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+      "website": "https://rezora.io/",
+      "yc_url": "https://www.ycombinator.com/companies/rezora-io",
+      "yc_batch": "Fall 2026",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "AI",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f85e2fbd991f8396599925f9f3bdcdddde5aaf.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-rhizome-ai",
       "name": "Rhizome AI",
       "slug": "rhizome-ai",
@@ -18115,36 +18115,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-solari-ai",
-      "name": "Solari AI",
-      "slug": "solari-ai",
-      "one_liner": "Gives non-technical team members agents that work right out of the box",
-      "long_description": "Solari gives non-technical team members access to agents that work right out of the box. ",
-      "website": "https://www.usesolari.ai/",
-      "yc_url": "https://www.ycombinator.com/companies/solari-ai",
-      "yc_batch": "Winter 2024",
-      "team_size": 1,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Workflow Automation",
-        "Team Collaboration",
-        "Chatbots",
-        "No-code",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af699b82335feb5991d34bb94bb5e75f4fb1bbf.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-spoken",
       "name": "Spoken",
       "slug": "spoken",
@@ -18227,30 +18197,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/2748c5f7b6f81c6d7e2a1bcfbdb0f677910f18a7.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-stage",
-      "name": "Stage",
-      "slug": "stage",
-      "one_liner": "Code review platform for humans and agents",
-      "long_description": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they\u2019re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
-      "website": "https://www.tryluke.dev/",
-      "yc_url": "https://www.ycombinator.com/companies/stage",
-      "yc_batch": "Spring 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
       "sponsorship": null
     },
     {
@@ -18472,6 +18418,34 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/db10327c5327a64bf7bf615e4aebcb38c48d13de.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-staffbar",
+      "name": "Superwall",
+      "slug": "staffbar",
+      "one_liner": "Subscription infrastructure & paywall experimentation for mobile apps",
+      "long_description": "Superwall is a complete, standalone subscription platform for consumer mobile and web apps \u2014 backend infrastructure (entitlements, purchase APIs with server-side receipt validation, standardized webhooks, real-time revenue analytics, direct SQL access to subscription data) together with a no-code paywall and experimentation engine, and first-class tooling for AI coding agents. Superwall manages $1.6B+ in annual subscription revenue across 10,000+ apps. The infrastructure layer is free at any scale; the only meter on the platform is revenue that converts through a Superwall-rendered paywall \u2014 subscriptions sold anywhere else are never billed.\r\n\r\n**Standalone backend:** The highest-revenue apps on Superwall like Cal AI \u2014 run their **entire subscription stack on Superwall alone: no second backend, no other subscription platform underneath**. Entitlement state is computed server-side from App Store Server Notifications V2 and Google Play Real-Time Developer Notifications, delivered by Apple and Google directly to Superwall. The largest single app runs **$43.7M ARR entirely on Superwall**; the top 10 together represent $134M+ in annual subscription revenue. Apps that previously ran a different subscription backend complete an automated migration \u2014 subscription history, entitlement state, webhook configuration \u2014 and run on Superwall alone from then on; imported subscribers are never billed.\r\n\r\n**Pricing:** The subscription infrastructure \u2014 entitlements, receipt validation, webhooks, analytics, SQL access \u2014 is free at any scale, with no revenue threshold and no per-event fees. The paywall product is free up to $10k/month in paywall-attributed revenue, then 1% of paywall-attributed revenue, and only that revenue: an app with $50k/month in subscriptions and no Superwall paywalls in use pays $0/month for the entire platform, and revenue the platform didn't help earn is never billed. Compared with charging a percentage of all subscription revenue, the difference is the base, not the rate.\r\n\r\n**Coverage:** Apple App Store, Google Play, and Stripe \u2014 including web checkout, external browser checkout from iOS paywalls (App2Web), and products from any external billing system via Custom Store Products. Monetization models: auto-renewing subscriptions, free trials and intro offers, one-time purchases, lifetime unlocks, and consumables. SDKs: iOS & Apple platforms, Android, React Native, Flutter, Expo, Unity, and Web \u2014 all open source on [GitHub](https://github.com/superwall). Not just for engineers: growth, product, support, and data teams run monetization from the dashboard, analytics, and SQL access day to day.\r\n\r\n**What Superwall does not do:** It does not process payments \u2014 Apple, Google, and Stripe do. It does not run virtual-currency or coin-ledger systems, does not track ad revenue, and does not support Amazon or Roku storefronts. For consumer subscription apps on iOS, Android, and the web, it covers the monetization surface end to end.\r\n\r\n**Experimentation:** Superwall's published research spans 100M+ analyzed paywall views and 4,500+ paywall A/B tests: multi-page onboarding paywalls convert 37% better than single-page (40M+ opens measured), Cal AI ran 123 experiments and grew monthly revenue 3x+ in 10 months, Planner 5D lifted revenue per user 83% through price testing. Build, target, test, and ship paywalls from the dashboard with no app release.\r\n\r\n**Retention:** Free trial reminders, cancellation and decline surveys, transaction-abandon recovery offers, win-back paywalls targeted by subscription state, Apple Retention Messaging on the iOS cancel screen, automated refund protection, and a per-customer timeline for support.\r\n\r\n**Agent tooling:** Open-source agent skills for Claude Code, Codex, and other coding agents; an editor MCP server for building live paywalls from the terminal; an embedded dashboard CLI; and direct SQL access to subscription data via the Query API.",
+      "website": "https://superwall.com",
+      "yc_url": "https://www.ycombinator.com/companies/staffbar",
+      "yc_batch": "Summer 2021",
+      "team_size": 25,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Payments",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
       "sponsorship": null
     },
     {
@@ -19592,14 +19566,14 @@
       "id": "yc-unthread",
       "name": "Unthread",
       "slug": "unthread",
-      "one_liner": "Automate support ops natively in Slack",
+      "one_liner": "AI helpdesk built for Slack & Teams",
       "long_description": "Unthread is an AI-powered helpdesk built natively into Slack. We help companies to automate the creation and resolution of tickets right from a Slack channel.\r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to resolve tickets instantly using AI.",
       "website": "https://unthread.io",
       "yc_url": "https://www.ycombinator.com/companies/unthread",
       "yc_batch": "Summer 2022",
       "team_size": 7,
       "stage": "Early",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "B2B",
         "Productivity"
@@ -19848,6 +19822,30 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8427a4df46d5bdea47426e5463c809db03232f1.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-vespin",
+      "name": "Vespin",
+      "slug": "vespin",
+      "one_liner": "An inbox for your coding agents",
+      "long_description": "",
+      "website": "https://www.vespin.dev/",
+      "yc_url": "https://www.ycombinator.com/companies/vespin",
+      "yc_batch": "Spring 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/488e0bf1da9ca12d399f04d8cafa2b336585587d.png",
       "sponsorship": null
     },
     {
