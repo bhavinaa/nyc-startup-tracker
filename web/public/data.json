@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T17:00:42+00:00",
-  "company_count": 758,
+  "generated_at": "2026-11-16T16:39:17+00:00",
+  "company_count": 762,
   "companies": [
     {
       "id": "yc-222",
@@ -249,6 +249,34 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/55790b66a55aee54f67a7eb5bdc7202fe373d753.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-aren",
+      "name": "Aren",
+      "slug": "aren",
+      "one_liner": "Powering Successful Nursing Shifts",
+      "long_description": "Empowering nurses to execute successful shifts, while illuminating their critical role in health system financial performance.",
+      "website": "https://www.aren.com/",
+      "yc_url": "https://www.ycombinator.com/companies/aren",
+      "yc_batch": "Winter 2024",
+      "team_size": null,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Generative AI",
+        "Digital Health",
+        "Healthcare",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/364d4894b0a1316d1031d75709cb12f94ced7b77.png",
       "sponsorship": null
     },
     {
@@ -622,6 +650,36 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-bik",
+      "name": "BIK",
+      "slug": "bik",
+      "one_liner": "Agentic AI CRM for ecommerce",
+      "long_description": "A place where you can spin off commerce agents or build your automation across the funnel of acquisition, retention & support. \r\n\r\nThe single place where you can handle everything you need for your ecommerce / retail business when it comes to marketing & support.",
+      "website": "https://bik.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/bik",
+      "yc_batch": "Summer 2020",
+      "team_size": 55,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Retail"
+      ],
+      "tags": [
+        "SaaS",
+        "B2B",
+        "E-commerce",
+        "AI",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA; Remote"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ebdc405c3ca51343a4618334a44bd440fb598ca.png",
       "sponsorship": null
     },
     {
@@ -1563,8 +1621,8 @@
       "id": "yc-credal-ai",
       "name": "Credal.ai",
       "slug": "credal-ai",
-      "one_liner": "The Control Plane for Enterprise Agents",
-      "long_description": "Build, govern, and deploy enterprise AI agents and MCP servers \r\nPowered by your data, subject to enterprise controls",
+      "one_liner": "Context in, Accurate, cost-efficient agents out",
+      "long_description": "The enterprise platform where teams build and govern MCP servers, with curated context, tools, and cost-to-accuracy evals per workflow",
       "website": "https://credal.ai",
       "yc_url": "https://www.ycombinator.com/companies/credal-ai",
       "yc_batch": "Winter 2023",
@@ -2320,12 +2378,12 @@
       "id": "yc-garage-2",
       "name": "Garage",
       "slug": "garage-2",
-      "one_liner": "Marketplace for America's most essential assets",
-      "long_description": "Garage is modernizing how America buys and sells the vehicles and equipment that keep communities safe. Our AI-powered marketplace automates every part of the transaction\u2014appraisals, payments, paperwork, freight, warranty, and financing\u2014reducing what once took months down to minutes.\r\n\r\nBy replacing broken, manual processes with modern software, Garage helps critical equipment reach communities faster\u2014saving taxpayer dollars and supporting the industries that keep America running.\r\n\r\nWe've raised $18M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, FJ Labs, and other leading investors.\r\n",
+      "one_liner": "America's marketplace for mission-critical assets.",
+      "long_description": "Trusted by local governments and essential services businesses across America, Garage is the AI-powered marketplace transforming how America's mission-critical assets are bought and sold. By automating everything from appraisals to freight, Garage saves time and money for communities of all sizes.\r\n\r\nWe've raised $60M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, Invus Opportunities, FJ Labs, and other leading investors.",
       "website": "https://www.shopgarage.com/",
       "yc_url": "https://www.ycombinator.com/companies/garage-2",
       "yc_batch": "Winter 2024",
-      "team_size": 35,
+      "team_size": 45,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -2340,7 +2398,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b097e3ed808fe533aff49062b2a59a6f1f2805fd.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fdddf8ec5888d8687aed85602772057188b1cd.png",
       "sponsorship": null
     },
     {
@@ -2367,33 +2425,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7861de884111e3c22dce9bd8a25a30fafb7149ec.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-gauss",
-      "name": "Gauss",
-      "slug": "gauss",
-      "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
-      "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers\u2019 debt.\r\n\r\nThe product connects to a user\u2019s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
-      "website": "https://gauss.money",
-      "yc_url": "https://www.ycombinator.com/companies/gauss",
-      "yc_batch": "Winter 2022",
-      "team_size": 16,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Consumer Finance"
-      ],
-      "tags": [
-        "Fintech",
-        "Consumer"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
       "sponsorship": null
     },
     {
@@ -2673,35 +2704,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/baeea0b99bf74c18e8e63d396a18ee00083f0359.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-harbera",
-      "name": "Harbera",
-      "slug": "harbera",
-      "one_liner": "AI Healthcare Provider Credentialing Software",
-      "long_description": "Harbera builds AI software that helps healthcare clinics navigate working with insurance companies \u2013 from getting doctors approved to be in-network, to managing the rates insurers agree to pay and ensuring that payments match those rates.\r\n",
-      "website": "https://harbera.com/",
-      "yc_url": "https://www.ycombinator.com/companies/harbera",
-      "yc_batch": "Winter 2025",
-      "team_size": null,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "tags": [
-        "Health Tech",
-        "Healthcare",
-        "Healthcare IT",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
       "sponsorship": null
     },
     {
@@ -3174,7 +3176,7 @@
       "yc_url": "https://www.ycombinator.com/companies/kobalt-labs",
       "yc_batch": "Summer 2023",
       "team_size": 15,
-      "stage": "Early",
+      "stage": "Growth",
       "status": "Active",
       "industries": [
         "B2B",
@@ -3191,36 +3193,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c0b0e768a324b2566a3f866bf380445d3ae2fb8.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-kyber",
-      "name": "Kyber",
-      "slug": "kyber",
-      "one_liner": "Instantly draft, review, and send complex regulatory notices.",
-      "long_description": "With Kyber, companies operating in regulated industries can quickly draft, review, and send complex regulatory notices. For example, when Branch Insurance's claims team has to settle a claim, instead of spending hours piecing together evidence to draft a complex notice, they can simply upload the details of the claim to Kyber, auto-generate multiple best in-class drafts, easily assign reviewers, collaborate on notices in real-time, and then send the letter to the individual the notice is for. Kyber not only saves these teams time, but significantly improves consistency, compliance, and personalization. ",
-      "website": "https://askkyber.com",
-      "yc_url": "https://www.ycombinator.com/companies/kyber",
-      "yc_batch": "Winter 2023",
-      "team_size": 5,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Operations"
-      ],
-      "tags": [
-        "Generative AI",
-        "SaaS",
-        "Insurance",
-        "Enterprise",
-        "Regtech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3004c4a72b716a80763763b95bf3e212c448756e.png",
       "sponsorship": null
     },
     {
@@ -3254,19 +3226,24 @@
       "id": "yc-laurence",
       "name": "Laurence",
       "slug": "laurence",
-      "one_liner": "Quantitative research for autonomous e-commerce growth",
-      "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets, driving a 15-40% improvement in net profit for Amazon brands within a month of onboarding.",
+      "one_liner": "The frontier operating system for marketers",
+      "long_description": "Grow e-commerce revenue across Amazon, DTC, and more with a platform that understands your profits, CACs, CPAs, and TAMs across all channels. Built for the marketers of tomorrow.\r\n\r\nLive for Amazon Sponsored Ads and DSP; in beta preview for Meta Ads; Google Ads, ChatGPT Ads, and more in development.\r\n\r\nAdvertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords with noisy, delayed data using simple if-else rules that both break at scale and ignore stochasticity.\r\n\r\nLaurence advertises like modern hedge funds trade markets: custom-fit statistical models that calculate expected profit per click from margin, conversion rates, and CPCs combined with modeling organic sales per rank and per-product LTV.",
       "website": "https://laurence.com",
       "yc_url": "https://www.ycombinator.com/companies/laurence",
       "yc_batch": "Winter 2026",
-      "team_size": 2,
+      "team_size": 12,
       "stage": "Early",
       "status": "Active",
       "industries": [
         "B2B",
         "Analytics"
       ],
-      "tags": [],
+      "tags": [
+        "E-commerce",
+        "Marketing",
+        "Advertising",
+        "Market Research"
+      ],
       "locations": [
         "New York City, NY, USA"
       ],
@@ -3564,34 +3541,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbc687e580ddf0ed25424f22d04d996455ff1995.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-mednet",
-      "name": "Mednet",
-      "slug": "mednet",
-      "one_liner": "Mednet helps doctors answer their toughest clinical questions \u2014\u2026",
-      "long_description": "Mednet helps doctors answer their toughest clinical questions \u2014 blending AI, medical literature, and real-world physician expertise. Co-founded by siblings Samir Housri and Dr. Nadine Housri while navigating their father's cancer treatment, Mednet was created to capture the undocumented clinical knowledge that makes the difference in patient care. Today, over 40,000 US physicians use Mednet to navigate complex cases, make better-informed decisions, and shape industry innovation \u2014 ensuring that every patient benefits from the collective expertise of the medical community",
-      "website": "https://www.themednet.org",
-      "yc_url": "https://www.ycombinator.com/companies/mednet",
-      "yc_batch": "Winter 2017",
-      "team_size": 35,
-      "stage": "Growth",
-      "status": "Active",
-      "industries": [
-        "Healthcare",
-        "Healthcare IT"
-      ],
-      "tags": [
-        "Health Tech",
-        "Healthcare",
-        "Social Network"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f87063bea379185eb403bf77343185532b0b26a.png",
       "sponsorship": null
     },
     {
@@ -4050,25 +3999,24 @@
       "id": "yc-onestop",
       "name": "OneStop",
       "slug": "onestop",
-      "one_liner": "The local internet for NYC.",
-      "long_description": "OneStop is a local classifieds network for New York City. Find and post local listings. ",
-      "website": "https://www.askonestop.com",
+      "one_liner": "The local social network: what's going on a few blocks from you.",
+      "long_description": "onestop is the local social network: what's going on a few blocks from you, posted by the people who are there. Invite-only on iOS and Android, starting in New York from Hell's Kitchen.",
+      "website": "https://www.onestop.so",
       "yc_url": "https://www.ycombinator.com/companies/onestop",
       "yc_batch": "Summer 2025",
       "team_size": 2,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "Consumer"
+        "Consumer",
+        "Social"
       ],
-      "tags": [
-        "AI"
-      ],
+      "tags": [],
       "locations": [
         "New York City, NY, USA"
       ],
       "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9e554a3ff6dc01974ba5721cbfdc8ce21a2a2da.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/61442a42543f111e02cb1ffebe442a2885b633ab.png",
       "sponsorship": null
     },
     {
@@ -4271,36 +4219,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ddd59479807f1000294d305ca0a4a84f2d40f97.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-paragon-ai",
-      "name": "Paragon AI",
-      "slug": "paragon-ai",
-      "one_liner": "Turns your sales calls into CRM data, automatically.",
-      "long_description": "Paragon AI is a tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM. Instead of spending hours going over call recordings to pull out key information to populate the CRM, sales representatives can focus their time doing what they do best and sales leaders can rest assured that pipeline data is up to date.",
-      "website": "https://paragon.ai",
-      "yc_url": "https://www.ycombinator.com/companies/paragon-ai",
-      "yc_batch": "Summer 2022",
-      "team_size": 3,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Sales"
-      ],
-      "tags": [
-        "SaaS",
-        "B2B",
-        "Productivity",
-        "Sales",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA; San Juan, San Juan, Puerto Rico; Remote"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a9593da33f6698a03604df521d2f3110a53ba61.png",
       "sponsorship": null
     },
     {
@@ -4723,6 +4641,34 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf5a3fe66d78955d591f3cbd3eee3f1635749ff.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-qfex",
+      "name": "QFEX",
+      "slug": "qfex",
+      "one_liner": "24/7 Global Stock Exchange",
+      "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
+      "website": "https://qfex.com",
+      "yc_url": "https://www.ycombinator.com/companies/qfex",
+      "yc_batch": "Spring 2025",
+      "team_size": 14,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "tags": [
+        "Fintech",
+        "Marketplace",
+        "Trading"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff2e678a3e0cc7ec945071e67d067023b3357bf4.png",
       "sponsorship": null
     },
     {
@@ -5369,34 +5315,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/c34e2e7cee5cb8a890e2123c1f9f8621bd9f7e45.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-simcare",
-      "name": "SimCare",
-      "slug": "simcare",
-      "one_liner": "AI avatars to scale healthcare training.",
-      "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
-      "website": "https://simcare.ai",
-      "yc_url": "https://www.ycombinator.com/companies/simcare",
-      "yc_batch": "Summer 2024",
-      "team_size": 7,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare"
-      ],
-      "tags": [
-        "AI-Enhanced Learning",
-        "Education",
-        "Healthcare",
-        "Edtech"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
       "sponsorship": null
     },
     {
@@ -6699,6 +6617,32 @@
       "sponsorship": null
     },
     {
+      "id": "yc-goodfin",
+      "name": "goodfin",
+      "slug": "goodfin",
+      "one_liner": "Building the next generation of wealth",
+      "long_description": "GoodFin is reimagining private wealth in the era of AI. Our mission is to empower a new generation to build wealth, starting with their investments in alternative assets. \r\n\r\nOur AI-native platform combines a design-forward experience with a backend powered by a system of intelligent agents. We are building a future where AI unlocks financial hyperpersonalization, automation and optimization for sophisticated financial products, which are typically gated by advisors and reserved for very wealthy clients. This highly fragmented $1.25T global services market will undergo a sea change in the coming years, as trillions pass in the largest intergenerational wealth transfer to date.  \r\n\r\nIn a world where most financial decisions will become automated, we believe the next category-defining wealth company will still be human-driven at its core \u2013 powered by a high-value community like our membership base of professionals, founders and investors. The next generation financial giant will be an AI-native platform that makes wealth creation seamless, personalized, and social. That\u2019s what we\u2019re building.",
+      "website": "http://www.goodfin.com",
+      "yc_url": "https://www.ycombinator.com/companies/goodfin",
+      "yc_batch": "Winter 2022",
+      "team_size": 8,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b052c26e0beb63cd2a5aef297f7855da685f8dc.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-99dresses",
       "name": "99dresses",
       "slug": "99dresses",
@@ -7026,35 +6970,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e399be3a936103a9070aa01ba006948e8bc844c7.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-agent-37",
-      "name": "Agent 37",
-      "slug": "agent-37",
-      "one_liner": "Cloud Sandbox for Agents",
-      "long_description": "* Ready to Use Instantly: Skip the complex server setup. It comes pre loaded with top AI Agents (like Claude Code and Hermes) so your agents can start working immediately.\r\n\r\n* Keep Your Work Safe: Unlike other systems that delete everything when they finish a task, these sandboxes remember your files, code, and settings forever until you delete them.\r\n\r\n* Pay Only for What You Use: Stop paying for idle servers. You pay a tiny fee to store your files, but you only pay for compute power during the exact minutes your AI is actively running.\r\n\r\n* Zero Infrastructure Headaches: You don\u2019t need to be a senior DevOps engineer or manage complex cloud networks. One simple command handles the entire backend for you.\r\n\r\n* Connect to Any App: Allow your AI agents to securely log into and interact with everyday tools like Slack, Gmail, and GitHub in just a few clicks.",
-      "website": "https://www.agent37.com/cloud",
-      "yc_url": "https://www.ycombinator.com/companies/agent-37",
-      "yc_batch": "Fall 2026",
-      "team_size": 0,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "B2B",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab818d15979a4594472be995a13a8be6107d4517.png",
       "sponsorship": null
     },
     {
@@ -7647,6 +7562,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-asterline",
+      "name": "Asterline",
+      "slug": "asterline",
+      "one_liner": "Quantitative trading of prediction markets",
+      "long_description": "Asterline is a quantitative trading firm that builds automated systems to exploit pricing inefficiencies in prediction markets. We built proprietary backtesting infrastructure to rapidly discover, validate, and deploy new strategies at scale.",
+      "website": "https://asterlinetrading.com",
+      "yc_url": "https://www.ycombinator.com/companies/asterline",
+      "yc_batch": "Winter 2027",
+      "team_size": 1,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "tags": [
+        "Finance",
+        "Trading"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bb5c8006bb267072326386987df5ec025fd190a.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-astro",
       "name": "Astro",
       "slug": "astro",
@@ -7978,7 +7920,7 @@
       "website": "https://withbanner.com",
       "yc_url": "https://www.ycombinator.com/companies/banner",
       "yc_batch": "Summer 2019",
-      "team_size": 35,
+      "team_size": 50,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -8167,8 +8109,8 @@
       "id": "yc-bidflow",
       "name": "Bidflow",
       "slug": "bidflow",
-      "one_liner": "AI Takeoffs for Electrical",
-      "long_description": "We use AI to help electricians speed up the time it takes to submit a competitive bid to a job. We do this by scanning complex CAD drawings and 10X-ing the time it takes to estimate a job. This involves using vision models to read and count complex symbols in large PDFs, which typically take hours (sometimes days) to do precisely. Every missed symbol can cost thousands, and our AI can count to 99% accuracy.",
+      "one_liner": "Revolutionizing the Construction Industry",
+      "long_description": "More coming soon...",
       "website": "https://usebidflow.com",
       "yc_url": "https://www.ycombinator.com/companies/bidflow",
       "yc_batch": "Winter 2026",
@@ -8180,9 +8122,8 @@
         "Construction"
       ],
       "tags": [
-        "SaaS",
-        "Computer Vision",
         "Construction",
+        "Supply Chain",
         "Infrastructure"
       ],
       "locations": [
@@ -8299,32 +8240,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/41c332786204766da2f20d0713ecf7263a1e799b.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-blockscope",
-      "name": "Blockscope",
-      "slug": "blockscope",
-      "one_liner": "Palantir for Web3",
-      "long_description": "Blockscope is a Web3 data platform that enables anyone interested in on-chain data to quickly spin up live or historical data pipelines (for blocks, event, transaction, wallets, token, NFTs, etc). Similar to AWS, users have access to variety of managed software services to analyze, interact with or inject captured data into their apps.\r\n\r\nOur platform is built around the core idea of off-loading the on-chain data that our customers need for their Web3 apps, and reliably storing them for quick access/use.\r\n\r\nWe offer products on top of the core data we index for our customers. Some of these services are contract analytics, wallet profiling, events & transactions database as a service, push notifications, webhooks, and developer tools.\r\n\r\nOur mission is to enable everyone to easily access and consume on-chain data!",
-      "website": "https://www.blockscope.co/",
-      "yc_url": "https://www.ycombinator.com/companies/blockscope",
-      "yc_batch": "Summer 2022",
-      "team_size": 4,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Infrastructure"
-      ],
-      "tags": [
-        "Cryptocurrency"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b82c758ebac11667f3da0075088a57d8d7852c8.png",
       "sponsorship": null
     },
     {
@@ -9729,6 +9644,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-cova",
+      "name": "Cova",
+      "slug": "cova",
+      "one_liner": "Financial infrastructure for family caregiving",
+      "long_description": "Millions of Americans already care for someone they love. We're building a world where they can get paid for it, with the technology to make the process simple, the support to help them provide better care, and a model that gives more back to those doing the real work.",
+      "website": "https://cova.care/",
+      "yc_url": "https://www.ycombinator.com/companies/cova",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Consumer Health Services",
+        "Healthcare",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-covetly",
       "name": "Covetly",
       "slug": "covetly",
@@ -9886,6 +9828,35 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-current",
+      "name": "Current",
+      "slug": "current",
+      "one_liner": "Run hundreds of coding agents and stay in control",
+      "long_description": "Current is an opinionated way to work with your coding agents. It lets you run hundreds of agents while staying in control.\r\n\r\nThe problem with running agents in parallel isn't their intelligence. It's your attention. You end up scrolling walls of text and tool calls, looking for answers you'd already been given.\r\n\r\nSo Current drops the chat entirely and focuses on your agents' outputs, not their inputs. Everything is an issue, from a quick fix to a big project with sub-issues. You write it, and your agents pick it up and deliver.\r\n\r\nWhen they're done, they notify you and show you what they made: a report, a chart, a before and after video, or an interactive app that shows their work. You review the work, not how they got there. Comment and the agent goes back to work. Approve and it merges.\r\n\r\nCurrent is built with Current. It's free on Mac, Windows, Linux and iPhone, and works with Claude Code, Codex, Cursor, OpenCode and many more agents.",
+      "website": "https://joincurrent.io",
+      "yc_url": "https://www.ycombinator.com/companies/current",
+      "yc_batch": "Spring 2026",
+      "team_size": 1,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Productivity",
+        "Collaboration",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a81a3029d5d0e8401db806e65117e6a53ebe8c70.png",
       "sponsorship": null
     },
     {
@@ -11325,25 +11296,27 @@
       "id": "yc-formal",
       "name": "Formal",
       "slug": "formal",
-      "one_liner": "Take control of your data in real-time.",
-      "long_description": "",
-      "website": "https://joinformal.com",
+      "one_liner": "Least privilege for agents and humans",
+      "long_description": "Formal lets your company put AI agents to work on sensitive data without losing control. It sees every connection your people and agents make, whether they run on endpoints or in the cloud, and understands exactly what each one is doing, down to the individual network call. It identifies every agent and the person behind it and enforces least privilege on each request, all from a single control plane, with no change to how anyone works. Credentials never reach agents, private data is masked before it leaves, and risky actions are stopped before they happen. Every session is recorded and replayable. Say yes to the business without saying yes to risk.",
+      "website": "https://formal.ai",
       "yc_url": "https://www.ycombinator.com/companies/formal",
       "yc_batch": "Summer 2020",
-      "team_size": 10,
-      "stage": "Growth",
+      "team_size": 25,
+      "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B"
+        "B2B",
+        "Security"
       ],
       "tags": [
-        "Cybersecurity"
+        "Cybersecurity",
+        "AI"
       ],
       "locations": [
-        "San Francisco, CA, USA; New York, NY, USA; Remote"
+        "San Francisco, CA, USA; New York, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/66941efea1bbb96c0037b8eb01cd10d72092895c.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/69c999179438f094b0ae55f2ce7d8f2d9ed597b9.png",
       "sponsorship": null
     },
     {
@@ -11777,6 +11750,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-gauss",
+      "name": "Gauss",
+      "slug": "gauss",
+      "one_liner": "AI agent that helps consumers lower the cost of debt automatically",
+      "long_description": "Gauss is building an AI credit agent that automatically lowers the cost of consumers\u2019 debt.\r\n\r\nThe product connects to a user\u2019s credit profile, continuously monitors balances and available offers, and executes refinances or restructurings when it can materially improve terms.\r\n\r\nFor credit card debt, Gauss can track and automatically pay off any expensive balance on connected cards from an instantly originated line of credit, saving users thousands of dollars on interest charges and helping them pay off faster.",
+      "website": "https://gauss.money",
+      "yc_url": "https://www.ycombinator.com/companies/gauss",
+      "yc_batch": "Winter 2022",
+      "team_size": 16,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Consumer Finance"
+      ],
+      "tags": [
+        "Fintech",
+        "Consumer"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-general-aviation-company",
       "name": "General Aviation Company",
       "slug": "general-aviation-company",
@@ -12198,6 +12198,35 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6a1e68ab0e8a242ed2d89b4af36673b59f155d.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-harbera",
+      "name": "Harbera",
+      "slug": "harbera",
+      "one_liner": "AI Healthcare Provider Credentialing Software",
+      "long_description": "Harbera builds AI software that helps healthcare clinics navigate working with insurance companies \u2013 from getting doctors approved to be in-network, to managing the rates insurers agree to pay and ensuring that payments match those rates.\r\n",
+      "website": "https://harbera.com/",
+      "yc_url": "https://www.ycombinator.com/companies/harbera",
+      "yc_batch": "Winter 2025",
+      "team_size": null,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "Healthcare IT",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
       "sponsorship": null
     },
     {
@@ -13359,6 +13388,36 @@
       "sponsorship": null
     },
     {
+      "id": "yc-kyber",
+      "name": "Kyber",
+      "slug": "kyber",
+      "one_liner": "Instantly draft, review, and send complex regulatory notices.",
+      "long_description": "With Kyber, companies operating in regulated industries can quickly draft, review, and send complex regulatory notices. For example, when Branch Insurance's claims team has to settle a claim, instead of spending hours piecing together evidence to draft a complex notice, they can simply upload the details of the claim to Kyber, auto-generate multiple best in-class drafts, easily assign reviewers, collaborate on notices in real-time, and then send the letter to the individual the notice is for. Kyber not only saves these teams time, but significantly improves consistency, compliance, and personalization. ",
+      "website": "https://askkyber.com",
+      "yc_url": "https://www.ycombinator.com/companies/kyber",
+      "yc_batch": "Winter 2023",
+      "team_size": 5,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Generative AI",
+        "SaaS",
+        "Insurance",
+        "Enterprise",
+        "Regtech"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3004c4a72b716a80763763b95bf3e212c448756e.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-llm-stats",
       "name": "LLM Stats",
       "slug": "llm-stats",
@@ -13598,6 +13657,34 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-letter-dev",
+      "name": "Letter",
+      "slug": "letter-dev",
+      "one_liner": "The world's first coding agent, IDE & infra for growth engineering.",
+      "long_description": "The Letter Company issues autonomous pull requests to scale websites, agent experiences, and so much more. Today, we solve modern issues like agentic conviction, inbound conversion, SEO, GEO, etc. However, we believe as agents become more truth-seeking, spammy marketing strategies will fall apart in favor of benchmark and evidence-based messaging. These are engineering problems that only a purpose-built coding agent can solve. ",
+      "website": "https://letter.dev",
+      "yc_url": "https://www.ycombinator.com/companies/letter-dev",
+      "yc_batch": "Fall 2026",
+      "team_size": 6,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "Web Development"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
       "sponsorship": null
     },
     {
@@ -14246,6 +14333,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-mednet",
+      "name": "Mednet",
+      "slug": "mednet",
+      "one_liner": "Mednet helps doctors answer their toughest clinical questions \u2014\u2026",
+      "long_description": "Mednet helps doctors answer their toughest clinical questions \u2014 blending AI, medical literature, and real-world physician expertise. Co-founded by siblings Samir Housri and Dr. Nadine Housri while navigating their father's cancer treatment, Mednet was created to capture the undocumented clinical knowledge that makes the difference in patient care. Today, over 40,000 US physicians use Mednet to navigate complex cases, make better-informed decisions, and shape industry innovation \u2014 ensuring that every patient benefits from the collective expertise of the medical community",
+      "website": "https://www.themednet.org",
+      "yc_url": "https://www.ycombinator.com/companies/mednet",
+      "yc_batch": "Winter 2017",
+      "team_size": 35,
+      "stage": "Growth",
+      "status": "Active",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Health Tech",
+        "Healthcare",
+        "Social Network"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f87063bea379185eb403bf77343185532b0b26a.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-melder",
       "name": "Melder",
       "slug": "melder",
@@ -14271,6 +14386,32 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/78670a3e0cef588e19eb8b9dd11bc151ceac64fa.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-mendelia",
+      "name": "Mendelia",
+      "slug": "mendelia",
+      "one_liner": "AI-powered back office employees for surgical practices",
+      "long_description": "",
+      "website": "https://mendelia.com/",
+      "yc_url": "https://www.ycombinator.com/companies/mendelia",
+      "yc_batch": "Winter 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c9bb5a39d8a674e0ac664c819a4a26edd528488.png",
       "sponsorship": null
     },
     {
@@ -15628,6 +15769,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-orca-client",
+      "name": "Orca Client",
+      "slug": "orca-client",
+      "one_liner": "Orca lets you build, discover, and play Minecraft games with friends.",
+      "long_description": "Orca is a game launcher for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
+      "website": "https://orcaclient.com",
+      "yc_url": "https://www.ycombinator.com/companies/orca-client",
+      "yc_batch": "Summer 2024",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Consumer",
+        "Gaming",
+        "AI",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-outfit",
       "name": "Outfit",
       "slug": "outfit",
@@ -15878,32 +16047,33 @@
       "sponsorship": null
     },
     {
-      "id": "yc-paratus-health",
-      "name": "Paratus Health",
-      "slug": "paratus-health",
-      "one_liner": "healthcare AI",
-      "long_description": "Voice agents for outpatient facilities. ",
-      "website": "https://paratushealth.com/",
-      "yc_url": "https://www.ycombinator.com/companies/paratus-health",
-      "yc_batch": "Winter 2025",
-      "team_size": 4,
+      "id": "yc-paragon-ai",
+      "name": "Paragon AI",
+      "slug": "paragon-ai",
+      "one_liner": "Turns your sales calls into CRM data, automatically.",
+      "long_description": "Paragon AI is a tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM. Instead of spending hours going over call recordings to pull out key information to populate the CRM, sales representatives can focus their time doing what they do best and sales leaders can rest assured that pipeline data is up to date.",
+      "website": "https://paragon.ai",
+      "yc_url": "https://www.ycombinator.com/companies/paragon-ai",
+      "yc_batch": "Summer 2022",
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "Healthcare",
-        "Healthcare IT"
+        "B2B",
+        "Sales"
       ],
       "tags": [
+        "SaaS",
+        "B2B",
+        "Productivity",
         "Sales",
-        "Sales Enablement",
-        "Digital Health",
-        "Healthcare IT"
+        "AI"
       ],
       "locations": [
-        "New York City, NY, USA"
+        "New York City, NY, USA; San Juan, San Juan, Puerto Rico; Remote"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a9593da33f6698a03604df521d2f3110a53ba61.png",
       "sponsorship": null
     },
     {
@@ -16378,35 +16548,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/54586f7298f42ed1238dba333e454ebc1706b38f.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-pops",
-      "name": "Pops",
-      "slug": "pops",
-      "one_liner": "Create & play AI games with friends",
-      "long_description": "Pops lets people play, remix, and share AI games with friends.\r\n\r\nDiscover an infinite feed of games, challenges, quizzes, and other fun interactive experiences made by others. Every play instantly becomes a funny gameplay/reaction video you can send to friends, post online, or use to challenge someone to beat your score.\r\n\r\nFor creators, Pops makes it easier than ever to bring ideas to life and get them played. Instead of learning complex game engines, writing code, or fighting for distribution, anyone can create or remix a playable game in seconds. Bring your ideas, and Pops brings the audience.",
-      "website": "https://pops.fyi",
-      "yc_url": "https://www.ycombinator.com/companies/pops",
-      "yc_batch": "Spring 2026",
-      "team_size": 1,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer",
-        "Gaming"
-      ],
-      "tags": [
-        "Consumer",
-        "Gaming",
-        "Social",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff1807225bc4aea4a50ef4d5315e963925c04afd.png",
       "sponsorship": null
     },
     {
@@ -17140,7 +17281,7 @@
       "id": "yc-rezora-io",
       "name": "Rezora IO",
       "slug": "rezora-io",
-      "one_liner": "AI voice agents for home services and real estate",
+      "one_liner": "Shopify for AI voice agents: home services live in 10 minutes",
       "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
       "website": "https://rezora.io/",
       "yc_url": "https://www.ycombinator.com/companies/rezora-io",
@@ -17152,15 +17293,16 @@
         "B2B"
       ],
       "tags": [
-        "SaaS",
+        "Home Services",
         "AI",
+        "Conversational AI",
         "AI Assistant"
       ],
       "locations": [
         "New York City, NY, USA; Remote"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f85e2fbd991f8396599925f9f3bdcdddde5aaf.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/22b8fb8db1fec9cd1b1b6da222946a31fcfe5373.png",
       "sponsorship": null
     },
     {
@@ -17888,6 +18030,34 @@
       "sponsorship": null
     },
     {
+      "id": "yc-simcare",
+      "name": "SimCare",
+      "slug": "simcare",
+      "one_liner": "AI avatars to scale healthcare training.",
+      "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
+      "website": "https://simcare.ai",
+      "yc_url": "https://www.ycombinator.com/companies/simcare",
+      "yc_batch": "Summer 2024",
+      "team_size": 7,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "Healthcare",
+        "Edtech"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-simplylisted",
       "name": "SimplyListed",
       "slug": "simplylisted",
@@ -18052,36 +18222,6 @@
       ],
       "is_hiring": false,
       "logo_url": "/company/thumb/missing.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-soco",
-      "name": "Soco",
-      "slug": "soco",
-      "one_liner": "Visual AI shopping",
-      "long_description": "Soco: You talk to it, it brings you hundreds of products.",
-      "website": "https://socosearch.com/",
-      "yc_url": "https://www.ycombinator.com/companies/soco",
-      "yc_batch": "Summer 2021",
-      "team_size": null,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer",
-        "Apparel and Cosmetics"
-      ],
-      "tags": [
-        "Consumer",
-        "Chatbot",
-        "Retail",
-        "AI",
-        "AI Assistant"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/48360413020d2b744e8c5f969d2f31d5390b1957.png",
       "sponsorship": null
     },
     {
@@ -18646,7 +18786,7 @@
       "id": "yc-tepali",
       "name": "Tepali",
       "slug": "tepali",
-      "one_liner": "AI EMR for medspas & wellness clinics",
+      "one_liner": "AI EMR for medical aesthetics & wellness",
       "long_description": "Tepali is the AI EMR for medspas & wellness clinics. Front desk, charting, point of sale, and marketing in one system, with an AI employee that books new leads, charts every appointment, and brings past clients back.",
       "website": "https://tepali.com",
       "yc_url": "https://www.ycombinator.com/companies/tepali",
@@ -18670,7 +18810,7 @@
       "name": "Tergle",
       "slug": "tergle",
       "one_liner": "AI Agents for Audit",
-      "long_description": "Tergle builds AI to replace Auditors. ",
+      "long_description": "AI Agents for Audit",
       "website": "https://tergle.com",
       "yc_url": "https://www.ycombinator.com/companies/tergle",
       "yc_batch": "Winter 2025",
@@ -18741,34 +18881,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7fa956db067e60a154f7f7120ecc4d4cdc7062f.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-the-letter-company",
-      "name": "The Letter Company",
-      "slug": "the-letter-company",
-      "one_liner": "The world's first coding agent, harness, & IDE for growth engineering.",
-      "long_description": "The Letter Company creates engineering tools and models purpose-built for growth. ",
-      "website": "https://letter.dev",
-      "yc_url": "https://www.ycombinator.com/companies/the-letter-company",
-      "yc_batch": "Fall 2026",
-      "team_size": 6,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "Developer Tools",
-        "SaaS",
-        "Web Development"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ab0840253398a6b68d120c27e1324adecaa262.png",
       "sponsorship": null
     },
     {
@@ -18960,7 +19072,7 @@
       "id": "yc-tire-swing",
       "name": "Tire Swing",
       "slug": "tire-swing",
-      "one_liner": "AI Compliance for Affordable Housing",
+      "one_liner": "The AI Affordable Housing Platform",
       "long_description": "Tire Swing uses AI to power resident and applicant eligibility evaluations for affordable housing.\r\n\r\nOur software manages the resident certification and recertification process end-to-end for public and private properties supported by Project Based Rental Assistance, Low Income Housing Tax Credit, and Housing Vouchers. It serves as a drop-in replacement for third-party consultants and auditors, and helps compliance staff complete their work faster and more accurately. ",
       "website": "https://gettireswing.com",
       "yc_url": "https://www.ycombinator.com/companies/tire-swing",
@@ -20245,7 +20357,7 @@
       "yc_batch": "Winter 2021",
       "team_size": 18,
       "stage": "Early",
-      "status": "Active",
+      "status": "Acquired",
       "industries": [
         "Healthcare",
         "Consumer Health and Wellness"
