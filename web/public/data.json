@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T16:39:17+00:00",
-  "company_count": 762,
+  "generated_at": "2026-11-23T18:53:30+00:00",
+  "company_count": 764,
   "companies": [
     {
       "id": "yc-222",
@@ -844,6 +844,35 @@
       "sponsorship": null
     },
     {
+      "id": "yc-bravi",
+      "name": "Bravi",
+      "slug": "bravi",
+      "one_liner": "AI operating system for home improvement manufacturers",
+      "long_description": "Bravi helps manufacturers of windows, doors, and other home improvement products turn fragmented technical and commercial data into tools their teams can use instantly. \r\n\r\nOur AI platform helps sales, customer service, and field teams answer technical questions, configure complex products, generate quotes, and retrieve order information by connecting to existing documentation, catalogs, ERP, CRM, and pricing systems.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+      "website": "https://www.bravi.app/",
+      "yc_url": "https://www.ycombinator.com/companies/bravi",
+      "yc_batch": "Fall 2025",
+      "team_size": 8,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "B2B",
+        "Manufacturing",
+        "Automation",
+        "Home Services",
+        "AI Assistant"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/293f67239064e77044472c7d1555aed47f6899c7.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-buoyant-aero",
       "name": "Buoyant Aero",
       "slug": "buoyant-aero",
@@ -1563,6 +1592,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-cova",
+      "name": "Cova",
+      "slug": "cova",
+      "one_liner": "Financial infrastructure for family caregiving",
+      "long_description": "Millions of Americans already care for someone they love. We're building a world where they can get paid for it, with the technology to make the process simple, the support to help them provide better care, and a model that gives more back to those doing the real work.",
+      "website": "https://cova.care/",
+      "yc_url": "https://www.ycombinator.com/companies/cova",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "Consumer Health Services",
+        "Healthcare",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-coverage-cat",
       "name": "Coverage Cat",
       "slug": "coverage-cat",
@@ -1644,6 +1700,35 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-crowdvolt",
+      "name": "CrowdVolt",
+      "slug": "crowdvolt",
+      "one_liner": "The integration layer for live events infrastructure ",
+      "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
+      "website": "https://crowdvolt.com/",
+      "yc_url": "https://www.ycombinator.com/companies/crowdvolt",
+      "yc_batch": "Winter 2024",
+      "team_size": 12,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Marketplace",
+        "Entertainment",
+        "Social Network",
+        "Music",
+        "Infrastructure"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
       "sponsorship": null
     },
     {
@@ -1817,7 +1902,7 @@
       "name": "Double",
       "slug": "doublehq",
       "one_liner": "We make software for bookkeepers.",
-      "long_description": "Double makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
+      "long_description": "Double makes AI that automates all bookkeeping and accounting work. We're trusted by thousands of accounting firms across the country, including 20+ of the top 100.\r\n\r\nOur product connects directly to QuickBooks, Xero, Sage, or NetSuite and automates all bookkeeping: transaction categorization, journal entries, accruals, reconciliation, review, and reporting.\r\n\r\nAs a result, teams on Double close their books up to 10 days faster and free their staff to focus on client service.",
       "website": "https://www.doublehq.com",
       "yc_url": "https://www.ycombinator.com/companies/doublehq",
       "yc_batch": "Summer 2021",
@@ -1867,6 +1952,33 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/45fd3c83a50a1e06006ac31f6da21274baf8970a.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-dripos",
+      "name": "Dripos",
+      "slug": "dripos",
+      "one_liner": "The only piece of software a coffee shop needs to operate.",
+      "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
+      "website": "https://dripos.com",
+      "yc_url": "https://www.ycombinator.com/companies/dripos",
+      "yc_batch": "Summer 2020",
+      "team_size": 35,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
       "sponsorship": null
     },
     {
@@ -1987,8 +2099,8 @@
       "id": "yc-ellipsis",
       "name": "Ellipsis",
       "slug": "ellipsis",
-      "one_liner": "Managed Agent platform ",
-      "long_description": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, harness, prompts, and tools. We'll handle the infrastructure.\r\n\r\nDocumentation: https://www.ellipsis.dev/docs",
+      "one_liner": "Model Agnostic Managed Agent Platform",
+      "long_description": "Ellipsis is a Managed Agent Platform for Developers. Spawn, manage, and govern cloud agents for Software Factories, custom Code Review, and Background Tasks. You choose the model, prompts, and tools. We'll handle the infrastructure, permissions, and budgets. Key features:\r\n\r\n- Define your agents in code\r\n- Model agnostic Agents API for spawning sessions\r\n- Fully customizable VMs (install any binary)\r\n- Configure session-level and fleet-wide permissions\r\n- Full access to agent stdout, stderr\r\n\r\nDocumentation: https://www.ellipsis.dev/docs",
       "website": "https://ellipsis.dev",
       "yc_url": "https://www.ycombinator.com/companies/ellipsis",
       "yc_batch": "Winter 2024",
@@ -3061,9 +3173,9 @@
       "id": "yc-kelai",
       "name": "KelAI",
       "slug": "kelai",
-      "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
-      "long_description": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. \r\n\r\nInvestment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
-      "website": "https://kelaitech.com/",
+      "one_liner": "AI For Quantitative Finance",
+      "long_description": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is a quant finance AI research lab bringing together specialized research agents and expert-led evaluations to close the trust gap in AI modeling for financial markets.",
+      "website": "https://kelai.ai",
       "yc_url": "https://www.ycombinator.com/companies/kelai",
       "yc_batch": "Spring 2026",
       "team_size": 3,
@@ -3413,11 +3525,36 @@
       "sponsorship": null
     },
     {
+      "id": "yc-maintouch",
+      "name": "Maintouch",
+      "slug": "maintouch",
+      "one_liner": "Make more $$$ with SEO and AEO",
+      "long_description": "We help you turn SEO and AEO into your best growth channel. I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
+      "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
+      "yc_url": "https://www.ycombinator.com/companies/maintouch",
+      "yc_batch": "Summer 2023",
+      "team_size": 15,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Marketing"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": true,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-joinmarble",
       "name": "Marble",
       "slug": "joinmarble",
       "one_liner": "The autonomous back-of-house for restaurants.",
-      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Computer vision and voice AI capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
+      "long_description": "Marble is the first AI-native operating system for the restaurant back-of-house. \r\n\r\nRestaurants, cafes and bars still run on a patchwork of disconnected point solutions, spreadsheets, clipboards and tribal knowledge, which costs the industry billions each year in stockouts, food waste, and lost profit. \r\n\r\nMarble replaces that entire stack with one system. Voice AI and computer vision capture real-time inventory levels 90% faster than manual counts, ML models forecast item-level demand at 97% accuracy, and AI agents run dozens of end-to-end workflows autonomously, from procurement and invoice reconciliation to scheduling, food prep, menu engineering, and more.",
       "website": "https://joinmarble.ai/",
       "yc_url": "https://www.ycombinator.com/companies/joinmarble",
       "yc_batch": "Summer 2026",
@@ -4365,11 +4502,11 @@
       "name": "Photonium",
       "slug": "photonium",
       "one_liner": "AI-Powered Optical Consulting & Software",
-      "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack \u2014\u00a0from optimization, verification, sourcing, to prototyping \u2014 for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
+      "long_description": "Photonium builds AI software to automate optical system design. Supercharge optical teams with intelligent tooling to reduce costs and deliver faster. We handle the full design stack \u2014\u00a0from optimization, verification, sourcing, to prototyping \u2014 for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
       "website": "https://www.photoniumoptics.com/",
       "yc_url": "https://www.ycombinator.com/companies/photonium",
       "yc_batch": "Spring 2025",
-      "team_size": 5,
+      "team_size": 6,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -5105,33 +5242,6 @@
       ],
       "is_hiring": true,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-runway",
-      "name": "Runway",
-      "slug": "runway",
-      "one_liner": "Easier and more reliable mobile app releases for teams.",
-      "long_description": "",
-      "website": "https://runway.team",
-      "yc_url": "https://www.ycombinator.com/companies/runway",
-      "yc_batch": "Winter 2021",
-      "team_size": 20,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "SaaS",
-        "B2B"
-      ],
-      "locations": [
-        "New York City, NY, USA; New York, NY, USA; Remote"
-      ],
-      "is_hiring": true,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a792f803f1d7ccad7da795b30ca7b07eb81a1cdc.png",
       "sponsorship": null
     },
     {
@@ -6173,7 +6283,7 @@
       "name": "Type",
       "slug": "type",
       "one_liner": "AI-native storytelling studio.",
-      "long_description": "Type.ai is the AI-native storytelling studio for independent authors and creators. We help people craft books, novels, screenplays, and other types of long-form, creative fiction.",
+      "long_description": "Type.ai is an AI story writer and editor for fantasy, sci-fi, romance, and fanfiction authors. We help authors turn their premise or manuscript in a ready-to-publish book.\r\n\r\nType's workflow includes a familiar chat assistant, editable story Notes that keep track of characters, relationships, and plot threads as a user's story grows, and customizable writing styles that help an author develop a unique voice.\r\n\r\nMore than 300,000 writers, from NY Times bestsellers to first-time authors, have started a story in Type.ai.",
       "website": "https://type.ai",
       "yc_url": "https://www.ycombinator.com/companies/type",
       "yc_batch": "Winter 2023",
@@ -6893,8 +7003,8 @@
       "id": "yc-affinity",
       "name": "Affinity",
       "slug": "affinity",
-      "one_liner": "A compliance training platform built for regulated industries.",
-      "long_description": "Affinity is a compliance training platform designed specifically for regulated industries. We\u2019ve previously built a fintech from inception to a successful exit and are leveraging that experience to solve the learning management needs of regulated tech companies from growth stage to large enterprise banks.\r\n",
+      "one_liner": "The AI-powered internal compliance platform for regulated companies",
+      "long_description": "Affinity is the AI-powered internal compliance platform for fintechs, banks, and other regulated companies. Teams use Affinity to manage policies and procedures, train employees, and stay audit-ready for bank partners, auditors, and regulators - all in one place.\r\n\r\nCompliance teams centralize policies with version control, owners, review cycles, and approvals. Our AI tools turn internal documentation into on-demand guidance for every employee (Cora) and generate custom training in minutes (Imagine). Off-the-shelf courses cover financial services regulation, information security, and HR, and one-click reporting gives partners and examiners the records they ask for. Affinity is SOC 2 Type 2 compliant and integrates with Slack, Okta, Rippling, Google Workspace, and more.\r\n\r\nCompliance teams at leading fintechs rely on Affinity, with more than 150,000 training modules completed. We were early team members at Bread, a pay-over-time fintech we helped build from inception through its acquisition, and we built Affinity to be the compliance platform we wished we'd had.",
       "website": "https://itsaffinity.com",
       "yc_url": "https://www.ycombinator.com/companies/affinity",
       "yc_batch": "Summer 2023",
@@ -6915,7 +7025,7 @@
         "New York City, NY, USA; Remote"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/883b7bc8ea92895dbca7a59f5ad014c489f3729a.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f9f37fe0b1cbbcb65dbd97ca7f2b6c1e5135543.png",
       "sponsorship": null
     },
     {
@@ -8355,35 +8465,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-bravi",
-      "name": "Bravi",
-      "slug": "bravi",
-      "one_liner": "AI operating system for home improvement manufacturers",
-      "long_description": "Bravi helps manufacturers of windows, doors, and other home improvement products turn fragmented technical and commercial data into tools their teams can use instantly. \r\n\r\nOur AI platform helps sales, customer service, and field teams answer technical questions, configure complex products, generate quotes, and retrieve order information by connecting to existing documentation, catalogs, ERP, CRM, and pricing systems.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
-      "website": "https://www.bravi.app/",
-      "yc_url": "https://www.ycombinator.com/companies/bravi",
-      "yc_batch": "Fall 2025",
-      "team_size": 8,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "B2B",
-        "Manufacturing",
-        "Automation",
-        "Home Services",
-        "AI Assistant"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/293f67239064e77044472c7d1555aed47f6899c7.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-bright",
       "name": "Bright",
       "slug": "bright",
@@ -9644,33 +9725,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-cova",
-      "name": "Cova",
-      "slug": "cova",
-      "one_liner": "Financial infrastructure for family caregiving",
-      "long_description": "Millions of Americans already care for someone they love. We're building a world where they can get paid for it, with the technology to make the process simple, the support to help them provide better care, and a model that gives more back to those doing the real work.",
-      "website": "https://cova.care/",
-      "yc_url": "https://www.ycombinator.com/companies/cova",
-      "yc_batch": "Summer 2026",
-      "team_size": 2,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Healthcare"
-      ],
-      "tags": [
-        "Consumer Health Services",
-        "Healthcare",
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88cf729487706988d23e57fa307a54ba446b835.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-covetly",
       "name": "Covetly",
       "slug": "covetly",
@@ -9799,35 +9853,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49776f5bec547c5f4a2891fe129c0428f2f4dbba.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-crowdvolt",
-      "name": "CrowdVolt",
-      "slug": "crowdvolt",
-      "one_liner": "The integration layer for live events infrastructure ",
-      "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
-      "website": "https://crowdvolt.com/",
-      "yc_url": "https://www.ycombinator.com/companies/crowdvolt",
-      "yc_batch": "Winter 2024",
-      "team_size": 12,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Consumer"
-      ],
-      "tags": [
-        "Marketplace",
-        "Entertainment",
-        "Social Network",
-        "Music",
-        "Infrastructure"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
       "sponsorship": null
     },
     {
@@ -10386,33 +10411,6 @@
       "sponsorship": null
     },
     {
-      "id": "yc-dripos",
-      "name": "Dripos",
-      "slug": "dripos",
-      "one_liner": "The only piece of software a coffee shop needs to operate.",
-      "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
-      "website": "https://dripos.com",
-      "yc_url": "https://www.ycombinator.com/companies/dripos",
-      "yc_batch": "Summer 2020",
-      "team_size": 35,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "Fintech",
-        "Payments"
-      ],
-      "tags": [
-        "Fintech",
-        "SaaS"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
-      "sponsorship": null
-    },
-    {
       "id": "yc-easol",
       "name": "Easol",
       "slug": "easol",
@@ -10502,21 +10500,22 @@
       "id": "yc-elimentary",
       "name": "Elimentary",
       "slug": "elimentary",
-      "one_liner": "Agents that run middle/back-office operations for Private Capital",
-      "long_description": "Elimentary\u2019s is building AI agents that can run middle/back-office operations for private capital managers, starting with structured credit. Most private capital managers focus primarily on sourcing and capital deployment. Meanwhile post-investment operations receive step-child treatment. While AUMs have increased exponentially over the last decade, operations continue to be painfully supported by humans using spreadsheets and emails. Things have started to break leading to investment write-offs, fines, penalties, and sometimes lost LP relationships. \r\n\r\nOur agents can run these operations (borrowing base calcs, cracking loan tapes, NAV calculations, etc.) end to end autonomously. For one of our customers, our agents cut a 20-hour ops process to 30 minutes. It saved 90% of the manual hours, translating to $150k in annual savings.",
+      "one_liner": "AI agents that run middle and back office for private credit funds",
+      "long_description": "Elimentary automates the recurring middle and back office work of private credit funds.\r\nEvery month, fund teams receive loan files, credit agreements, bank statements and servicer reports. Analysts spend hours turning these documents into usable data, checking borrower obligations, reconciling accounts and preparing reports across spreadsheets and email.\r\n\r\nElimentary brings this work into a coordinated team of AI agents. They standardize loan data, monitor covenants, reconcile financial records and prepare reporting for investors, fund administrators and other stakeholders.\r\n\r\nFor example, our reconciliation agents compare bank records with the fund administrator\u2019s records and prepare the reconciliation for the finance team to review. People retain final sign-off, helping funds handle more operational work without adding headcount at the same pace. ",
       "website": "https://www.elimentary.com",
       "yc_url": "https://www.ycombinator.com/companies/elimentary",
       "yc_batch": "Fall 2026",
-      "team_size": 5,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "Fintech",
-        "Asset Management"
+        "Fintech"
       ],
       "tags": [
-        "FinOps",
-        "Enterprise"
+        "Fintech",
+        "B2B",
+        "Enterprise",
+        "AI"
       ],
       "locations": [
         "New York City, NY, USA"
@@ -11240,6 +11239,29 @@
       "sponsorship": null
     },
     {
+      "id": "yc-foaster",
+      "name": "Foaster",
+      "slug": "foaster",
+      "one_liner": "AI infrastructure for consulting teams to run engagements with agents",
+      "long_description": "Foaster is building the AI infrastructure for consulting teams to run engagements with agents.\r\n\r\nConsultants will soon direct more intelligence than any firm could ever hire. As agents take on entire workstreams, consultants will guide their work, build trust with clients, and lead change. This intelligence explosion will expand what a firm can deliver: deeper investigations, bigger problems, and entirely new types of engagements.\r\n\r\nFoaster builds and operates the AI infrastructure behind these engagements. Our Forward Deployed Engineers configure and deploy Foaster around each firm\u2019s methods, knowledge, and workflows, in the firm\u2019s environment or on-premise at its clients. Once deployed, consultants run their engagements on Foaster, while our dedicated team maintains the infrastructure and advances its capabilities through applied research and benchmarking on real consulting work.\r\n\r\nEach engagement builds a knowledge graph of the client that can be reused and extended in future work. Approved lessons strengthen the firm\u2019s methods, while advances in models expand its capabilities. Over time, each firm builds its own intelligence layer, grounded in its expertise and the organizations it serves.\r\n\r\nWe developed this approach by running more than 20 consulting engagements ourselves during our time at Y Combinator. Using AI-led interviews at scale and autonomous process mapping, our agents investigated organizations in far greater depth than a human team could. But they could not automate the human side of an engagement: building trust, navigating difficult decisions, and leading change. So we are now bringing that technology to consulting teams.",
+      "website": "https://foaster.ai",
+      "yc_url": "https://www.ycombinator.com/companies/foaster",
+      "yc_batch": "Spring 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-forage-mail",
       "name": "Forage Mail",
       "slug": "forage-mail",
@@ -11302,7 +11324,7 @@
       "yc_url": "https://www.ycombinator.com/companies/formal",
       "yc_batch": "Summer 2020",
       "team_size": 25,
-      "stage": "Early",
+      "stage": "Growth",
       "status": "Active",
       "industries": [
         "B2B",
@@ -11891,8 +11913,8 @@
       "id": "yc-getcho",
       "name": "Getcho",
       "slug": "getcho",
-      "one_liner": "The reliability platform for last-mile delivery",
-      "long_description": "Getcho is a local delivery platform for high-value goods. \r\n\r\nWe are building a high-reliability delivery network on top of high-volume, unreliable fleets, just like how TCP builds reliable end-to-end networking on top of an unreliable base network (IP).",
+      "one_liner": "Same day delivery and shipping for stores, brands and 3PLs",
+      "long_description": "Getcho runs same day delivery, local distribution and shipping for stores, brands and 3PLs, on the right fleet for every order.\r\n\r\nStores and 3PLs connect Shopify, their POS or warehouse system, and Getcho books the right courier for each order (Uber Direct, DoorDash Drive, Roadie, local couriers and freight), then handles tracking texts, live monitoring, a delivery analysis on every drop off, ID checks and claims. Customers include Janovic, 67 Wine, Myers of Keswick and Parsel.",
       "website": "https://getcho.app/",
       "yc_url": "https://www.ycombinator.com/companies/getcho",
       "yc_batch": "Fall 2024",
@@ -12008,10 +12030,10 @@
       "slug": "godpack",
       "one_liner": "The marketplace for internet culture.",
       "long_description": "",
-      "website": "https://godpack.gg/",
+      "website": "http://godpack.com/",
       "yc_url": "https://www.ycombinator.com/companies/godpack",
       "yc_batch": "Winter 2027",
-      "team_size": 5,
+      "team_size": 3,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -12123,7 +12145,7 @@
       "website": "http://www.guesty.com",
       "yc_url": "https://www.ycombinator.com/companies/guesty",
       "yc_batch": "Winter 2014",
-      "team_size": 700,
+      "team_size": 800,
       "stage": "Growth",
       "status": "Active",
       "industries": [
@@ -12295,7 +12317,7 @@
       "website": "https://haystack.sh/",
       "yc_url": "https://www.ycombinator.com/companies/haystackeditor",
       "yc_batch": "Summer 2024",
-      "team_size": 2,
+      "team_size": 1,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -13146,8 +13168,8 @@
       "id": "yc-junction-bioscience",
       "name": "Junction Bioscience",
       "slug": "junction-bioscience",
-      "one_liner": "AI Hypothesis Engine for Molecular Discovery",
-      "long_description": "Junction Bioscience is building an autonomous AI scientist to navigate the discovery of transformative medicines. Our scientific hypothesis engine iterates upon breakthrough chemistry from the laboratory to achieve clarity and control over the molecular basis of disease. We focus on the intersection of neuroinflammation and immunology where uncommon molecular insights position us to develop best-in-class therapies for millions of patients in need.",
+      "one_liner": "Industrializing structural biology: from months to minutes",
+      "long_description": "Junction measures molecular structures with light, in water, at room temperature, in minutes instead of months. We're building the world's largest source of structural data for pharma, agtech, and AI.",
       "website": "https://www.junction.bio/",
       "yc_url": "https://www.ycombinator.com/companies/junction-bioscience",
       "yc_batch": "Winter 2024",
@@ -13156,9 +13178,15 @@
       "status": "Active",
       "industries": [
         "Healthcare",
-        "Therapeutics"
+        "Drug Discovery and Delivery"
       ],
-      "tags": [],
+      "tags": [
+        "AI-powered Drug Discovery",
+        "Hard Tech",
+        "B2B",
+        "Biotech",
+        "Drug discovery"
+      ],
       "locations": [
         "New York City, NY, USA"
       ],
@@ -13663,8 +13691,8 @@
       "id": "yc-letter-dev",
       "name": "Letter",
       "slug": "letter-dev",
-      "one_liner": "The world's first coding agent, IDE & infra for growth engineering.",
-      "long_description": "The Letter Company issues autonomous pull requests to scale websites, agent experiences, and so much more. Today, we solve modern issues like agentic conviction, inbound conversion, SEO, GEO, etc. However, we believe as agents become more truth-seeking, spammy marketing strategies will fall apart in favor of benchmark and evidence-based messaging. These are engineering problems that only a purpose-built coding agent can solve. ",
+      "one_liner": "The coding agent and IDE for the agentic internet",
+      "long_description": "The Internet is changing. The median website visitor is no longer a human ... it's an agent. Letterpress-1 is the world's first coding agent built for the future of the agentic internet. First, it handles issues of the past: website expansion, SEO/GEO, de-anonymization, inbound conversion, etc. Then, it tackles the biggest problem of the future: evidence creation for agents. Letterpress-1 harnesses Letter, an infrastructure platform with DNS, servers, sandboxes, and databases. With over 100+ customers and thousands of pull requests, Letterpress-1 is slowly reshaping the Internet, sitemap by sitemap. ",
       "website": "https://letter.dev",
       "yc_url": "https://www.ycombinator.com/companies/letter-dev",
       "yc_batch": "Fall 2026",
@@ -14111,31 +14139,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d439fe7ad80a3abb806e8faf064081db9c56a21.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-maintouch",
-      "name": "Maintouch",
-      "slug": "maintouch",
-      "one_liner": "Make more $$$ with SEO and AEO",
-      "long_description": "We help you turn SEO and AEO into your best growth channel. I grew up working at my family's 9-figure SEO agency and learned how to automate everything. That's what we do for people now.",
-      "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
-      "yc_url": "https://www.ycombinator.com/companies/maintouch",
-      "yc_batch": "Summer 2023",
-      "team_size": 15,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B"
-      ],
-      "tags": [
-        "Marketing"
-      ],
-      "locations": [
-        "New York City, NY, USA"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8503fa1fa8dc82e542107db7db1968d3e8c1d09b.png",
       "sponsorship": null
     },
     {
@@ -14745,7 +14748,7 @@
         "New York City, NY, USA"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ca14064cb81ecebe2c5dd03339d7a44f1e9320f.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/38fd308146451e43151aa665382eac217d1f3ccf.png",
       "sponsorship": null
     },
     {
@@ -14976,7 +14979,7 @@
       "slug": "necto",
       "one_liner": "ISP starter kit",
       "long_description": "Everything one would need to start an ISP",
-      "website": "http://joinnecto.com",
+      "website": "",
       "yc_url": "https://www.ycombinator.com/companies/necto",
       "yc_batch": "Winter 2018",
       "team_size": 4,
@@ -15519,8 +15522,8 @@
       "id": "yc-ontra-mobility",
       "name": "Ontra Mobility",
       "slug": "ontra-mobility",
-      "one_liner": "Platform for cities to optimize transit ",
-      "long_description": "Ontra Mobility is founded by two former Googler engineers with PhDs in operations research. Ontra helps cities and other transit agencies increase ridership through data-driven planning and real-time optimization. The founders developed the software that powered MARTA Reach in Atlanta, GA and CAT SMART in Savannah, GA.",
+      "one_liner": "AI-powered transit planning software",
+      "long_description": "Ontra Mobility builds AI software that helps public transit agencies decide what service to run. It generates routes and service options, models travel demand, and helps planners compare tradeoffs across ridership, cost, and rider convenience. Agencies use Ontra to evaluate recurring service changes and major network redesigns, with planners controlling the goals, constraints, and final decisions.",
       "website": "https://www.ontramobility.com",
       "yc_url": "https://www.ycombinator.com/companies/ontra-mobility",
       "yc_batch": "Summer 2024",
@@ -15541,7 +15544,7 @@
         "New York City, NY, USA; Remote"
       ],
       "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/232f7609d7e1de5c6a2ce76251083a8161f16672.png",
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/89bc28c355649ce54aa36fd562b2b0748e9750e1.png",
       "sponsorship": null
     },
     {
@@ -16328,8 +16331,8 @@
       "id": "yc-pillar",
       "name": "Pillar",
       "slug": "pillar",
-      "one_liner": "A white-label care enablement platform",
-      "long_description": "Pillar is designed to solve healthcare\u2019s longitudinal engagement problem through a combination of our SOC 2-certified, HIPAA-compliant platform and health coach workforce. Our white-label infrastructure enables companies to guide patients from outreach and activation through to flexible microsites and automated digital pathways including content, services, vendors and forms. Together with our in-house network of 1,200+ health coaches, Pillar partners drive positive outcomes through scalable digital care programs focused on health education and care navigation to chronic condition management.",
+      "one_liner": "Integrating health coaching into everyday care",
+      "long_description": "Pillar was founded to integrate health education and behavior change support into everyday care. The company partnered with 29 healthcare organizations to power digital coaching and clinical programs ranging from preventative health and chronic disease management to expert-in-the-loop AI evaluation. Partners included Amazon One Medical, Samsung Health, Quest Diagnostics and digital health unicorns. Through this work, Pillar emerged as a leader in the health coaching space with peer-reviewed research published in the American Journal of Lifestyle Medicine and an industry report presented at the American College of Lifestyle Medicine.",
       "website": "https://withpillar.com",
       "yc_url": "https://www.ycombinator.com/companies/pillar",
       "yc_batch": "Summer 2021",
@@ -16465,6 +16468,33 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7957008ca3bafd61f38b146c1fef179229d84a4.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-plusidentity",
+      "name": "PlusIdentity",
+      "slug": "plusidentity",
+      "one_liner": "Password manager for startups",
+      "long_description": "Password manager for startups",
+      "website": "https://www.plusidentity.com",
+      "yc_url": "https://www.ycombinator.com/companies/plusidentity",
+      "yc_batch": "Summer 2021",
+      "team_size": 1,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "B2B",
+        "Security"
+      ],
+      "tags": [
+        "Security",
+        "Cybersecurity"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a41d70cadc12821da00066e996901d285eb5ab36.png",
       "sponsorship": null
     },
     {
@@ -16817,32 +16847,6 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f48caee61173c5c2660bdd99d7dd475bb82a36c.png",
-      "sponsorship": null
-    },
-    {
-      "id": "yc-rgi-labs",
-      "name": "RGI Labs",
-      "slug": "rgi-labs",
-      "one_liner": "Robust & recursively self-improving general intelligence",
-      "long_description": "RGI's mission is to build the world's first robust & recursively self-improving general intelligence. We're building the environment for intelligent systems to be able to develop in such a way where they can: \r\n- Recursively self-improve across all modifiable planes including architecture, parameters, scaffolding, etc. \r\n- Continually learn from online experiences and update its parameters while maintaining robustness against catastrophic failures. \r\n- Use its robust general intelligence of the world to acquire new skills in few or zero shots. \r\n- Use its world model to predict future states and plan via multi-step rollout. \r\n- Operate on a learned latent space that is compressed and feature-rich, including a robust latent space for reasoning.",
-      "website": "https://www.rgilabs.com",
-      "yc_url": "https://www.ycombinator.com/companies/rgi-labs",
-      "yc_batch": "Summer 2021",
-      "team_size": 1,
-      "stage": "Early",
-      "status": "Active",
-      "industries": [
-        "B2B",
-        "Engineering, Product and Design"
-      ],
-      "tags": [
-        "AI"
-      ],
-      "locations": [
-        "New York City, NY, USA; Remote"
-      ],
-      "is_hiring": false,
-      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/470c089d5fdf6f7b0bfaf2a2daa45b2ad5a4af33.png",
       "sponsorship": null
     },
     {
@@ -17282,7 +17286,7 @@
       "name": "Rezora IO",
       "slug": "rezora-io",
       "one_liner": "Shopify for AI voice agents: home services live in 10 minutes",
-      "long_description": "Rezora IO is an AI voice platform for real estate and home services that answers, qualifies, and schedules every lead, automatically filling your calendar while you focus on closing.",
+      "long_description": "Rezora is the first AI voice platform that gives HVAC, plumbing, roofing and other home service companies self improving AI receptionists with setup and launch taking only 10 minutes. They answer the customer's questions, qualify the job, and book it on your calendar. ",
       "website": "https://rezora.io/",
       "yc_url": "https://www.ycombinator.com/companies/rezora-io",
       "yc_batch": "Fall 2026",
@@ -17290,9 +17294,11 @@
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B"
+        "B2B",
+        "Operations"
       ],
       "tags": [
+        "Customer Service",
         "Home Services",
         "AI",
         "Conversational AI",
@@ -17594,6 +17600,33 @@
       "sponsorship": null
     },
     {
+      "id": "yc-runway",
+      "name": "Runway",
+      "slug": "runway",
+      "one_liner": "Easier and more reliable mobile app releases for teams.",
+      "long_description": "",
+      "website": "https://runway.team",
+      "yc_url": "https://www.ycombinator.com/companies/runway",
+      "yc_batch": "Winter 2021",
+      "team_size": 20,
+      "stage": "Early",
+      "status": "Acquired",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "locations": [
+        "New York City, NY, USA; New York, NY, USA; Remote"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/a792f803f1d7ccad7da795b30ca7b07eb81a1cdc.png",
+      "sponsorship": null
+    },
+    {
       "id": "yc-ruth-health",
       "name": "Ruth Health",
       "slug": "ruth-health",
@@ -17845,7 +17878,7 @@
       "website": "https://seiright.com/",
       "yc_url": "https://www.ycombinator.com/companies/sei-ai",
       "yc_batch": "Winter 2022",
-      "team_size": null,
+      "team_size": 8,
       "stage": "Early",
       "status": "Active",
       "industries": [
@@ -19072,8 +19105,8 @@
       "id": "yc-tire-swing",
       "name": "Tire Swing",
       "slug": "tire-swing",
-      "one_liner": "The AI Affordable Housing Platform",
-      "long_description": "Tire Swing uses AI to power resident and applicant eligibility evaluations for affordable housing.\r\n\r\nOur software manages the resident certification and recertification process end-to-end for public and private properties supported by Project Based Rental Assistance, Low Income Housing Tax Credit, and Housing Vouchers. It serves as a drop-in replacement for third-party consultants and auditors, and helps compliance staff complete their work faster and more accurately. ",
+      "one_liner": "Autonomous leasing and eligibility starting with affordable housing",
+      "long_description": "Tire Swing (YC F26) is an AI-powered leasing and eligibility platform for Multifamily rentals, starting with Affordable Housing. Tire Swing enables increased revenues through faster move-ins and decreased labor costs, which are especially high in Affordable Housing.\r\n\r\nWe signed five customers in the last 3 months growing from zero to 100k ARR. Two of these are among the largest affordable housing developers in the country, and we are actively rolling out to their combined 35k units. Upon fully ramping to all our customers, we would be at $1M ARR.\r\n\r\nTire Swing is co-founded by two college friends who were both Princeton CS engineers. Lucas drove $100M+ GTV through optimizing the home page of Instacart, Paul led cybersecurity investigations into attacks perpetrated by Russian and Chinese state actors.",
       "website": "https://gettireswing.com",
       "yc_url": "https://www.ycombinator.com/companies/tire-swing",
       "yc_batch": "Fall 2026",
@@ -19081,8 +19114,7 @@
       "stage": "Early",
       "status": "Active",
       "industries": [
-        "B2B",
-        "Legal"
+        "B2B"
       ],
       "tags": [
         "GovTech",
@@ -19878,6 +19910,32 @@
       ],
       "is_hiring": false,
       "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/04042feea68cfa6b3181b5712c149970e24f178f.png",
+      "sponsorship": null
+    },
+    {
+      "id": "yc-verdant",
+      "name": "Verdant",
+      "slug": "verdant",
+      "one_liner": "AI Agents to Make Local Gov Efficient",
+      "long_description": "Verdant sells AI agents to local government to make them more efficient. We're starting with permitting, the highest-volume workflow in local government that requires judgment. \r\n\r\nMany startups fail to sell to government, but not us - we've processed 200+ applications and gone from 0 to 4 paid deployments across 4 states with an average close time of 4 weeks.",
+      "website": "https://www.verdantapp.com/",
+      "yc_url": "https://www.ycombinator.com/companies/verdant",
+      "yc_batch": "Summer 2026",
+      "team_size": 2,
+      "stage": "Early",
+      "status": "Active",
+      "industries": [
+        "Government"
+      ],
+      "tags": [
+        "GovTech",
+        "AI"
+      ],
+      "locations": [
+        "New York City, NY, USA"
+      ],
+      "is_hiring": false,
+      "logo_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de79d62c0767417bcc285f4339875d51c92131b.png",
       "sponsorship": null
     },
     {
